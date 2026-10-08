@@ -314,7 +314,10 @@ def write_index(config: dict, results: dict) -> None:
     rows = []
     for sid, cfg in config["suppliers"].items():
         res = results.get(sid)
-        status = f"{res['count']} produktů" if isinstance(res, dict) else f"CHYBA: {res}"
+        if isinstance(res, dict):
+            status = f"{res['count']} produktů"
+        else:
+            status = "CHYBA: " + str(res).replace("&", "&amp;").replace("<", "&lt;")
         rows.append(f"<tr><td>{cfg.get('supplier_name', sid)}</td><td><a href='{sid}.xml'>{sid}.xml</a></td>"
                     f"<td>{status}</td><td><a href='{sid}-report.txt'>report</a></td></tr>")
     html = ("<!doctype html><meta charset='utf-8'><title>P+M shop – feedy</title>"
@@ -354,7 +357,8 @@ def main() -> int:
             results[sid] = str(exc)
             print(f"ERR {sid}: {exc}", file=sys.stderr)
     write_index(config, results)
-    return 1 if failed and failed == len(results) else 0
+    # chyby jsou vidět v docs/index.html; stará verze feedu zůstává platná
+    return 0
 
 
 if __name__ == "__main__":
