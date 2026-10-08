@@ -1,0 +1,49 @@
+name: Převod feedů pro Shoptet
+
+on:
+  schedule:
+    # každé 3 hodiny (čas UTC) – Shoptet si pak feed načte ve svých časech
+    - cron: "17 */3 * * *"
+  workflow_dispatch: {}      # ruční spuštění tlačítkem "Run workflow"
+  push:
+    paths:
+      - "suppliers.yml"
+      - "convert.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feedy
+  cancel-in-progress: false
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalace
+        run: pip install pyyaml==6.0.2
+
+      - name: Převod feedů
+        env:
+          FEED_URLS: ${{ secrets.FEED_URLS }}
+        run: python convert.py
+
+      - name: Uložit změny (jen když se něco změnilo)
+        run: |
+          git config user.name "pm-shop-feedy bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then
+            echo "Beze změn."
+          else
+            git commit -m "Aktualizace feedů $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi

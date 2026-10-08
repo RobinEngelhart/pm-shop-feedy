@@ -1,0 +1,110 @@
+# P+M shop – konfigurace dodavatelů
+#
+# Každý dodavatel = jeden blok pod "suppliers". Výstup: docs/<id>.xml
+# URL feedu se NEPÍŠE sem (repozitář je veřejný), ale do GitHub secretu FEED_URLS:
+#   {"vo-partner": "https://feeds.mergado.com/...", "dalsi-dodavatel": "https://..."}
+#
+# Pravidla kategorií se vyhodnocují shora dolů, platí první, které pasuje.
+# Podmínky (regulární výrazy, nezáleží na velikosti písmen):
+#   code – kód produktu, name – název, category – kategorie dodavatele, manufacturer – výrobce
+# Když je v pravidle víc podmínek, musí platit všechny.
+
+defaults:
+  fallback_category: "Ke kontrole"   # tuto kategorii v Shoptetu jednou skryjte
+  min_items: 10                      # když feed dodavatele přijde (skoro) prázdný, výstup se nepřepíše
+  pricing:
+    use_rrp: true          # použít doporučenou prodejní cenu dodavatele, pokud ji posílá
+    rrp_min_ratio: 1.3     # ...ale jen když je aspoň 1,3× nákupní cena
+    coef: 1.78             # jinak: nákupní cena × DPH × coef  (≈ 2,15× nákup bez DPH)
+    rounding: nines        # nines = ...9 Kč, whole = celé Kč, none = bez zaokrouhlení
+    vat_default: 21
+    publish_purchase_price: false   # feed je veřejný – nákupní ceny do něj nedáváme
+
+suppliers:
+
+  vo-partner:
+    supplier_name: "VO partner (Conectiv)"
+    item_tag: item
+    fields:
+      code: code
+      ean: ean
+      name: PRODUCTNAME
+      description: DESCRIPTION
+      manufacturer: MANUFACTURER
+      image: IMGURL
+      stock: inStock
+      purchase_price: price      # VO cena bez DPH
+      rrp: DMOC                  # doporučená MOC s DPH
+      vat: VAT
+      weight_g: VAHA
+      category: CATEGORYTEXT
+      gpsr: GPSR
+    skip:
+      names: ["Název"]           # neúplné položky bez dat
+      codes: ["ESV032"]          # chybně spárovaný produkt ve feedu dodavatele
+    vat_map:
+      "15": 21                   # sazba 15 % už neexistuje
+    name_fixes:
+      "Batereie": "Baterie"
+      "Bazerie": "Baterie"
+      "Wilkinosn": "Wilkinson"
+      "- ednorázový": "- jednorázový"
+      "Energizer Energizer": "Energizer"
+      "Lahtern": "Lantern"
+      "Hydratation": "Hydration"
+      "Buble Gum": "Bubble Gum"
+    text_fixes:
+      "Něměcko": "Německo"
+    manufacturer_map:
+      "Armor ALL Red bull": "Armor All"
+      "California scents": "California Scents"
+      "Bulldog skincare": "Bulldog Skincare"
+      "Wilkinson sword": "Wilkinson Sword"
+      "Hawaiian tropic": "Hawaiian Tropic"
+    categories:
+      # --- Auto-moto › Vůně do auta
+      - {code: "^(CSV|JBHG|CSP|AA00[1-6])", path: "Auto-moto > Vůně do auta > Závěsné vůně"}
+      - {code: "^(CSS|JBVS|AA00[78])",      path: "Auto-moto > Vůně do auta > Vůně do ventilace"}
+      - {code: "^CSC",                      path: "Auto-moto > Vůně do auta > Vůně v plechovce"}
+      - {code: "^CSD",                      path: "Auto-moto > Vůně do auta > Difuzéry"}
+      - {category: "Vůně do auta",          path: "Auto-moto > Vůně do auta"}
+      # --- Baterie a svítilny
+      - {code: "^EZA",          path: "Baterie a svítilny > Baterie > Baterie do naslouchadel"}
+      - {code: "^(ECR|ESA)",    path: "Baterie a svítilny > Baterie > Knoflíkové a speciální baterie"}
+      - {code: "^EL",           path: "Baterie a svítilny > Baterie > Lithiové baterie"}
+      - {code: "^EN",           path: "Baterie a svítilny > Nabíječky a akumulátory"}
+      - {code: "^(E[EUMBC]|EV)", path: "Baterie a svítilny > Baterie > Alkalické baterie"}
+      - {code: "^ESV", name: "čelov",                         path: "Baterie a svítilny > Svítilny > Čelovky"}
+      - {code: "^ESV", name: "lucerna|tripod|spot|inspection", path: "Baterie a svítilny > Svítilny > Pracovní a kempinková světla"}
+      - {code: "^ESV",          path: "Baterie a svítilny > Svítilny > Ruční svítilny"}
+      # --- Drogerie a kosmetika
+      - {code: "^HT",           path: "Drogerie a kosmetika > Opalování"}
+      - {code: "^BDK",          path: "Drogerie a kosmetika > Péče o pleť"}
+      - {code: "^BDV", name: "beard|vous",                         path: "Drogerie a kosmetika > Péče o vousy"}
+      - {code: "^BDV", name: "gel|soap|aftershave|mýdlo|balzám po", path: "Drogerie a kosmetika > Holení > Péče při holení"}
+      - {code: "^BDV",          path: "Drogerie a kosmetika > Holení > Holicí strojky a hlavice"}
+      - {code: "^BDT", name: "deo", path: "Drogerie a kosmetika > Deodoranty"}
+      - {code: "^BDT",          path: "Drogerie a kosmetika > Vlasy a tělo"}
+      - {code: "^W", name: "zastřihovač|styler|zarovnávač", path: "Drogerie a kosmetika > Holení > Zastřihovače a zarovnávače"}
+      - {code: "^W",            path: "Drogerie a kosmetika > Holení > Holicí strojky a hlavice"}
+
+  # Šablona pro dalšího dodavatele (stačí zkopírovat, upravit a nastavit enabled: true).
+  # Častý formát je Heureka XML – pak vypadá mapování takto:
+  sablona-heureka:
+    enabled: false
+    supplier_name: "Dodavatel X"
+    item_tag: SHOPITEM
+    fields:
+      code: ITEM_ID
+      ean: EAN
+      name: PRODUCTNAME
+      description: DESCRIPTION
+      manufacturer: MANUFACTURER
+      image: IMGURL
+      stock: STOCK_QUANTITY
+      purchase_price: PRICE
+      rrp: PRICE_VAT
+      vat: VAT
+      category: CATEGORYTEXT
+    categories:
+      - {category: "Autodoplňky", path: "Auto-moto > Autodoplňky"}
