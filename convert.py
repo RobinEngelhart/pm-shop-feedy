@@ -313,6 +313,8 @@ def write_report(supplier_id: str, cfg: dict, r: dict) -> None:
 def write_index(config: dict, results: dict) -> None:
     rows = []
     for sid, cfg in config["suppliers"].items():
+        if cfg.get("enabled", True) is False:
+            continue
         res = results.get(sid)
         if isinstance(res, dict):
             status = f"{res['count']} produktů"
