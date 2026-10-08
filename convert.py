@@ -310,8 +310,47 @@ def write_report(supplier_id: str, cfg: dict, r: dict) -> None:
     (OUT_DIR / f"{supplier_id}-report.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+COMBINED = "vsechny-dodavatele"
+
+
+def write_combined(config: dict) -> None:
+    """Spojí výstupy všech dodavatelů do jednoho feedu.
+    Shoptet má limit 8 automatických importů a počet denních aktualizací se sdílí
+    mezi všemi importy – jeden společný feed je proto výhodnější.
+    Když dodavatel v tomto běhu selhal, použije se jeho poslední platný výstup."""
+    shop = ET.Element("SHOP")
+    seen = {}
+    dup = []
+    for sid, cfg in config["suppliers"].items():
+        if cfg.get("enabled", True) is False:
+            continue
+        path = OUT_DIR / f"{sid}.xml"
+        if not path.exists():
+            continue
+        for si in ET.parse(path).getroot().findall("SHOPITEM"):
+            code = si.findtext("CODE")
+            if code in seen:
+                dup.append(f"{code}: {seen[code]} × {sid} (ponechán {seen[code]})")
+                continue
+            seen[code] = sid
+            shop.append(si)
+    if not len(shop):
+        return
+    ET.indent(shop, space="  ")
+    (OUT_DIR / f"{COMBINED}.xml").write_text(
+        '<?xml version="1.0" encoding="utf-8"?>\n' + ET.tostring(shop, encoding="unicode") + "\n",
+        encoding="utf-8")
+    (OUT_DIR / f"{COMBINED}-report.txt").write_text(
+        f"Produktů celkem: {len(shop)}\nStejný kód u více dodavatelů ({len(dup)}):\n"
+        + "".join(f"  - {d}\n" for d in dup), encoding="utf-8")
+
+
 def write_index(config: dict, results: dict) -> None:
     rows = []
+    if (OUT_DIR / f"{COMBINED}.xml").exists():
+        total = len(ET.parse(OUT_DIR / f"{COMBINED}.xml").getroot())
+        rows.append(f"<tr><td><b>Všichni dodavatelé (pro Shoptet)</b></td><td><a href='{COMBINED}.xml'>{COMBINED}.xml</a></td>"
+                    f"<td>{total} produktů</td><td><a href='{COMBINED}-report.txt'>report</a></td></tr>")
     for sid, cfg in config["suppliers"].items():
         if cfg.get("enabled", True) is False:
             continue
@@ -358,6 +397,8 @@ def main() -> int:
             failed += 1
             results[sid] = str(exc)
             print(f"ERR {sid}: {exc}", file=sys.stderr)
+    if not args.only:
+        write_combined(config)
     write_index(config, results)
     # chyby jsou vidět v docs/index.html; stará verze feedu zůstává platná
     return 0
