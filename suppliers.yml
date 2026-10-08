@@ -1,4 +1,4 @@
-# P+M shop – konfigurace dodavatelů (feedy pro Shoptet)
+# P+M shop – konfigurace dodavatelů pro převod feedů do Shoptetu
 #
 # Každý dodavatel = jeden blok pod "suppliers". Výstup: docs/<id>.xml
 # URL feedu se NEPÍŠE sem (repozitář je veřejný), ale do GitHub secretu FEED_URLS:
