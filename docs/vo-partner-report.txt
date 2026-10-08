@@ -1,0 +1,30 @@
+Dodavatel: VO partner (Conectiv)
+Položek ve feedu dodavatele: 286
+Produktů ve výstupu: 264 (z toho bez skladu: 27)
+Cena z doporučené ceny dodavatele: 26, cena z koeficientu: 238
+
+Vyřazené položky (22):
+  - ESV032 – vyřazeno v konfiguraci
+  - BDT018 – chybí název
+  - ECR033 – chybí název
+  - ECR032 – chybí název
+  - ECR015 – chybí název
+  - CSC011 – chybí název
+  - WM010 – chybí název
+  - 0KE002 – chybí název
+  - 0KE001 – chybí název
+  - 0KE003 – chybí název
+  - CMP005 – chybí název
+  - CMGS05 – chybí název
+  - EZA006 – chybí název
+  - EZA007 – chybí název
+  - EVS001 – chybí název
+  - CMGS04 – chybí název
+  - S8863 – chybí název
+  - EH030 – chybí název
+  - S8859 – chybí název
+  - CSCMIX001 – chybí název
+  - ECR022 – chybí název
+  - EZA005 – chybí název
+
+Nezařazené do kategorie – spadly do 'Ke kontrole' (0):
