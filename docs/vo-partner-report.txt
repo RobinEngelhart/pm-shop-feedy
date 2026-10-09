@@ -1,9 +1,9 @@
 Dodavatel: VO partner (Conectiv)
-Položek ve feedu dodavatele: 286
-Produktů ve výstupu: 264 (z toho bez skladu: 27)
+Položek ve feedu dodavatele: 287
+Produktů ve výstupu: 264 (z toho bez skladu: 34)
 Cena z doporučené ceny dodavatele: 26, cena z koeficientu: 238
 
-Vyřazené položky (22):
+Vyřazené položky (23):
   - ESV032 – vyřazeno v konfiguraci
   - BDT018 – chybí název
   - ECR033 – chybí název
@@ -26,5 +26,6 @@ Vyřazené položky (22):
   - CSCMIX001 – chybí název
   - ECR022 – chybí název
   - EZA005 – chybí název
+  - XBD019 – chybí název
 
 Nezařazené do kategorie – spadly do 'Ke kontrole' (0):
