@@ -129,6 +129,8 @@ suppliers:
       - {manufacturer: "Daruj Bednu", path: "Dárky a dekorace > Dárkové bedny a sady"}
       - {category: "Hrnky|Půllitry|Placatky|Otvíráky|skleničky a panáky", path: "Dárky a dekorace > Hrnky, půllitry a placatky"}
       - {category: "Dárková vína|alkohol(?!.*čaj)", path: "Dárky a dekorace > Víno a nápoje", vat: 21}
+      - {name: "\\bvíno\\b|\\bvína\\b|medovin|likér|slivovic", path: "Dárky a dekorace > Víno a nápoje", vat: 21}
+      - {name: "klíčenk|button|placka", path: "Dárky a dekorace > Klíčenky a placky"}
       - {category: "Energetické nápoje", path: "Dárky a dekorace > Víno a nápoje", vat: 21}
       - {category: "čaje", path: "Dárky a dekorace > Čaje", vat: 12}
       - {category: "Cukrovinky|čokolád|Bonbóny|Sušenky|sladkosti", path: "Dárky a dekorace > Sladkosti", vat: 12}
