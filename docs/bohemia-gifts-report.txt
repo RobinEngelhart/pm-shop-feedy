@@ -2,6 +2,7 @@ Dodavatel: Bohemia Gifts
 Položek ve feedu dodavatele: 2282
 Produktů ve výstupu: 2128 (z toho bez skladu: 0)
 Cena z doporučené/prodejní ceny dodavatele: 2128, cena z koeficientu: 0
+Zboží jen pro dospělé (18+): 168
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 0, vypuštěno po lhůtě: 0
 
 Vyřazené položky (154):
@@ -160,18 +161,29 @@ Vyřazené položky (154):
   - BC610057 Pivrnec tričko s potiskem - Hasič žízně – oblečení – feed neobsahuje velikosti
   - BC210002 Pánské tričko s potiskem - Hory volají – oblečení – feed neobsahuje velikosti
 
-Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (61):
+Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (72):
+  - BC850001 Zlatá medovina k narozeninám 100 ml (kategorie dodavatele: Dárky podle příležitosti > Tekuté dárky a alkohol > Dárky k narozeninám > Medovina)
+  - BC850004 Zlatá medovina pro štěstí 100 ml (kategorie dodavatele: Dárky pro > Dárky podle příležitosti > Tekuté dárky a alkohol > Dárky pro ženu > Dárky pro muže > Dárky pro kamarádku > Dárky pro bratra > Dárky pro sestru > Dárky k narozeninám > Dárky k svátku > Medovina)
+  - BC850005 Zlatá medovina pro dědečka 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro dědu > Medovina)
+  - BC850007 Zlatá medovina pro myslivce 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro myslivce > Medovina)
+  - BC850008 Zlatá medovina pro rybáře 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro rybáře > Medovina)
   - BC190141 Dětská bavlněná plenka - srnec (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190139 Dětská bavlněná plenka - medvídek (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190140 Dětská bavlněná plenka - sova (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC200086 Narozeninový nástěnný kalendář (kategorie dodavatele: Dárky podle příležitosti > Dárky k narozeninám > Dárky k svátku)
   - A35810330 Kuchyňská utěrka 50 x 70 cm (kategorie dodavatele: Akční nabídka)
   - MC1700240 Zápisník A5 s kroužkovou vazbou (kategorie dodavatele: Akční nabídka)
+  - BC210276 Zlatá medovina pro dobrý spánek 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro ženu > Dárky pro muže > Dárky pro bratra > Dárky pro sestru > Dárky pro kamaráda > Medovina)
+  - BC210277 Zlatá medovina proti stresu 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro ženu > Dárky pro muže > Dárky pro bratra > Dárky pro sestru > Dárky pro kamaráda > Medovina)
+  - BC210125 Vánoční svařák v krabičce - bylinky na svařák (kategorie dodavatele: Dárky pro > Dárky podle příležitosti > Tekuté dárky a alkohol > Dárky pro ženu > Vánoční dárky > Dárková vína a dárkové balení vín)
+  - BC230157 Vánoční zlatá medovina 100 ml - Krásné Vánoce (kategorie dodavatele: Dárky podle příležitosti > Tekuté dárky a alkohol > Vánoční dárky > Medovina)
+  - BC230158 Zlatá medovina 100 ml - Šťastný nový rok (kategorie dodavatele: Dárky podle příležitosti > Tekuté dárky a alkohol > Vánoční dárky > Medovina)
   - S30895070 Archeologická sada pro děti - fosilní vykopávky ve tvaru vejce (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro kluky > Dárky pro děti > Dárky pro bratra > Dárky pro sestru)
   - 110800160 Dětský penál s ořezávátkem a dino obrázkem (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro kluky > Dárky pro děti > Dárky pro bratra > Dárky pro sestru)
   - DL2100240 Sada Dino vykopávky - Mega vejce XXL (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro kluky > Dárky pro děti)
   - DL9200410 Sada sádrových figurek s barvičkami na pomalování (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro kluky > Dárky pro děti)
   - 110732360 Kuličkové pero s boxujícím jednorožcem (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro děti)
+  - BC850006 Zlatá medovina pro babičku 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro babičku > Medovina)
   - BC240209 Party konfety - vystřelovač konfet 20 cm (kategorie dodavatele: Dárky podle příležitosti > Dárky k 18. narozeninám > Dárky k 20. narozeninám > Dárky k 30. narozeninám > Dárky k 40. narozeninám > Dárky k 50. narozeninám > Dárky k 60. narozeninám > Dárky k 70. narozeninám > Dárky k 80. narozeninám > Dárky k narozeninám > Dárky k svátku > Svatební dárky)
   - BC250037 Kosmetická sada 2x sprchový gel 250 ml - kniha pro milovníky vaření (kategorie dodavatele: Dárky pro > Kosmetické sady a balíčky > Dárky pro ženu > Dárky pro muže)
   - BC250038 Kosmetická sada 2x sprchový gel 250 ml - kniha pro turisty (kategorie dodavatele: Kosmetické sady a balíčky > Dárky pro ženu > Dárky pro muže > Dárky pro kamarádku > Dárky pro cestovatele a turisty > Dárky pro kamaráda)
