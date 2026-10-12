@@ -21,6 +21,8 @@ import os
 import re
 import sys
 import urllib.request
+from copy import deepcopy
+from datetime import date
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -28,6 +30,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent
 OUT_DIR = ROOT / "docs"
+STATE_DIR = ROOT / "state"
 
 
 # ---------------------------------------------------------------- pomocné funkce
@@ -40,6 +43,15 @@ def to_number(value):
     if not re.fullmatch(r"-?\d+(\.\d+)?", text):
         return None
     return float(text)
+
+
+def to_price(value):
+    """Cena může mít za číslem měnu: '299.00 CZK', '1 299,00 Kč'."""
+    if value is None:
+        return None
+    text = str(value).strip().replace("\u00a0", "").replace(" ", "")
+    m = re.fullmatch(r"(-?\d+(?:[.,]\d+)?)(CZK|Kč|,-)?", text, re.IGNORECASE)
+    return float(m.group(1).replace(",", ".")) if m else None
 
 
 def fmt_price(value: float) -> str:
@@ -61,12 +73,15 @@ def round_price(value: float, rule: str) -> float:
     return float(math.ceil(value))
 
 
+NS: dict = {}   # jmenné prostory aktuálního dodavatele, např. {"g": "http://base.google.com/ns/1.0"}
+
+
 def get_field(item: ET.Element, path: str | None) -> str:
-    """Hodnota pole položky. Cesta může být vnořená ('PARAM/VAL').
+    """Hodnota pole položky. Cesta může být vnořená ('PARAM/VAL') nebo s prefixem ('g:price').
     Vrací prázdný řetězec, když pole chybí."""
     if not path:
         return ""
-    node = item.find(path)
+    node = item.find(path, NS)
     if node is None:
         # zkusit bez ohledu na velikost písmen
         low = path.lower()
@@ -79,10 +94,16 @@ def get_field(item: ET.Element, path: str | None) -> str:
     return node.text.strip()
 
 
-def get_all(item: ET.Element, path: str | None) -> list[str]:
-    if not path:
+def get_all(item: ET.Element, paths) -> list[str]:
+    """Všechny hodnoty pole; paths může být jedna cesta nebo seznam cest."""
+    if not paths:
         return []
-    return [n.text.strip() for n in item.findall(path) if n.text and n.text.strip()]
+    if isinstance(paths, str):
+        paths = [paths]
+    out = []
+    for path in paths:
+        out += [n.text.strip() for n in item.findall(path, NS) if n.text and n.text.strip()]
+    return out
 
 
 def match_rule(rule: dict, data: dict) -> bool:
@@ -92,6 +113,7 @@ def match_rule(rule: dict, data: dict) -> bool:
         "name": data["name"],
         "category": data["supplier_category"],
         "manufacturer": data["manufacturer"],
+        "text": f"{data['name']} {data['description'][:500]}",
     }
     used = False
     for key, value in checks.items():
@@ -128,7 +150,7 @@ def short_text(text: str, limit: int = 220) -> str:
 def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
     f = cfg["fields"]
     data = {
-        "code": get_field(item, f.get("code")),
+        "code": get_field(item, f.get("code")) or get_field(item, f.get("code_fallback")),
         "ean": get_field(item, f.get("ean")),
         "name": get_field(item, f.get("name")),
         "description": get_field(item, f.get("description")),
@@ -136,6 +158,8 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
         "images": get_all(item, f.get("image")),
         "stock": get_field(item, f.get("stock")),
         "purchase_price": get_field(item, f.get("purchase_price")),
+        "price_vat": get_field(item, f.get("price_vat")),
+        "sale_price_vat": get_field(item, f.get("sale_price_vat")),
         "rrp": get_field(item, f.get("rrp")),
         "vat": get_field(item, f.get("vat")),
         "weight_g": get_field(item, f.get("weight_g")),
@@ -154,8 +178,22 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
     if not data["name"] or data["name"] in skip.get("names", []):
         report["skipped"].append(f"{data['code']} – chybí název")
         return None
-    buy = to_number(data["purchase_price"])
-    if buy is None or buy <= 0:
+    for rule in cfg.get("exclude", []):
+        if match_rule(rule, data):
+            report["skipped"].append(f"{data['code']} {data['name']} – {rule.get('reason', 'vyřazeno pravidlem')}")
+            return None
+    pricing = {**defaults.get("pricing", {}), **cfg.get("pricing", {})}
+    retail_mode = pricing.get("mode") == "retail"
+    buy = to_price(data["purchase_price"])
+    if retail_mode:
+        retail = to_price(data["price_vat"])
+        sale = to_price(data["sale_price_vat"])
+        if pricing.get("use_sale_price", True) and sale and retail and 0 < sale < retail:
+            retail = sale
+        if not retail or retail <= 0:
+            report["skipped"].append(f"{data['code']} – chybí prodejní cena")
+            return None
+    elif buy is None or buy <= 0:
         report["skipped"].append(f"{data['code']} – chybí nákupní cena")
         return None
 
@@ -181,34 +219,47 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
 
     # --- kategorie
     category = None
+    rule_vat = None
     for rule in cfg.get("categories", []):
         if match_rule(rule, {**data, "name": name}):
             category = rule["path"]
+            rule_vat = rule.get("vat")
             break
     if category is None:
         category = cfg.get("fallback_category", defaults.get("fallback_category", "Ke kontrole"))
         report["unmatched"].append(f"{data['code']} {name} (kategorie dodavatele: {data['supplier_category'] or '-'})")
 
     # --- DPH a ceny
-    pricing = {**defaults.get("pricing", {}), **cfg.get("pricing", {})}
     vat = to_number(data["vat"])
     vat_map = {str(k): v for k, v in cfg.get("vat_map", {}).items()}
     if data["vat"] in vat_map:
         vat = float(vat_map[data["vat"]])
+    if vat is None and rule_vat is not None:
+        vat = float(rule_vat)
     if vat is None or vat not in (0.0, 12.0, 21.0):
         vat = float(pricing.get("vat_default", 21))
     coef = float(pricing.get("coef", 1.78))
     min_ratio = float(pricing.get("rrp_min_ratio", 1.3))
     # doporučenou cenu dodavatele (s DPH) bereme, jen když dává rozumnou marži
-    if pricing.get("use_rrp", True) and rrp_num and rrp_num > buy * min_ratio:
+    if retail_mode:
+        rc = float(pricing.get("retail_coef", 1.0))
+        price_vat = retail if rc == 1.0 else round_price(retail * rc, pricing.get("rounding", "nines"))
+        report["priced_rrp"] += 1
+    elif pricing.get("use_rrp", True) and rrp_num and rrp_num > buy * min_ratio:
         price_vat = rrp_num
         report["priced_rrp"] += 1
     else:
         price_vat = round_price(buy * (1 + vat / 100) * coef, pricing.get("rounding", "nines"))
         report["priced_coef"] += 1
 
-    stock = to_number(data["stock"])
-    stock = max(0, int(stock)) if stock is not None else 0
+    stock_map = {str(k).lower(): v for k, v in cfg.get("stock_map", {}).items()}
+    if data["stock"].lower() in stock_map:
+        stock = int(stock_map[data["stock"].lower()])
+    else:
+        stock = to_number(data["stock"])
+        stock = max(0, int(stock)) if stock is not None else 0
+    raw_code = re.sub(r"\s*-\s*", "-", data["code"]).replace(" ", "")   # 'UB3 - A5' -> 'UB3-A5'
+    code = cfg.get("code_prefix", "") + raw_code
 
     # --- sestavení SHOPITEM (pořadí prvků schéma nevyžaduje)
     si = ET.Element("SHOPITEM")
@@ -230,13 +281,13 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
         imgs = ET.SubElement(si, "IMAGES")
         for url in data["images"][:20]:
             ET.SubElement(imgs, "IMAGE").text = url
-    ET.SubElement(si, "CODE").text = data["code"]
+    ET.SubElement(si, "CODE").text = code
     if re.fullmatch(r"\d{8,14}", data["ean"] or ""):
         ET.SubElement(si, "EAN").text = data["ean"]
     ET.SubElement(si, "CURRENCY").text = "CZK"
     ET.SubElement(si, "VAT").text = fmt_price(vat)
     ET.SubElement(si, "PRICE_VAT").text = fmt_price(price_vat)
-    if pricing.get("publish_purchase_price", False):
+    if pricing.get("publish_purchase_price", False) and buy:
         ET.SubElement(si, "PURCHASE_PRICE").text = fmt_price(buy)
     st = ET.SubElement(si, "STOCK")
     ET.SubElement(st, "AMOUNT").text = str(stock)
@@ -261,11 +312,15 @@ def load_source(supplier_id: str, cfg: dict, inputs: dict) -> bytes:
 
 
 def convert_supplier(supplier_id: str, cfg: dict, defaults: dict, inputs: dict) -> dict:
+    global NS
+    NS = cfg.get("namespaces", {}) or {}
     report = {"count": 0, "out_of_stock": 0, "priced_rrp": 0, "priced_coef": 0,
-              "skipped": [], "unmatched": [], "source_items": 0}
+              "skipped": [], "unmatched": [], "source_items": 0, "kept_missing": 0, "dropped_missing": 0}
     raw = load_source(supplier_id, cfg, inputs)
     root = ET.fromstring(raw)
-    items = root.iter(cfg.get("item_tag", "item"))
+    item_tag = cfg.get("item_tag", "item")
+    items = root.iter(item_tag) if ":" not in item_tag else root.iter(
+        "{%s}%s" % (NS[item_tag.split(":")[0]], item_tag.split(":")[1]))
     shop = ET.Element("SHOP")
     seen = set()
     for item in items:
@@ -286,6 +341,8 @@ def convert_supplier(supplier_id: str, cfg: dict, defaults: dict, inputs: dict) 
         # ochrana: když dodavatel pošle prázdný/rozbitý feed, starý výstup nepřepisujeme
         raise RuntimeError(f"{supplier_id}: jen {report['count']} produktů (< {min_items}), výstup nepřepisuji.")
 
+    keep_missing(supplier_id, cfg, defaults, shop, seen, report)
+
     ET.indent(shop, space="  ")
     out = OUT_DIR / f"{supplier_id}.xml"
     xml = ET.tostring(shop, encoding="unicode")
@@ -294,12 +351,43 @@ def convert_supplier(supplier_id: str, cfg: dict, defaults: dict, inputs: dict) 
     return report
 
 
+def keep_missing(supplier_id: str, cfg: dict, defaults: dict, shop: ET.Element, seen: set, report: dict) -> None:
+    """Produkty, které z feedu dodavatele zmizely (vyprodané / vyřazené), necháme ve výstupu
+    se skladem 0 – Shoptet je tak označí jako nedostupné. Po keep_missing_days dnech je z výstupu vypustíme."""
+    days = int(cfg.get("keep_missing_days", defaults.get("keep_missing_days", 90)))
+    old_path = OUT_DIR / f"{supplier_id}.xml"
+    state_path = STATE_DIR / f"{supplier_id}.json"
+    state = json.loads(state_path.read_text(encoding="utf-8")) if state_path.exists() else {}
+    today = date.today().isoformat()
+    new_state = {}
+    if days > 0 and old_path.exists():
+        for old in ET.parse(old_path).getroot().findall("SHOPITEM"):
+            code = old.findtext("CODE")
+            if code in seen:
+                continue
+            since = state.get(code, today)
+            if (date.fromisoformat(today) - date.fromisoformat(since)).days > days:
+                report["dropped_missing"] += 1
+                continue
+            item = deepcopy(old)
+            amount = item.find("STOCK/AMOUNT")
+            if amount is not None:
+                amount.text = "0"
+            shop.append(item)
+            seen.add(code)
+            new_state[code] = since
+            report["kept_missing"] += 1
+    STATE_DIR.mkdir(exist_ok=True)
+    state_path.write_text(json.dumps(new_state, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
+
+
 def write_report(supplier_id: str, cfg: dict, r: dict) -> None:
     lines = [
         f"Dodavatel: {cfg.get('supplier_name', supplier_id)}",
         f"Položek ve feedu dodavatele: {r['source_items']}",
         f"Produktů ve výstupu: {r['count']} (z toho bez skladu: {r['out_of_stock']})",
-        f"Cena z doporučené ceny dodavatele: {r['priced_rrp']}, cena z koeficientu: {r['priced_coef']}",
+        f"Cena z doporučené/prodejní ceny dodavatele: {r['priced_rrp']}, cena z koeficientu: {r['priced_coef']}",
+        f"Zmizelo z feedu dodavatele – ponecháno se skladem 0: {r['kept_missing']}, vypuštěno po lhůtě: {r['dropped_missing']}",
         "",
         f"Vyřazené položky ({len(r['skipped'])}):",
         *[f"  - {s}" for s in r["skipped"]],

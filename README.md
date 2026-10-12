@@ -20,7 +20,14 @@ Přehled všech feedů a reporty (vyřazené a nezařazené položky) jsou na
 2. Do secretu FEED_URLS přidejte `"nove-id": "https://adresa-feedu"`.
 3. V Shoptetu přidejte automatický import s adresou `https://<uživatel>.github.io/pm-shop-feedy/nove-id.xml`.
 
+## Podporované formáty feedů
+- vlastní XML dodavatele (např. VO partner) – mapování polí v `fields`,
+- Heureka XML (šablona `sablona-heureka`),
+- Google Shopping / Merchant feed s prefixem `g:` (např. Bohemia Gifts) – `namespaces`, `pricing.mode: retail`, `stock_map`.
+
 ## Ochrany
+- Produkt, který z feedu dodavatele zmizí (vyprodáno / vyřazeno), zůstane ve výstupu se skladem 0
+  ještě `keep_missing_days` dní (výchozí 90) – Shoptet ho tak ukáže jako nedostupný. Evidence je ve složce `state/`.
 - Když feed dodavatele přijde prázdný nebo rozbitý (méně než `min_items` produktů), starý výstup se nepřepíše.
 - Chyba u jednoho dodavatele neovlivní ostatní.
 - Nákupní ceny se do veřejného výstupu nedávají (`publish_purchase_price: false`).

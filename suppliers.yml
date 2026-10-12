@@ -88,6 +88,58 @@ suppliers:
       - {code: "^W", name: "zastřihovač|styler|zarovnávač", path: "Drogerie a kosmetika > Holení > Zastřihovače a zarovnávače"}
       - {code: "^W",            path: "Drogerie a kosmetika > Holení > Holicí strojky a hlavice"}
 
+  # ------------------------------------------------------------------ Bohemia Gifts
+  # Google Shopping feed jejich e-shopu (veřejná adresa, proto je přímo tady).
+  # Ceny ve feedu = ceny pro koncového zákazníka s DPH; g:mpn = jejich SKU pro objednání.
+  # Vyprodané / vyřazené zboží z feedu mizí -> převodník ho nechá se skladem 0 (keep_missing_days).
+  bohemia-gifts:
+    supplier_name: "Bohemia Gifts"
+    url: "https://bohemiagifts.cz/wp-content/uploads/woo-feed/google/xml/googleshopping.xml"
+    namespaces: {g: "http://base.google.com/ns/1.0"}
+    item_tag: item
+    code_prefix: "BG-"            # aby se kódy nepletly s jinými dodavateli
+    min_items: 100
+    fields:
+      code: "g:mpn"
+      code_fallback: "g:id"       # 11 položek nemá mpn
+      ean: "g:gtin"
+      name: "g:title"
+      description: "g:description"
+      manufacturer: "g:brand"
+      image: ["g:image_link", "g:additional_image_link"]
+      stock: "g:availability"
+      price_vat: "g:price"
+      sale_price_vat: "g:sale_price"
+      category: "g:product_type"
+    stock_map:
+      in_stock: 5                 # feed neposílá počet kusů, jen "skladem"
+      out_of_stock: 0
+      preorder: 0
+      backorder: 0
+    pricing:
+      mode: retail                # prodejní cena = cena dodavatele pro koncového zákazníka
+      use_sale_price: true        # když mají akci, prodáváme za akční cenu
+      retail_coef: 1.0            # např. 1.05 = o 5 % dráž, 0.95 = o 5 % levněji
+      vat_default: 21
+    exclude:
+      - {text: "s vlastním potiskem|s vlastní etiketou|vlastní fotograf|personaliz", reason: "personalizovaný produkt (nutné zadání od zákazníka)"}
+      - {name: "trič|mikin|\\bbody\\b|bodýč", reason: "oblečení – feed neobsahuje velikosti"}
+    categories:
+      - {category: "bedny a koše|kufřík", path: "Dárky a dekorace > Dárkové bedny a sady"}
+      - {manufacturer: "Daruj Bednu", path: "Dárky a dekorace > Dárkové bedny a sady"}
+      - {category: "Hrnky|Půllitry|Placatky|Otvíráky|skleničky a panáky", path: "Dárky a dekorace > Hrnky, půllitry a placatky"}
+      - {category: "Dárková vína|alkohol(?!.*čaj)", path: "Dárky a dekorace > Víno a nápoje", vat: 21}
+      - {category: "Energetické nápoje", path: "Dárky a dekorace > Víno a nápoje", vat: 21}
+      - {category: "čaje", path: "Dárky a dekorace > Čaje", vat: 12}
+      - {category: "Cukrovinky|čokolád|Bonbóny|Sušenky|sladkosti", path: "Dárky a dekorace > Sladkosti", vat: 12}
+      - {category: "Kosmetik|mýdla|koupel|Sprchové gely|šampon|bomby", path: "Dárky a dekorace > Kosmetika a mýdla"}
+      - {category: "svíčk|svícn|difuzér|vonítk|vonné", path: "Dárky a dekorace > Svíčky a vůně"}
+      - {category: "Vánoční dekorace|vánoční ozdoby", path: "Dárky a dekorace > Vánoční dekorace"}
+      - {category: "Přání|Balící papír", path: "Dárky a dekorace > Přání a balení dárků"}
+      - {category: "Textil|tašky|Batohy", path: "Dárky a dekorace > Tašky a textil"}
+      - {category: "Dekorace|Rámečky|Samolepky|hodiny|zápichy|srdce", path: "Dárky a dekorace > Dekorace do bytu"}
+    fallback_category: "Dárky a dekorace > Další dárky"
+
   # Šablona pro dalšího dodavatele (stačí zkopírovat, upravit a nastavit enabled: true).
   # Častý formát je Heureka XML – pak vypadá mapování takto:
   sablona-heureka:
