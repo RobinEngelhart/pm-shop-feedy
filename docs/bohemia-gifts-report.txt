@@ -2,7 +2,7 @@ Dodavatel: Bohemia Gifts
 Položek ve feedu dodavatele: 2282
 Produktů ve výstupu: 2128 (z toho bez skladu: 0)
 Cena z doporučené/prodejní ceny dodavatele: 2128, cena z koeficientu: 0
-Zboží jen pro dospělé (18+): 168
+Zboží jen pro dospělé (18+): 186
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 0, vypuštěno po lhůtě: 0
 
 Vyřazené položky (154):
@@ -161,29 +161,207 @@ Vyřazené položky (154):
   - BC610057 Pivrnec tričko s potiskem - Hasič žízně – oblečení – feed neobsahuje velikosti
   - BC210002 Pánské tričko s potiskem - Hory volají – oblečení – feed neobsahuje velikosti
 
-Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (72):
-  - BC850001 Zlatá medovina k narozeninám 100 ml (kategorie dodavatele: Dárky podle příležitosti > Tekuté dárky a alkohol > Dárky k narozeninám > Medovina)
-  - BC850004 Zlatá medovina pro štěstí 100 ml (kategorie dodavatele: Dárky pro > Dárky podle příležitosti > Tekuté dárky a alkohol > Dárky pro ženu > Dárky pro muže > Dárky pro kamarádku > Dárky pro bratra > Dárky pro sestru > Dárky k narozeninám > Dárky k svátku > Medovina)
-  - BC850005 Zlatá medovina pro dědečka 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro dědu > Medovina)
-  - BC850007 Zlatá medovina pro myslivce 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro myslivce > Medovina)
-  - BC850008 Zlatá medovina pro rybáře 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro rybáře > Medovina)
+Označeno jako 18+ (186) – zkontrolujte:
+  - BC006223 Dárkové bílé víno pro tatínka 0,75 l - Chardonnay
+  - BC006224 Dárkové červené víno mamince 0,75 l - Merlot
+  - BC006225 Dárkové červené víno pro babičku 0,75 l - Merlot
+  - BC006229 Dárkové bílé víno pro dědečka 0,75 l - Chardonnay
+  - BC062213 Dárkové bílé víno pro maminku 0,75 l - Chardonnay
+  - BC006222 Dárkové červené víno pro tatínka 0,75 l - Merlot
+  - BC062215 Dárkové bílé víno pro babičku 0,75 l - Chardonnay
+  - BC062216 Dárkové červené víno pro dědečka 0,75 l - Merlot
+  - BC006445 Vánoční červené dárkové víno 0,75 l Merlot - Kouzelné Vánoce
+  - BC006446 Vánoční červené dárkové víno 0,75 l Merlot - Veselé Vánoce
+  - BC006447 Vánoční bílé dárkové víno 0,75 l Chardonnay - Štědrý večer
+  - BC006448 Vánoční bílé vánoční víno 0,75 l Chardonnay - Šťastné a veselé
+  - BC610030 Dárkové bílé víno pro rybáře 0,75 l - ryby volají Chardonnay
+  - BC017091 Dárkové červené víno pro rybáře 0,75 l - Petrův zdar Merlot
+  - BC610031 Dárkové bílé víno pro myslivce 0,75 l - Chardonnay
+  - BC017101 Dárkové červené víno pro myslivce 0,75 l - lovu zdar Merlot
+  - BC062232 Dárkové bílé víno 0,75 l Chardonnay - Společník pro hezký večer
+  - BC062234 Dárkové bílé víno 0,75 l Chardonnay - Partnerka pro večer
+  - BC062235 Dárkové bílé víno 0,75 l Chardonnay - První pomoc
+  - BC124009 Dárkové červené víno k 18. narozeninám 0,75 l – Merlot
+  - BC124016 Dárkové červené víno k 80. narozeninám 0,75 l – Merlot
+  - BC124015 Dárkové červené víno k 70. narozeninám 0,75 l – Merlot
+  - BC124014 Dárkové červené víno k 60. narozeninám 0,75 l – Merlot
+  - BC124013 Dárkové červené víno k 50. narozeninám 0,75 l – Merlot
+  - BC124012 Dárkové červené víno k 40. narozeninám 0,75 l – Merlot
+  - BC124011 Dárkové červené víno k 30. narozeninám 0,75 l – Merlot
+  - BC124010 Dárkové červené víno k 20. narozeninám 0,75 l – Merlot
+  - BC124025 Dárkové bílé víno k 18. narozeninám 0,75 l - Chardonnay
+  - BC124026 Dárkové bílé víno k 20. narozeninám 0,75 l - Chardonnay
+  - BC124027 Dárkové bílé víno k 30. narozeninám 0,75 l - Chardonnay
+  - BC124028 Dárkové bílé víno k 40. narozeninám 0,75 l - Chardonnay
+  - BC124029 Dárkové bílé víno k 50. narozeninám 0,75 l - Chardonnay
+  - BC124030 Dárkové bílé víno k 60. narozeninám 0,75 l - Chardonnay
+  - BC124031 Dárkové bílé víno k 70. narozeninám 0,75 l - Chardonnay
+  - BC124032 Dárkové bílé víno k 80. narozeninám 0,75 l - Chardonnay
+  - BC002017 Dárkové svatební červené víno 0,75 l - Merlot
+  - BC124035 Dárkové červené víno k svátku 0,75 l - Merlot
+  - BC124036 Dárkové bílé víno k svátku 0,75 l - Chardonnay
+  - BC124034 Dárkové bílé víno k narozeninám 0,75 l - Chardonnay
+  - BC124033 Dárkové červené víno k narozeninám 0,75 l - Merlot
+  - BC850001 Zlatá medovina k narozeninám 100 ml
+  - BC850004 Zlatá medovina pro štěstí 100 ml
+  - BC850005 Zlatá medovina pro dědečka 100 ml
+  - BC850007 Zlatá medovina pro myslivce 100 ml
+  - BC850008 Zlatá medovina pro rybáře 100 ml
+  - BC124037 Dárkové bílé víno 0,75 l Chardonnay – No Stress
+  - BC124038 Dárkové červené víno 0,75 l Merlot – No Stress
+  - BC124039 Dárkové bílé víno 0,75 l Chardonnay – dvě decinky
+  - BC124040 Dárkové červené víno 0,75 l Merlot – dvě decinky
+  - BC124041 Dárkové bílé víno 0,75 l Chardonnay – staří přátelé
+  - BC124042 Dárkové červené víno 0,75 l Merlot – Staří přátelé
+  - BC190067 Dárkové svatební víno 0,75 l Merlot - on a ona
+  - BC190405 Dárkové svatební víno 0,75 l Merlot - ona a ona
+  - BC210359 Dárková dřevěná bedna k 18. narozeninám XXL
+  - BC210360 Dárková dřevěná bedna k 18. narozeninám
+  - BC210361 Dárková dřevěná bedna - k 20. narozeninám XXL
+  - BC210362 Dárková dřevěná bedna - k 20. narozeninám
+  - BC210363 Dárková dřevěná bedna - k 30. narozeninám XXL
+  - BC210364 Dárková dřevěná bedna - k 30. narozeninám
+  - BC210365 Dárková dřevěná bedna - k 40. narozeninám XXL
+  - BC210366 Dárková dřevěná bedna - k 40. narozeninám
+  - BC210367 Dárková dřevěná bedna - k 50. narozeninám XXL
+  - BC210368 Dárková dřevěná bedna - k 50. narozeninám
+  - BC210369 Dárková dřevěná bedna - k 60. narozeninám XXL
+  - BC210370 Dárková dřevěná bedna - k 60. narozeninám
+  - BC210371 Dárková dřevěná bedna - k 70. narozeninám XXL
+  - BC210372 Dárková dřevěná bedna - k 70. narozeninám
+  - BC210373 Dárková dřevěná bedna - k 80. narozeninám XXL
+  - BC210374 Dárková dřevěná bedna - k 80. narozeninám
+  - BC210379 Dárková dřevěná bedna pro myslivce XL - Les volá a já musím jít
+  - BC210385 Dárková dřevěná bedna - Levandule
+  - BC210218 Dárkové bílé víno pro pejskaře 0,75 l - Chardonnay
+  - BC210219 Dárkové bílé víno pro milovníka koček 0,75 l - Chardonnay
+  - BC210275 Dárkové bílé víno pro tchýni 0,75 l - Chardonnay
+  - BC210203 Dárkové červené víno pro zatraceně hezký večer 0,75 l - Merlot
+  - BC210201 Dárkové bílé víno 0,75 l Chardonnay - Srdeční záležitost
+  - BC210202 Dárkové bílé víno pro zaručeně hezký večer 0,75 l - Chardonnay
+  - BC210276 Zlatá medovina pro dobrý spánek 100 ml
+  - BC210277 Zlatá medovina proti stresu 100 ml
+  - BC210123 Vánoční červené víno Merlot s kořením na svařák 0,75 l
+  - BC210157 Velikonoční bílé víno 0,75 l - Chardonnay
+  - BC210158 Velikonoční červené víno 0,75 l - Merlot
+  - BC210403 Dřevěná dárková bedna pro novomanžele - dokonalé manželství
+  - BC210414 Vánoční dárková dřevěná bedna - Vánoční pohoda
+  - BC210419 Dárková dřevěná bedna - pro štěstí
+  - BC220075 Dárkové prosecco k narozeninám 0,75 l
+  - BC220076 Dárkové prosecco 0,75 l pro maminku
+  - BC220077 Dárkové prosecco 0,75 l pro babičku
+  - BC220080 Vánoční dárkové prosecco 0,75 l - Kouzelné Vánoce
+  - BC220109 Dárkové prosecco 0,75 l - Děkuji
+  - BC220110 Dárkové prosecco 0,75 l - šťastný nový rok
+  - BC220081 Dárkové prosecco 0,75 l paní učitelce
+  - BC220116 Dárkové prosecco 0,75 l k 20. narozeninám
+  - BC220117 Dárkové prosecco 0,75 l k 30. narozeninám
+  - BC220118 Dárkové prosecco 0,75 l k 40. narozeninám
+  - BC220079 Dárkové prosecco 0,75 l k 50. narozeninám
+  - BC220119 Dárkové prosecco 0,75 l k 60. narozeninám
+  - BC220120 Dárkové prosecco 0,75 l k 70. narozeninám
+  - BC220121 Dárkové prosecco 0,75 l k 80. narozeninám
+  - BC230001 Dárkové prosecco 0,75 l pro zamilované
+  - BC230002 Dárkové prosecco 0,75 l pro zamilované - Love
+  - BC230142 Dárkové prosecco 0,75 l - Šťastné a veselé
+  - BC230141 Dárkové prosecco 0,75 l - Pohodové Vánoce
+  - BC230143 Dárkové prosecco 0,75 l - Hodně štěstí a zdraví
+  - BC230157 Vánoční zlatá medovina 100 ml - Krásné Vánoce
+  - BC230158 Zlatá medovina 100 ml - Šťastný nový rok
+  - BC850006 Zlatá medovina pro babičku 100 ml
+  - BC250083 Dřevěná dárková bedna pro vinaře
+  - BC250085 Dřevěná dárková bedna pro vinařku
+  - BC250088 Dřevěný dárkový box s dekou pro maminku
+  - BC250098 Vánoční dřevěná dárková bedna s prosecco
+  - BC250100 Dřevěná dárková bedna z lásky s prosecco
+  - BC250199 Dárkové bílé víno 0,75 l – Chardonnay – Recept
+  - BC250201 Dárkové bílé víno 0,75 l Chardonnay – Antidebilicum
+  - BC250200 Dárkové červené víno 0,75 l – Merlot – Recept
+  - BC250202 Dárkové červené víno 0,75 l – Merlot – Antidebilicum
+  - BC250203 Dárkové bílé víno 0,75 l Chardonnay pro muže k 30. narozeninám
+  - BC250204 Dárkové bílé víno 0,75 l Chardonnay pro muže k 40. narozeninám
+  - BC250205 Dárkové bílé víno 0,75 l Chardonnay pro muže k 50. narozeninám
+  - BC250206 Dárkové bílé víno 0,75 l Chardonnay pro muže k 60. narozeninám
+  - BC250207 Dárkové bílé víno 0,75 l Chardonnay pro muže k 70. narozeninám
+  - BC250208 Dárkové bílé víno 0,75 l Chardonnay pro muže k 80. narozeninám
+  - BC250209 Dárkové červené víno 0,75 l Merlot pro muže k 30. narozeninám
+  - BC250211 Dárkové červené víno 0,75 l Merlot pro muže k 50. narozeninám
+  - BC250212 Dárkové červené víno 0,75 l Merlot pro muže k 60. narozeninám
+  - BC250213 Dárkové červené víno 0,75 l Merlot pro muže k 70. narozeninám
+  - BC250214 Dárkové červené víno 0,75 l Merlot pro muže k 80. narozeninám
+  - BC250215 Dárkové bílé víno 0,75 l Chardonnay pro ženu k 30. narozeninám
+  - BC250216 Dárkové bílé víno 0,75 l Chardonnay pro ženu k 40. narozeninám
+  - BC250217 Dárkové bílé víno 0,75 l Chardonnay pro ženu k 50. narozeninám
+  - BC250218 Dárkové bílé víno 0,75 l Chardonnay pro ženu k 60. narozeninám
+  - BC250219 Dárkové bílé víno 0,75 l Chardonnay pro ženu k 70. narozeninám
+  - BC250220 Dárkové bílé víno 0,75 l Chardonnay pro ženu k 80. narozeninám
+  - BC250221 Dárkové červené víno 0,75 l Merlot pro ženu k 30. narozeninám
+  - BC250222 Dárkové červené víno 0,75 l Merlot pro ženu k 40. narozeninám
+  - BC250223 Dárkové červené víno 0,75 l Merlot pro ženu k 50. narozeninám
+  - BC250224 Dárkové červené víno 0,75 l Merlot pro ženu k 60. narozeninám
+  - BC250225 Dárkové červené víno 0,75 l Merlot pro ženu k 70. narozeninám
+  - BC250226 Dárkové červené víno 0,75 l Merlot pro ženu k 80. narozeninám
+  - BC250210 Dárkové červené víno 0,75 l Merlot pro muže k 40. narozeninám
+  - BC260112 Dárkové červené víno pro paní učitelku 0,75 l - Merlot
+  - BC260114 Dárkové červené víno pro pana učitele 0,75 l - Merlot
+  - BC260113 Dárkové bílé víno pro pana učitele 0,75 l - Chardonnay
+  - BC260111 Dárkové bílé víno pro paní učitelku 0,75 l - Chardonnay
+  - 58946 Dárkové červené víno Merlot 0,75 l – vyberte rok narození
+  - 58950 Dárkové bílé víno Chardonnay 0,75 l – vyberte rok narození
+  - BC260172 Dárkové bílé víno 0,75 l Chardonnay - Děkuji pane doktore
+  - BC260169 Dárkové červené víno 0,75 l Merlot – Děkuji pane doktore
+  - BC260170 Dárkové červené víno 0,75 l Merlot - Děkuji paní doktorko
+  - BC260171 Dárkové červené víno 0,75 l Merlot - Děkujeme naší sestřičce
+  - BC260173 Dárkové bílé víno 0,75 l Chardonnay - Děkuji paní doktorko
+  - BC260174 Dárkové bílé víno 0,75 l Chardonnay - Děkujeme naší sestřičce
+  - BC260207 Dárkové bílé víno 0,75 l - Chardonnay - pro hasiče
+  - BC260208 Dárkové červené víno 0,75 l - Merlot - pro hasiče
+  - BC260194 Dárkové bílé víno 0,75 l - Chardonnay - BLÍŽENCI
+  - BC260195 Dárkové bílé víno 0,75 l - Chardonnay - RAK
+  - BC260196 Dárkové bílé víno 0,75 l - Chardonnay - LEV
+  - BC260197 Dárkové bílé víno 0,75 l - Chardonnay - PANNA
+  - BC260198 Dárkové bílé víno 0,75 l - Chardonnay - VÁHY
+  - BC260199 Dárkové bílé víno 0,75 l - Chardonnay - ŠTÍR
+  - BC260200 Dárkové víno 0,75 l - Merlot - BLÍŽENCI
+  - BC260201 Dárkové víno 0,75 l - Merlot - RAK
+  - BC260202 Dárkové víno 0,75 l - Merlot - LEV
+  - BC260203 Dárkové víno 0,75 l - Merlot - PANNA
+  - BC260204 Dárkové víno 0,75 l - Merlot - VÁHY
+  - BC260205 Dárkové víno 0,75 l - Merlot - ŠTÍR
+  - BC260248 Dárkové bílé víno 0,75 l - Chardonnay - STŘELEC
+  - BC260249 Dárkové bílé víno 0,75 l - Chardonnay - KOZOROH
+  - BC260250 Dárkové bílé víno 0,75 l - Chardonnay - VODNÁŘ
+  - BC260251 Dárkové bílé víno 0,75 l - Chardonnay - RYBY
+  - BC260252 Dárkové bílé víno 0,75 l - Chardonnay - BERAN
+  - BC260253 Dárkové bílé víno 0,75 l - Chardonnay - BÝK
+  - BC260254 Dárkové víno 0,75 l - Merlot - STŘELEC
+  - BC260255 Dárkové víno 0,75 l - Merlot - KOZOROH
+  - BC260256 Dárkové víno 0,75 l - Merlot - VODNÁŘ
+  - BC260257 Dárkové víno 0,75 l - Merlot - RYBY
+  - BC260258 Dárkové víno 0,75 l - Merlot - BERAN
+  - BC260259 Dárkové víno 0,75 l - Merlot - BÝK
+  - BC260321 Dárkové víno 0,75 l - Merlot - Nesem vám noviny
+  - BC260322 Dárkové víno 0,75 l - Merlot - Lovu Zdar
+  - BC260323 Dárkové víno 0,75 l - Merlot - petruv zdar
+  - BC260324 Dárkové červené víno Merlot 0,75 l – Krásné narozeniny.
+  - BC260325 Dárkové bílé víno 0,75 l - Chardonnay - Lovu Zdar
+  - BC260326 Dárkové bílé víno Chardonnay 0,75 l – Petruv zdar.
+  - BC260327 Dárkové bílé víno 0,75 l - Chardonnay - Krásné narozeniny
+  - BC260328 Dárkové bílé víno 0,75 l - Chardonnay - Dnes se slaví narozeniny
+
+Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (62):
   - BC190141 Dětská bavlněná plenka - srnec (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190139 Dětská bavlněná plenka - medvídek (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190140 Dětská bavlněná plenka - sova (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC200086 Narozeninový nástěnný kalendář (kategorie dodavatele: Dárky podle příležitosti > Dárky k narozeninám > Dárky k svátku)
   - A35810330 Kuchyňská utěrka 50 x 70 cm (kategorie dodavatele: Akční nabídka)
   - MC1700240 Zápisník A5 s kroužkovou vazbou (kategorie dodavatele: Akční nabídka)
-  - BC210276 Zlatá medovina pro dobrý spánek 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro ženu > Dárky pro muže > Dárky pro bratra > Dárky pro sestru > Dárky pro kamaráda > Medovina)
-  - BC210277 Zlatá medovina proti stresu 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro ženu > Dárky pro muže > Dárky pro bratra > Dárky pro sestru > Dárky pro kamaráda > Medovina)
   - BC210125 Vánoční svařák v krabičce - bylinky na svařák (kategorie dodavatele: Dárky pro > Dárky podle příležitosti > Tekuté dárky a alkohol > Dárky pro ženu > Vánoční dárky > Dárková vína a dárkové balení vín)
-  - BC230157 Vánoční zlatá medovina 100 ml - Krásné Vánoce (kategorie dodavatele: Dárky podle příležitosti > Tekuté dárky a alkohol > Vánoční dárky > Medovina)
-  - BC230158 Zlatá medovina 100 ml - Šťastný nový rok (kategorie dodavatele: Dárky podle příležitosti > Tekuté dárky a alkohol > Vánoční dárky > Medovina)
   - S30895070 Archeologická sada pro děti - fosilní vykopávky ve tvaru vejce (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro kluky > Dárky pro děti > Dárky pro bratra > Dárky pro sestru)
   - 110800160 Dětský penál s ořezávátkem a dino obrázkem (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro kluky > Dárky pro děti > Dárky pro bratra > Dárky pro sestru)
   - DL2100240 Sada Dino vykopávky - Mega vejce XXL (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro kluky > Dárky pro děti)
   - DL9200410 Sada sádrových figurek s barvičkami na pomalování (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro kluky > Dárky pro děti)
   - 110732360 Kuličkové pero s boxujícím jednorožcem (kategorie dodavatele: Dárky pro > Dárky pro holky > Dárky pro děti)
-  - BC850006 Zlatá medovina pro babičku 100 ml (kategorie dodavatele: Dárky pro > Tekuté dárky a alkohol > Dárky pro babičku > Medovina)
   - BC240209 Party konfety - vystřelovač konfet 20 cm (kategorie dodavatele: Dárky podle příležitosti > Dárky k 18. narozeninám > Dárky k 20. narozeninám > Dárky k 30. narozeninám > Dárky k 40. narozeninám > Dárky k 50. narozeninám > Dárky k 60. narozeninám > Dárky k 70. narozeninám > Dárky k 80. narozeninám > Dárky k narozeninám > Dárky k svátku > Svatební dárky)
   - BC250037 Kosmetická sada 2x sprchový gel 250 ml - kniha pro milovníky vaření (kategorie dodavatele: Dárky pro > Kosmetické sady a balíčky > Dárky pro ženu > Dárky pro muže)
   - BC250038 Kosmetická sada 2x sprchový gel 250 ml - kniha pro turisty (kategorie dodavatele: Kosmetické sady a balíčky > Dárky pro ženu > Dárky pro muže > Dárky pro kamarádku > Dárky pro cestovatele a turisty > Dárky pro kamaráda)

@@ -21933,9 +21933,9 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/252e5ec1-3caf-4561-95bb-36643ae8bc35.png</IMAGE>
@@ -21960,9 +21960,9 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/1deea9cf-a74f-4b6f-acd1-c88ac4d84045.png</IMAGE>
@@ -21987,9 +21987,9 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/df8c45c9-3fa9-4b39-9ff7-0c63e73332cc.png</IMAGE>
@@ -22014,9 +22014,9 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850007.jpg</IMAGE>
@@ -22040,9 +22040,9 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850008.jpg</IMAGE>
@@ -24797,15 +24797,13 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dřevěný otvírák s vývrtkou na víno Gentleman</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dřevěný otvírák s vývrtkou na víno pro opravdového muže. Pokud hostíte dámu, pak se bude vývrtka určitě hodit a oslníte svojí pohotovostí a gentlemanským přístupem při otvírání lahve dobrého vína.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Dřevěný otvírák s vývrtkou na víno pro opravdového muže. Pokud hostíte dámu, pak se bude vývrtka určitě hodit a oslníte svojí pohotovostí a gentlemanským přístupem při otvírání lahve dobrého vína.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dřevěný otvírák s vývrtkou na víno pro opravdového muže. Pokud hostíte dámu, pak se bude vývrtka určitě hodit a oslníte svojí pohotovostí a gentlemanským přístupem při otvírání lahve dobrého vína.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28079,13 +28077,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna k 18. narozeninám XXL</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Teď už můžeš. Velká dřevěná dárková bedna k 18. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Teď už můžeš. Velká dřevěná dárková bedna k 18. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Teď už můžeš. Velká dřevěná dárková bedna k 18. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28104,13 +28104,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna k 18. narozeninám</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Teď už můžeš. Dřevěná dárková bedna k 18. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Teď už můžeš. Dřevěná dárková bedna k 18. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Teď už můžeš. Dřevěná dárková bedna k 18. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28129,13 +28131,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 20. narozeninám XXL</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tak už je Ti dvacet. Supéééér. Velká dřevěná dárková bedna k 20. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Tak už je Ti dvacet. Supéééér. Velká dřevěná dárková bedna k 20. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Tak už je Ti dvacet. Supéééér. Velká dřevěná dárková bedna k 20. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28154,13 +28158,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 20. narozeninám</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tak už je Ti dvacet. Supéééér. Dřevěná dárková bedna k 20. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Tak už je Ti dvacet. Supéééér. Dřevěná dárková bedna k 20. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Tak už je Ti dvacet. Supéééér. Dřevěná dárková bedna k 20. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28179,13 +28185,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 30. narozeninám XXL</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Nezpomaluj, třicet neznamená ještě nic. Velká dřevěná dárková bedna k 30. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Nezpomaluj, třicet neznamená ještě nic. Velká dřevěná dárková bedna k 30. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Nezpomaluj, třicet neznamená ještě nic. Velká dřevěná dárková bedna k 30. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28204,13 +28212,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 30. narozeninám</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Nezpomaluj, třicet neznamená ještě nic. Dřevěná dárková bedna k 30. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Nezpomaluj, třicet neznamená ještě nic. Dřevěná dárková bedna k 30. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Nezpomaluj, třicet neznamená ještě nic. Dřevěná dárková bedna k 30. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28230,13 +28240,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 40. narozeninám XXL</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 40. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 40. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Velká dřevěná dárková bedna k 40. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28255,13 +28267,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 40. narozeninám</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 40. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 40. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Dřevěná dárková bedna k 40. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28280,13 +28294,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 50. narozeninám XXL</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 50. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 50. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Velká dřevěná dárková bedna k 50. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28305,13 +28321,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 50. narozeninám</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 50. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 50. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Dřevěná dárková bedna k 50. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence, který právě vstoupil do světa dospělých.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28330,13 +28348,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 60. narozeninám XXL</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 60. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 60. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Velká dřevěná dárková bedna k 60. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28355,13 +28375,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 60. narozeninám</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 60. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 60. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Dřevěná dárková bedna k 60. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28380,13 +28402,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 70. narozeninám XXL</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 70. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 70. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Velká dřevěná dárková bedna k 70. narozeninám s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28405,13 +28429,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 70. narozeninám</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 70. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 70. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Dřevěná dárková bedna k 70. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28430,13 +28456,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 80. narozeninám XXL</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 80. narozeninám bedna s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Velká dřevěná dárková bedna k 80. narozeninám bedna s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Velká dřevěná dárková bedna k 80. narozeninám bedna s červeným a bílým vínem, ručně vyráběnou sypanou čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28455,13 +28483,15 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - k 80. narozeninám</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 80. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Dřevěná dárková bedna k 80. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Dřevěná dárková bedna k 80. narozeninám s šumivým vínem, čokoládou a šumivou bombou do vany potěší každého oslavence.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28594,7 +28624,7 @@ Dárková bedna obsahuje:
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna pro myslivce XL - Les volá a já musím jít</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Ideální dárek pro všechny myslivce. Mix dárků s motivy lesa určitě potěší ne jednoho nimroda. Ať už se po honu rád svlaží vychlazeným mokem nebo dá přednost koupeli. Dárková bedna obsahuje: Prémiové…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>Ideální dárek pro všechny myslivce. Mix dárků s motivy lesa určitě potěší ne jednoho nimroda. Ať už se po honu rád svlaží vychlazeným mokem nebo dá přednost koupeli.
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;Ideální dárek pro všechny myslivce. Mix dárků s motivy lesa určitě potěší ne jednoho nimroda. Ať už se po honu rád svlaží vychlazeným mokem nebo dá přednost koupeli.
 
 Dárková bedna obsahuje:
 &lt;ul&gt;
@@ -28607,10 +28637,12 @@ Dárková bedna obsahuje:
 &lt;/ul&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -28767,7 +28799,7 @@ Dárková bedna obsahuje:
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - Levandule</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Darujte kousek Provance. Pro všechny milovníky levandule a relaxu je tu naše dárková bedna, která provoní celou koupelnu. Dárková bedna obsahuje: Praktický dřevěný dárkový box se zašupovacím víkem…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>Darujte kousek Provance. Pro všechny milovníky levandule a relaxu je tu naše dárková bedna, která provoní celou koupelnu.
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;Darujte kousek Provance. Pro všechny milovníky levandule a relaxu je tu naše dárková bedna, která provoní celou koupelnu.
 
 Dárková bedna obsahuje:
 &lt;ul&gt;
@@ -28781,10 +28813,12 @@ Dárková bedna obsahuje:
 &lt;/ul&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -32425,9 +32459,9 @@ Přepadne-li Vás chuť na čokoládu, uvařte si čokoládový čaj!&lt;/p&gt;<
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210276-2.jpg</IMAGE>
@@ -32451,9 +32485,9 @@ Přepadne-li Vás chuť na čokoládu, uvařte si čokoládový čaj!&lt;/p&gt;<
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210277-2.jpg</IMAGE>
@@ -33965,13 +33999,15 @@ Přepadne-li Vás chuť na čokoládu, uvařte si čokoládový čaj!&lt;/p&gt;<
   <SHOPITEM>
     <NAME>Dřevěná dárková bedna pro novomanžele - dokonalé manželství</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Krásný a originální svatební dar novomanželům, který připomínat, co znamená dokonalé manželství. Dřevěná dárková bedna obsahuje červené víno pro novomanžele, kosmetiku pro nevěstu i ženicha a dekorativní srdce.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Krásný a originální svatební dar novomanželům, který připomínat, co znamená dokonalé manželství. Dřevěná dárková bedna obsahuje červené víno pro novomanžele, kosmetiku pro nevěstu i ženicha a dekorativní srdce.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Krásný a originální svatební dar novomanželům, který připomínat, co znamená dokonalé manželství. Dřevěná dárková bedna obsahuje červené víno pro novomanžele, kosmetiku pro nevěstu i ženicha a dekorativní srdce.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -34175,13 +34211,15 @@ Dárková bedna obsahuje:
   <SHOPITEM>
     <NAME>Vánoční dárková dřevěná bedna - Vánoční pohoda</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Krásná vánoční dárková bedna jako nápaditý dárek k Vánocům. S dárkovým sprchovým gelem, vánoční ozdobou, medovinou a mýdlem určitě nešlápnete vedle. Hodí se pro rodinu, přátele, ale i kolegy.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Krásná vánoční dárková bedna jako nápaditý dárek k Vánocům. S dárkovým sprchovým gelem, vánoční ozdobou, medovinou a mýdlem určitě nešlápnete vedle. Hodí se pro rodinu, přátele, ale i kolegy.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Krásná vánoční dárková bedna jako nápaditý dárek k Vánocům. S dárkovým sprchovým gelem, vánoční ozdobou, medovinou a mýdlem určitě nešlápnete vedle. Hodí se pro rodinu, přátele, ale i kolegy.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -34287,13 +34325,15 @@ Dárková bedna obsahuje:
   <SHOPITEM>
     <NAME>Dárková dřevěná bedna - pro štěstí</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Krásný dárek plný pro štěstí pro někoho, na kom vám záleží. Dárková čokoládu pro štěstí doplňuje ještě šumivé víno a šumivá pěnivá bomba do koupele.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Krásný dárek plný pro štěstí pro někoho, na kom vám záleží. Dárková čokoládu pro štěstí doplňuje ještě šumivé víno a šumivá pěnivá bomba do koupele.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Krásný dárek plný pro štěstí pro někoho, na kom vám záleží. Dárková čokoládu pro štěstí doplňuje ještě šumivé víno a šumivá pěnivá bomba do koupele.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -41540,9 +41580,9 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/BC230157_medovina-vanoce.jpg</IMAGE>
@@ -41566,9 +41606,9 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/BC230158_medovina-vanoce.jpg</IMAGE>
@@ -44740,15 +44780,13 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
   <SHOPITEM>
     <NAME>Dárkový dřevěný držák na víno</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tento elegantní dřevěný držák na lahev vína je nejen praktickým doplňkem, ale také stylovým vyjádřením lásky k vínu. S nápisem „Víno je nejlepší přítel člověka“ bude ideálním dárkem pro každého milovníka vína.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Tento elegantní dřevěný držák na lahev vína je nejen praktickým doplňkem, ale také stylovým vyjádřením lásky k vínu. S nápisem „Víno je nejlepší přítel člověka“ bude ideálním dárkem pro každého milovníka vína.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Tento elegantní dřevěný držák na lahev vína je nejen praktickým doplňkem, ale také stylovým vyjádřením lásky k vínu. S nápisem „Víno je nejlepší přítel člověka“ bude ideálním dárkem pro každého milovníka vína.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -44767,15 +44805,13 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
   <SHOPITEM>
     <NAME>Dárková sada na krájení sýra a otvírání vína pro degustaci</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tato stylová dárková sada je ideálním společníkem pro každou degustaci! Obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou – vše, co potřebujete pro dokonalý gurmánský zážitek.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Tato stylová dárková sada je ideálním společníkem pro každou degustaci! Obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou – vše, co potřebujete pro dokonalý gurmánský zážitek. &lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Tato stylová dárková sada je ideálním společníkem pro každou degustaci! Obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou – vše, co potřebujete pro dokonalý gurmánský zážitek. &lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -44794,15 +44830,13 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
   <SHOPITEM>
     <NAME>Dárková sada na krájení sýra a otvírání vína pro dokonalé párování</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tato elegantní dárková sada je perfektním pomocníkem pro každého milovníka vína a sýrů! Obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou – vše, co potřebujete pro dokonalé párování vína se sýrem.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Tato elegantní dárková sada je perfektním pomocníkem pro každého milovníka vína a sýrů! Obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou – vše, co potřebujete pro dokonalé párování vína se sýrem. &lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Tato elegantní dárková sada je perfektním pomocníkem pro každého milovníka vína a sýrů! Obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou – vše, co potřebujete pro dokonalé párování vína se sýrem. &lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -44821,15 +44855,13 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
   <SHOPITEM>
     <NAME>Dárková sada na krájení sýra a otvírání vína - pro chvíle s přáteli</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Připravte se na dokonalé chvíle strávené s přáteli s touto stylovou dárkovou sadou, která obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou. Vše, co potřebujete pro nezapomenutelný večer…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Připravte se na dokonalé chvíle strávené s přáteli s touto stylovou dárkovou sadou, která obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou. Vše, co potřebujete pro nezapomenutelný večer plný chutí a dobré nálady. &lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Připravte se na dokonalé chvíle strávené s přáteli s touto stylovou dárkovou sadou, která obsahuje nože na krájení sýra, špunt na lahev a nůž s vývrtkou. Vše, co potřebujete pro nezapomenutelný večer plný chutí a dobré nálady. &lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -44848,15 +44880,13 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
   <SHOPITEM>
     <NAME>Dárková sada na krájení sýra a otvírání vína - pro vinaře tělem i duší</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dárková sada pro všechny milovníky vína a sýra , která potěší každého vinaře tělem i duší! Sada obsahuje elegantní nože na krájení sýra, praktický špunt na lahev a multifunkční nůž s vývrtkou.…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Dárková sada pro všechny milovníky vína a sýra , která potěší každého vinaře tělem i duší! Sada obsahuje elegantní nože na krájení sýra, praktický špunt na lahev a multifunkční nůž s vývrtkou. Ideální dárek pro chvíle pohody s vínem a sýrem, který spojuje styl s praktičností. &lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárková sada pro všechny milovníky vína a sýra , která potěší každého vinaře tělem i duší! Sada obsahuje elegantní nože na krájení sýra, praktický špunt na lahev a multifunkční nůž s vývrtkou. Ideální dárek pro chvíle pohody s vínem a sýrem, který spojuje styl s praktičností. &lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -44882,9 +44912,9 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Další dárky</CATEGORY>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
       <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/238213a6-631c-4a6e-b315-63a8bcaaee1f.png</IMAGE>
@@ -47589,13 +47619,15 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
   <SHOPITEM>
     <NAME>Dřevěná dárková bedna pro vinaře</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Luxusní dřevěná dárková bedna pro vinaře obsahuje dárkové prosecco, sadu výrobků pro vinaře, kokosové bonbony, čokoládové sušenky Giotto, sýr ve skle, játra v plechovce Jensen´s, rillettes a aroma…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Luxusní dřevěná dárková bedna pro vinaře obsahuje dárkové prosecco, sadu výrobků pro vinaře, kokosové bonbony, čokoládové sušenky Giotto, sýr ve skle, játra v plechovce Jensen´s, rillettes a aroma difuzér v tubusu. Ideální dárek pro milovníky vína a delikates.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Luxusní dřevěná dárková bedna pro vinaře obsahuje dárkové prosecco, sadu výrobků pro vinaře, kokosové bonbony, čokoládové sušenky Giotto, sýr ve skle, játra v plechovce Jensen´s, rillettes a aroma difuzér v tubusu. Ideální dárek pro milovníky vína a delikates.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -47641,13 +47673,15 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
   <SHOPITEM>
     <NAME>Dřevěná dárková bedna pro vinařku</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Elegantní dřevěná dárková bedna pro vinařku obsahuje kosmetiku 4v1, tuhé mýdlo s meduňkou „mýdlový domek“, víno Grauburgund 0,2 l, sušenky Doppel Keks, kokosové bonbony a Giotto sušenky. Skvělý dárek…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Elegantní dřevěná dárková bedna pro vinařku obsahuje kosmetiku 4v1, tuhé mýdlo s meduňkou „mýdlový domek“, víno Grauburgund 0,2 l, sušenky Doppel Keks, kokosové bonbony a Giotto sušenky. Skvělý dárek plný relaxace a sladkých i vinných zážitků.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Elegantní dřevěná dárková bedna pro vinařku obsahuje kosmetiku 4v1, tuhé mýdlo s meduňkou „mýdlový domek“, víno Grauburgund 0,2 l, sušenky Doppel Keks, kokosové bonbony a Giotto sušenky. Skvělý dárek plný relaxace a sladkých i vinných zážitků.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
@@ -47721,13 +47755,15 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
   <SHOPITEM>
     <NAME>Dřevěný dárkový box s dekou pro maminku</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný tulipán a patchwork ve tvaru srdce. Ideální dárek plný radosti a pohody.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný tulipán a patchwork ve tvaru srdce. Ideální dárek plný radosti a pohody.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
