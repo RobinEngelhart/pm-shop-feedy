@@ -235,6 +235,7 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
     adult_cat = cfg.get("adult_category", defaults.get("adult_category"))
     if adult:
         report["adult"] += 1
+        report.setdefault("adult_items", []).append(f"{data['code']} {name}")
         notice = cfg.get("adult_notice", defaults.get("adult_notice", ""))
         if notice:
             desc_html = notice + desc_html
@@ -407,6 +408,9 @@ def write_report(supplier_id: str, cfg: dict, r: dict) -> None:
         "",
         f"Vyřazené položky ({len(r['skipped'])}):",
         *[f"  - {s}" for s in r["skipped"]],
+        "",
+        f"Označeno jako 18+ ({len(r.get('adult_items', []))}) – zkontrolujte:",
+        *[f"  - {x}" for x in r.get("adult_items", [])],
         "",
         f"Nezařazené do kategorie – spadly do '{cfg.get('fallback_category', 'Ke kontrole')}' ({len(r['unmatched'])}):",
         *[f"  - {s}" for s in r["unmatched"]],

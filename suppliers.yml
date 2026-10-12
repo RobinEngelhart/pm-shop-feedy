@@ -133,7 +133,7 @@ suppliers:
       - {category: "bedny a koše|kufřík", path: "Dárky a dekorace > Dárkové bedny a sady"}
       - {manufacturer: "Daruj Bednu", path: "Dárky a dekorace > Dárkové bedny a sady"}
       - {category: "Hrnky|Půllitry|Placatky|Otvíráky|skleničky a panáky", path: "Dárky a dekorace > Hrnky, půllitry a placatky"}
-      - {name: "\\bvín[oa]\\b|medovin|prosecco|sekt\\b|\\bpiv[oa]\\b.*\\d+[,.]?\\d*\\s?l\\b|ležák|likér|slivovic", text: "\\d+[,.]?\\d*\\s?l\\b", path: "Dárky a dekorace > Víno a alkohol 18+", vat: 21}
+      - {name: "\\bvín[oa]\\b|medovin|prosecco|sekt\\b|\\bpiv[oa]\\b.*\\d+[,.]?\\d*\\s?l\\b|ležák|likér|slivovic", text: "\\d+[,.]?\\d*\\s?m?l\\b", path: "Dárky a dekorace > Víno a alkohol 18+", vat: 21}
       - {name: "klíčenk|button|placka", path: "Dárky a dekorace > Klíčenky a placky"}
       - {category: "Energetické nápoje", path: "Dárky a dekorace > Čaje a nápoje", vat: 21}
       - {category: "čaje", path: "Dárky a dekorace > Čaje a nápoje", vat: 12}
@@ -147,8 +147,10 @@ suppliers:
     fallback_category: "Dárky a dekorace > Další dárky"
     # alkohol: samotné nápoje + dárkové bedny/sady, ve kterých je víno, prosecco, pivo nebo medovina
     adult_rules:
-      - {name: "\\bvín[oa]\\b|medovin|prosecco|sekt\\b|ležák|likér|slivovic|pálenk|\\brum\\b|whisk|vodk", text: "\\d+[,.]?\\d*\\s?(l|ml)\\b|láhev|lahev|lahv", manufacturer: ".", category: "^(?!.*(Kosmetik|mýdla|koupel|Sprchov|Dekorace a doplňky > Rámečky)).*$"}
-      - {name: "bedn|koš|kufřík|sada|box|balíček", text: "(víno|vína|vínem|prosecc|pivo |piva|pivem|ležák|medovin)[^.]{0,80}(0,75|0,5 ?l|0,33|láhev|lahev|lahv)|(0,75 ?l|0,5 ?l|0,33 ?l|láhev|lahev|lahv)[^.]{0,80}(víno|vína|prosecc|pivo|piva|medovin)"}
+      # samotné nápoje (název + objem), ne příslušenství k vínu
+      - {name: "^(?!.*(otvír|vývrt|držák|stojan|krájen|sklenic|obraz|cedul|kosmet|sprchov|šampon|mýdl|lázeň|koupel)).*(\\bvín[oa]\\b|\\bpiv[oa]\\b|medovin|prosecco|sekt\\b|ležák|likér|slivovic|pálenk|\\brum\\b|whisk|vodk)", text: "\\d+[,.]?\\d*\\s?m?l\\b|láhev|lahev|lahv"}
+      # dárkové bedny a sady, které alkohol obsahují
+      - {name: "^(?!.*(kosmet|sprchov|šampon|mýdl|lázeň|koupel|otvír|krájen)).*(bedn|koš|kufřík|sada|box|balíček)", text: "(červeným|bílým|šumivým|růžovým) vínem|s vínem|šumivé víno|víno [A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ]|víno \\d|prosecc|medovin|lahvov\\w* piv|piv[oa] \\d|s pivem|ležák"}
 
   # Šablona pro dalšího dodavatele (stačí zkopírovat, upravit a nastavit enabled: true).
   # Častý formát je Heureka XML – pak vypadá mapování takto:
