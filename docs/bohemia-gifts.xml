@@ -15588,139 +15588,6 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Zlatá medovina k narozeninám 100 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/252e5ec1-3caf-4561-95bb-36643ae8bc35.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/BC850001_medovina_100ml_k_narozeninam.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC850001</CODE>
-    <EAN>8595590781665</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Zlatá medovina pro štěstí 100 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je skvělý dárek pro vaše kolegy, přátele a kamarády.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je skvělý dárek pro vaše kolegy, přátele a kamarády.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/1deea9cf-a74f-4b6f-acd1-c88ac4d84045.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850004.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC850004</CODE>
-    <EAN>8595590781696</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Zlatá medovina pro dědečka 100 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro vašeho dědečka.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro vašeho dědečka.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/df8c45c9-3fa9-4b39-9ff7-0c63e73332cc.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850005.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC850005</CODE>
-    <EAN>8595590781702</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Zlatá medovina pro myslivce 100 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro myslivce a milovníky přírody.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro myslivce a milovníky přírody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850007.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC850007</CODE>
-    <EAN>8595590781726</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Zlatá medovina pro rybáře 100 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro rybáře a milovníky rybaření.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro rybáře a milovníky rybaření.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850008.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC850008</CODE>
-    <EAN>8595590781733</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Button - placka s otvírákem 55 mm pro rybáře</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Button s otvírákem a magnetem pro rybáře. Průměr placky pro rybáře je 55 mm.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Button s otvírákem a magnetem pro rybáře. Průměr placky pro rybáře je 55 mm.&lt;/p&gt;</DESCRIPTION>
@@ -26114,58 +25981,6 @@ Přepadne-li Vás chuť na čokoládu, uvařte si čokoládový čaj!&lt;/p&gt;<
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Zlatá medovina pro dobrý spánek 100 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina jako milý a nápaditý dárek pro dobrý spánek pro vaše blízké, přátelé nebo kolegy.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina jako milý a nápaditý dárek pro dobrý spánek pro vaše blízké, přátelé nebo kolegy.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210276-2.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC210276</CODE>
-    <EAN>8595590709416</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Zlatá medovina proti stresu 100 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina jako milý a nápaditý dárek proti stresu pro vaše blízké, prátelé nebo kolegy.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina jako milý a nápaditý dárek proti stresu pro vaše blízké, prátelé nebo kolegy.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210277-2.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC210277</CODE>
-    <EAN>8595590709423</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dekorační obraz 30 x 30 cm pro myslivce - I ten nejhorší den na lovu</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Home Decor - dekorační obraz na zavěšení pro myslivce 30 x 30 cm - Den na lovu tištěný na směsnou desku o tloušťce 0,8 cm. Krásná dekorace pro milovníky myslivosti do domu, bytu nebo na chalupu.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Home Decor - dekorační obraz na zavěšení pro myslivce 30 x 30 cm - Den na lovu tištěný na směsnou desku o tloušťce 0,8 cm. Krásná dekorace pro milovníky myslivosti do domu, bytu nebo na chalupu.&lt;/p&gt;</DESCRIPTION>
@@ -35235,58 +35050,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vánoční zlatá medovina 100 ml - Krásné Vánoce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/BC230157_medovina-vanoce.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC230157</CODE>
-    <EAN>8595590724655</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Zlatá medovina 100 ml - Šťastný nový rok</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina s přáním šťastného nového roku je 18 % lahodný alkoholický nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina s přáním šťastného nového roku je 18 % lahodný alkoholický nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/BC230158_medovina-vanoce.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC230158</CODE>
-    <EAN>8595590724662</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dárkový pivní půllitr v krabičce - Nikdo není dokonalý</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Skleněný půllitr. neboli krýgl, s netradičním potiskem je zajímavým a originálním dárkem, který obdarovaný bude mít roky a vždy si vzpomene na to kdo mu ho dal.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Skleněný půllitr. neboli krýgl, s netradičním potiskem je zajímavým a originálním dárkem, který obdarovaný bude mít roky a vždy si vzpomene na to kdo mu ho dal.&lt;/p&gt;</DESCRIPTION>
@@ -38562,33 +38325,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>349.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Zlatá medovina pro babičku 100 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Speciální dárek pro milovanou babičku! Jemná zlatá medovina s 18% obsahem alkoholu. Tradiční český nápoj, který potěší každou babičku svou lahodnou chutí. Vyrobeno v České republice s důrazem na…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Speciální dárek pro milovanou babičku! Jemná zlatá medovina s 18% obsahem alkoholu. Tradiční český nápoj, který potěší každou babičku svou lahodnou chutí. Vyrobeno v České republice s důrazem na kvalitu. 100 ml balení ideální jako pozornost plná lásky.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/238213a6-631c-4a6e-b315-63a8bcaaee1f.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC850006_medovina_100ml_pro_babicku.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC850006</CODE>
-    <EAN>8595590781719</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54017,6 +53753,270 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina k narozeninám 100 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/252e5ec1-3caf-4561-95bb-36643ae8bc35.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/BC850001_medovina_100ml_k_narozeninam.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC850001</CODE>
+    <EAN>8595590781665</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina pro štěstí 100 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je skvělý dárek pro vaše kolegy, přátele a kamarády.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je skvělý dárek pro vaše kolegy, přátele a kamarády.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/1deea9cf-a74f-4b6f-acd1-c88ac4d84045.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850004.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC850004</CODE>
+    <EAN>8595590781696</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina pro dědečka 100 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro vašeho dědečka.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro vašeho dědečka.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/df8c45c9-3fa9-4b39-9ff7-0c63e73332cc.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850005.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC850005</CODE>
+    <EAN>8595590781702</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina pro myslivce 100 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro myslivce a milovníky přírody.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro myslivce a milovníky přírody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850007.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC850007</CODE>
+    <EAN>8595590781726</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina pro rybáře 100 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro rybáře a milovníky rybaření.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina je krásný chutný dárek pro rybáře a milovníky rybaření.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC850008.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC850008</CODE>
+    <EAN>8595590781733</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina pro dobrý spánek 100 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina jako milý a nápaditý dárek pro dobrý spánek pro vaše blízké, přátelé nebo kolegy.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina jako milý a nápaditý dárek pro dobrý spánek pro vaše blízké, přátelé nebo kolegy.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210276-2.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC210276</CODE>
+    <EAN>8595590709416</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina proti stresu 100 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina jako milý a nápaditý dárek proti stresu pro vaše blízké, prátelé nebo kolegy.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina jako milý a nápaditý dárek proti stresu pro vaše blízké, prátelé nebo kolegy.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210277-2.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC210277</CODE>
+    <EAN>8595590709423</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční zlatá medovina 100 ml - Krásné Vánoce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina 18 % je lahodný nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/BC230157_medovina-vanoce.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC230157</CODE>
+    <EAN>8595590724655</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina 100 ml - Šťastný nový rok</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zlatá medovina s přáním šťastného nového roku je 18 % lahodný alkoholický nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Zlatá medovina s přáním šťastného nového roku je 18 % lahodný alkoholický nápoj zlatavé barvy a čisté medové chuti. Medovina může být skvělý dárek k narozeninám pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/BC230158_medovina-vanoce.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC230158</CODE>
+    <EAN>8595590724662</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Zlatá medovina pro babičku 100 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Speciální dárek pro milovanou babičku! Jemná zlatá medovina s 18% obsahem alkoholu. Tradiční český nápoj, který potěší každou babičku svou lahodnou chutí. Vyrobeno v České republice s důrazem na…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Speciální dárek pro milovanou babičku! Jemná zlatá medovina s 18% obsahem alkoholu. Tradiční český nápoj, který potěší každou babičku svou lahodnou chutí. Vyrobeno v České republice s důrazem na kvalitu. 100 ml balení ideální jako pozornost plná lásky.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/238213a6-631c-4a6e-b315-63a8bcaaee1f.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC850006_medovina_100ml_pro_babicku.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC850006</CODE>
+    <EAN>8595590781719</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
 </SHOP>

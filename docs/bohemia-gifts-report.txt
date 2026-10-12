@@ -1,11 +1,11 @@
 Dodavatel: Bohemia Gifts
 Položek ve feedu dodavatele: 2282
-Produktů ve výstupu: 2128 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2128, cena z koeficientu: 0
-Zboží jen pro dospělé (18+): 186
-Zmizelo z feedu dodavatele – ponecháno se skladem 0: 0, vypuštěno po lhůtě: 0
+Produktů ve výstupu: 2118 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2118, cena z koeficientu: 0
+Zboží jen pro dospělé (18+): 176
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 10, vypuštěno po lhůtě: 0
 
-Vyřazené položky (154):
+Vyřazené položky (164):
   - BC220247 Dětské body s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
   - BC220248 Tričko s vlastním potiskem - klasický střih – personalizovaný produkt (nutné zadání od zákazníka)
   - BC220249 Dámské bílé tričko s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
@@ -80,6 +80,11 @@ Vyřazené položky (154):
   - BO-15-posledni-ciste-body Dětské body s potiskem - Poslední čísté body – oblečení – feed neobsahuje velikosti
   - BO-16-tak-jsem-tady Dětské body s potiskem - Tak jsem tady – oblečení – feed neobsahuje velikosti
   - BO-17-zivotni-dobrodruzstvi Dětské body s potiskem - Životní dobrodružství – oblečení – feed neobsahuje velikosti
+  - BC850001 Zlatá medovina k narozeninám 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
+  - BC850004 Zlatá medovina pro štěstí 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
+  - BC850005 Zlatá medovina pro dědečka 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
+  - BC850007 Zlatá medovina pro myslivce 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
+  - BC850008 Zlatá medovina pro rybáře 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
   - BC190142 Dětské body s potiskem - liška – oblečení – feed neobsahuje velikosti
   - BC190143 Dětské body s potiskem - sova – oblečení – feed neobsahuje velikosti
   - BC190145 Dětské body s potiskem - srnec s ptáčkem – oblečení – feed neobsahuje velikosti
@@ -123,6 +128,8 @@ Vyřazené položky (154):
   - BC210211 Pánské tričko s potiskem - Srdcem dobrodruh – oblečení – feed neobsahuje velikosti
   - BC210212 Dámské tričko - Srdcem horalka – oblečení – feed neobsahuje velikosti
   - BC210213 Pánské tričko - Jsem z toho jelen – oblečení – feed neobsahuje velikosti
+  - BC210276 Zlatá medovina pro dobrý spánek 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
+  - BC210277 Zlatá medovina proti stresu 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
   - BC210460 Dámské tričko - Surf Girl – oblečení – feed neobsahuje velikosti
   - BC210459 Pánské tričko - Surf Days – oblečení – feed neobsahuje velikosti
   - BC210458 Pánské tričko - Lyžař – oblečení – feed neobsahuje velikosti
@@ -158,10 +165,13 @@ Vyřazené položky (154):
   - BC610053 Pivrnec tričko s potiskem pro rybáře – oblečení – feed neobsahuje velikosti
   - AAE020940 – chybí prodejní cena
   - 554888430 – chybí prodejní cena
+  - BC230157 Vánoční zlatá medovina 100 ml - Krásné Vánoce – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
+  - BC230158 Zlatá medovina 100 ml - Šťastný nový rok – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
   - BC610057 Pivrnec tričko s potiskem - Hasič žízně – oblečení – feed neobsahuje velikosti
   - BC210002 Pánské tričko s potiskem - Hory volají – oblečení – feed neobsahuje velikosti
+  - BC850006 Zlatá medovina pro babičku 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
 
-Označeno jako 18+ (186) – zkontrolujte:
+Označeno jako 18+ (176) – zkontrolujte:
   - BC006223 Dárkové bílé víno pro tatínka 0,75 l - Chardonnay
   - BC006224 Dárkové červené víno mamince 0,75 l - Merlot
   - BC006225 Dárkové červené víno pro babičku 0,75 l - Merlot
@@ -202,11 +212,6 @@ Označeno jako 18+ (186) – zkontrolujte:
   - BC124036 Dárkové bílé víno k svátku 0,75 l - Chardonnay
   - BC124034 Dárkové bílé víno k narozeninám 0,75 l - Chardonnay
   - BC124033 Dárkové červené víno k narozeninám 0,75 l - Merlot
-  - BC850001 Zlatá medovina k narozeninám 100 ml
-  - BC850004 Zlatá medovina pro štěstí 100 ml
-  - BC850005 Zlatá medovina pro dědečka 100 ml
-  - BC850007 Zlatá medovina pro myslivce 100 ml
-  - BC850008 Zlatá medovina pro rybáře 100 ml
   - BC124037 Dárkové bílé víno 0,75 l Chardonnay – No Stress
   - BC124038 Dárkové červené víno 0,75 l Merlot – No Stress
   - BC124039 Dárkové bílé víno 0,75 l Chardonnay – dvě decinky
@@ -239,8 +244,6 @@ Označeno jako 18+ (186) – zkontrolujte:
   - BC210203 Dárkové červené víno pro zatraceně hezký večer 0,75 l - Merlot
   - BC210201 Dárkové bílé víno 0,75 l Chardonnay - Srdeční záležitost
   - BC210202 Dárkové bílé víno pro zaručeně hezký večer 0,75 l - Chardonnay
-  - BC210276 Zlatá medovina pro dobrý spánek 100 ml
-  - BC210277 Zlatá medovina proti stresu 100 ml
   - BC210123 Vánoční červené víno Merlot s kořením na svařák 0,75 l
   - BC210157 Velikonoční bílé víno 0,75 l - Chardonnay
   - BC210158 Velikonoční červené víno 0,75 l - Merlot
@@ -266,9 +269,6 @@ Označeno jako 18+ (186) – zkontrolujte:
   - BC230142 Dárkové prosecco 0,75 l - Šťastné a veselé
   - BC230141 Dárkové prosecco 0,75 l - Pohodové Vánoce
   - BC230143 Dárkové prosecco 0,75 l - Hodně štěstí a zdraví
-  - BC230157 Vánoční zlatá medovina 100 ml - Krásné Vánoce
-  - BC230158 Zlatá medovina 100 ml - Šťastný nový rok
-  - BC850006 Zlatá medovina pro babičku 100 ml
   - BC250083 Dřevěná dárková bedna pro vinaře
   - BC250085 Dřevěná dárková bedna pro vinařku
   - BC250088 Dřevěný dárkový box s dekou pro maminku
