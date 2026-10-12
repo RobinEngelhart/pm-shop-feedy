@@ -19,6 +19,11 @@ defaults:
     rounding: nines        # nines = ...9 Kč, whole = celé Kč, none = bez zaokrouhlení
     vat_default: 21
     publish_purchase_price: false   # feed je veřejný – nákupní ceny do něj nedáváme
+  # Zboží jen pro dospělé (pravidla adult_rules u dodavatele): dostane příznak ADULT,
+  # upozornění na začátek popisu a navíc se zařadí do kategorie 18+ (na ni se v Shoptetu
+  # napojí doplněk na ověření věku v košíku).
+  adult_category: "Pouze pro dospělé 18+"
+  adult_notice: "<p><strong>Prodej osobám mladším 18 let je zakázán.</strong> Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.</p>"
 
 suppliers:
 
@@ -128,11 +133,10 @@ suppliers:
       - {category: "bedny a koše|kufřík", path: "Dárky a dekorace > Dárkové bedny a sady"}
       - {manufacturer: "Daruj Bednu", path: "Dárky a dekorace > Dárkové bedny a sady"}
       - {category: "Hrnky|Půllitry|Placatky|Otvíráky|skleničky a panáky", path: "Dárky a dekorace > Hrnky, půllitry a placatky"}
-      - {category: "Dárková vína|alkohol(?!.*čaj)", path: "Dárky a dekorace > Víno a nápoje", vat: 21}
-      - {name: "\\bvíno\\b|\\bvína\\b|medovin|likér|slivovic", path: "Dárky a dekorace > Víno a nápoje", vat: 21}
+      - {name: "\\bvín[oa]\\b|medovin|prosecco|sekt\\b|\\bpiv[oa]\\b.*\\d+[,.]?\\d*\\s?l\\b|ležák|likér|slivovic", text: "\\d+[,.]?\\d*\\s?l\\b", path: "Dárky a dekorace > Víno a alkohol 18+", vat: 21}
       - {name: "klíčenk|button|placka", path: "Dárky a dekorace > Klíčenky a placky"}
-      - {category: "Energetické nápoje", path: "Dárky a dekorace > Víno a nápoje", vat: 21}
-      - {category: "čaje", path: "Dárky a dekorace > Čaje", vat: 12}
+      - {category: "Energetické nápoje", path: "Dárky a dekorace > Čaje a nápoje", vat: 21}
+      - {category: "čaje", path: "Dárky a dekorace > Čaje a nápoje", vat: 12}
       - {category: "Cukrovinky|čokolád|Bonbóny|Sušenky|sladkosti", path: "Dárky a dekorace > Sladkosti", vat: 12}
       - {category: "Kosmetik|mýdla|koupel|Sprchové gely|šampon|bomby", path: "Dárky a dekorace > Kosmetika a mýdla"}
       - {category: "svíčk|svícn|difuzér|vonítk|vonné", path: "Dárky a dekorace > Svíčky a vůně"}
@@ -141,6 +145,10 @@ suppliers:
       - {category: "Textil|tašky|Batohy", path: "Dárky a dekorace > Tašky a textil"}
       - {category: "Dekorace|Rámečky|Samolepky|hodiny|zápichy|srdce", path: "Dárky a dekorace > Dekorace do bytu"}
     fallback_category: "Dárky a dekorace > Další dárky"
+    # alkohol: samotné nápoje + dárkové bedny/sady, ve kterých je víno, prosecco, pivo nebo medovina
+    adult_rules:
+      - {name: "\\bvín[oa]\\b|medovin|prosecco|sekt\\b|ležák|likér|slivovic|pálenk|\\brum\\b|whisk|vodk", text: "\\d+[,.]?\\d*\\s?(l|ml)\\b|láhev|lahev|lahv", manufacturer: ".", category: "^(?!.*(Kosmetik|mýdla|koupel|Sprchov|Dekorace a doplňky > Rámečky)).*$"}
+      - {name: "bedn|koš|kufřík|sada|box|balíček", text: "(víno|vína|vínem|prosecc|pivo |piva|pivem|ležák|medovin)[^.]{0,80}(0,75|0,5 ?l|0,33|láhev|lahev|lahv)|(0,75 ?l|0,5 ?l|0,33 ?l|láhev|lahev|lahv)[^.]{0,80}(víno|vína|prosecc|pivo|piva|medovin)"}
 
   # Šablona pro dalšího dodavatele (stačí zkopírovat, upravit a nastavit enabled: true).
   # Častý formát je Heureka XML – pak vypadá mapování takto:

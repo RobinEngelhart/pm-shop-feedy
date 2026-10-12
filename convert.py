@@ -113,7 +113,7 @@ def match_rule(rule: dict, data: dict) -> bool:
         "name": data["name"],
         "category": data["supplier_category"],
         "manufacturer": data["manufacturer"],
-        "text": f"{data['name']} {data['description'][:500]}",
+        "text": f"{data['name']} " + re.sub(r"<[^>]+>", " ", data["description"])[:2000],
     }
     used = False
     for key, value in checks.items():
@@ -229,6 +229,16 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
         category = cfg.get("fallback_category", defaults.get("fallback_category", "Ke kontrole"))
         report["unmatched"].append(f"{data['code']} {name} (kategorie dodavatele: {data['supplier_category'] or '-'})")
 
+    # --- zboží jen pro dospělé (alkohol, e-cigarety...): příznak ADULT, upozornění v popisu
+    #     a navíc zařazení do kategorie 18+ (na ni se pak napojí ověření věku v košíku)
+    adult = any(match_rule(r, {**data, "name": name}) for r in cfg.get("adult_rules", []))
+    adult_cat = cfg.get("adult_category", defaults.get("adult_category"))
+    if adult:
+        report["adult"] += 1
+        notice = cfg.get("adult_notice", defaults.get("adult_notice", ""))
+        if notice:
+            desc_html = notice + desc_html
+
     # --- DPH a ceny
     vat = to_number(data["vat"])
     vat_map = {str(k): v for k, v in cfg.get("vat_map", {}).items()}
@@ -272,10 +282,14 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
         ET.SubElement(si, "MANUFACTURER").text = manufacturer
     if cfg.get("supplier_name"):
         ET.SubElement(si, "SUPPLIER").text = cfg["supplier_name"]
+    if adult:
+        ET.SubElement(si, "ADULT").text = "1"
     ET.SubElement(si, "ITEM_TYPE").text = "product"
     ET.SubElement(si, "UNIT").text = "ks"
     cats = ET.SubElement(si, "CATEGORIES")
     ET.SubElement(cats, "CATEGORY").text = category
+    if adult and adult_cat and adult_cat != category:
+        ET.SubElement(cats, "CATEGORY").text = adult_cat
     ET.SubElement(cats, "DEFAULT_CATEGORY").text = category
     if data["images"]:
         imgs = ET.SubElement(si, "IMAGES")
@@ -315,7 +329,8 @@ def convert_supplier(supplier_id: str, cfg: dict, defaults: dict, inputs: dict) 
     global NS
     NS = cfg.get("namespaces", {}) or {}
     report = {"count": 0, "out_of_stock": 0, "priced_rrp": 0, "priced_coef": 0,
-              "skipped": [], "unmatched": [], "source_items": 0, "kept_missing": 0, "dropped_missing": 0}
+              "skipped": [], "unmatched": [], "source_items": 0, "kept_missing": 0, "dropped_missing": 0,
+              "adult": 0}
     raw = load_source(supplier_id, cfg, inputs)
     root = ET.fromstring(raw)
     item_tag = cfg.get("item_tag", "item")
@@ -387,6 +402,7 @@ def write_report(supplier_id: str, cfg: dict, r: dict) -> None:
         f"Položek ve feedu dodavatele: {r['source_items']}",
         f"Produktů ve výstupu: {r['count']} (z toho bez skladu: {r['out_of_stock']})",
         f"Cena z doporučené/prodejní ceny dodavatele: {r['priced_rrp']}, cena z koeficientu: {r['priced_coef']}",
+        f"Zboží jen pro dospělé (18+): {r['adult']}",
         f"Zmizelo z feedu dodavatele – ponecháno se skladem 0: {r['kept_missing']}, vypuštěno po lhůtě: {r['dropped_missing']}",
         "",
         f"Vyřazené položky ({len(r['skipped'])}):",
