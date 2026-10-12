@@ -1,7 +1,8 @@
 Dodavatel: VO partner (Conectiv)
 Položek ve feedu dodavatele: 287
 Produktů ve výstupu: 264 (z toho bez skladu: 34)
-Cena z doporučené ceny dodavatele: 26, cena z koeficientu: 238
+Cena z doporučené/prodejní ceny dodavatele: 26, cena z koeficientu: 238
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 0, vypuštěno po lhůtě: 0
 
 Vyřazené položky (23):
   - ESV032 – vyřazeno v konfiguraci
