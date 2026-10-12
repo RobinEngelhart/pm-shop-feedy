@@ -129,6 +129,7 @@ suppliers:
     exclude:
       - {text: "s vlastním potiskem|s vlastní etiketou|vlastní fotograf|personaliz", reason: "personalizovaný produkt (nutné zadání od zákazníka)"}
       - {name: "trič|mikin|\\bbody\\b|bodýč", reason: "oblečení – feed neobsahuje velikosti"}
+      - {name: "medovin", text: "1[5-9] ?%|[2-9]\\d ?%", reason: "medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno"}
     categories:
       - {category: "bedny a koše|kufřík", path: "Dárky a dekorace > Dárkové bedny a sady"}
       - {manufacturer: "Daruj Bednu", path: "Dárky a dekorace > Dárkové bedny a sady"}
