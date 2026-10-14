@@ -1,7 +1,7 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2277
-Produktů ve výstupu: 2113 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2113, cena z koeficientu: 0
+Položek ve feedu dodavatele: 2312
+Produktů ve výstupu: 2148 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2148, cena z koeficientu: 0
 Zboží jen pro dospělé (18+): 176
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 15, vypuštěno po lhůtě: 0
 
@@ -343,13 +343,13 @@ Označeno jako 18+ (176) – zkontrolujte:
   - BC260321 Dárkové víno 0,75 l - Merlot - Nesem vám noviny
   - BC260322 Dárkové víno 0,75 l - Merlot - Lovu Zdar
   - BC260323 Dárkové víno 0,75 l - Merlot - petruv zdar
-  - BC260324 Dárkové červené víno Merlot 0,75 l – Krásné narozeniny.
+  - BC260395 Dárkové červené víno Merlot 0,75 l – Krásné narozeniny.
   - BC260325 Dárkové bílé víno 0,75 l - Chardonnay - Lovu Zdar
   - BC260326 Dárkové bílé víno Chardonnay 0,75 l – Petruv zdar.
   - BC260327 Dárkové bílé víno 0,75 l - Chardonnay - Krásné narozeniny
   - BC260328 Dárkové bílé víno 0,75 l - Chardonnay - Dnes se slaví narozeniny
 
-Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (62):
+Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (78):
   - BC190141 Dětská bavlněná plenka - srnec (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190139 Dětská bavlněná plenka - medvídek (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190140 Dětská bavlněná plenka - sova (kategorie dodavatele: Dárky pro > Dárky pro miminko)
@@ -412,3 +412,19 @@ Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (62
   - BC260416 Potpourri 12x20 cm - pro milovanou babičku (kategorie dodavatele: Dárky pro > Dárky pro babičku)
   - BC260417 Potpourri 12x20 cm - pro skvělou kamarádku (kategorie dodavatele: Dárky pro > Dárky pro kamarádku)
   - BC260419 Potpourri 12x20 cm - pro vyjímečnou ženu (kategorie dodavatele: Dárky pro > Dárky pro ženu)
+  - BC260376 Vánoční plechový box XS - Pro paní učitelku (kategorie dodavatele: Dárky pro učitele a učitelky)
+  - BC260377 Vánoční plechový box XS - Pro zdravotní sestřičku (kategorie dodavatele: Darky pro doktory a sestřičky)
+  - BC260378 Vánoční plechový box XS - Pro paní doktorku (kategorie dodavatele: Darky pro doktory a sestřičky)
+  - BC260379 Vánoční plechový box XS - Pro učitelku MŠ (kategorie dodavatele: Dárky pro učitele a učitelky)
+  - BC260380 Vánoční plechový box XS - Pro paní pečovatelku (kategorie dodavatele: Dárky pro)
+  - BC260381 Vánoční plechový box XS - Pro paní asistentku (kategorie dodavatele: Dárky pro)
+  - BC260398 Vánoční sada hrnků 4 ks - vánoční pohoda (kategorie dodavatele: Vánoční dárky)
+  - BC260399 Vánoční sada hrnků 4 ks - vánoční pošta pro tebe (kategorie dodavatele: Vánoční dárky)
+  - BC260400 Vánoční sada hrnků 4 ks - Vánoce v každém doušku (kategorie dodavatele: Vánoční dárky)
+  - BC260401 Vánoční sada hrnků 4 ks - Krásné Vánoce (kategorie dodavatele: Vánoční dárky)
+  - BC260402 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní učitelku (kategorie dodavatele: Dárky pro učitele a učitelky > Vánoční dárky)
+  - BC260403 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní učitelku v MŠ (kategorie dodavatele: Dárky pro učitele a učitelky > Vánoční dárky)
+  - BC260404 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní asistentku (kategorie dodavatele: Dárky pro > Vánoční dárky)
+  - BC260405 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní doktorku (kategorie dodavatele: Darky pro doktory a sestřičky > Vánoční dárky)
+  - BC260406 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro zdravotní sestřičku (kategorie dodavatele: Darky pro doktory a sestřičky > Vánoční dárky)
+  - BC260407 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní pečovatelku (kategorie dodavatele: Darky pro doktory a sestřičky > Vánoční dárky)
