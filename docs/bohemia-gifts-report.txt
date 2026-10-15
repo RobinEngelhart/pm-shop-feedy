@@ -1,11 +1,11 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2312
-Produktů ve výstupu: 2148 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2148, cena z koeficientu: 0
-Zboží jen pro dospělé (18+): 176
-Zmizelo z feedu dodavatele – ponecháno se skladem 0: 15, vypuštěno po lhůtě: 0
+Položek ve feedu dodavatele: 2295
+Produktů ve výstupu: 2130 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2130, cena z koeficientu: 0
+Zboží jen pro dospělé (18+): 179
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 39, vypuštěno po lhůtě: 0
 
-Vyřazené položky (164):
+Vyřazené položky (165):
   - BC220247 Dětské body s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
   - BC220248 Tričko s vlastním potiskem - klasický střih – personalizovaný produkt (nutné zadání od zákazníka)
   - BC220249 Dámské bílé tričko s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
@@ -150,6 +150,7 @@ Vyřazené položky (164):
   - BC210442 Dámské tričko - Nejsem Těhotná – oblečení – feed neobsahuje velikosti
   - BC210213-1-1-1-3-1-1-2 Dámské tričko - Idiot – oblečení – feed neobsahuje velikosti
   - BC210213-1-1-1-3-1-1-2-1 Pánské tričko - Idiot – oblečení – feed neobsahuje velikosti
+  - DH8057420 – chybí prodejní cena
   - HZ1992030 – chybí prodejní cena
   - BC610062 Pivrncovo dámské tričko s potiskem – univerzální žena – oblečení – feed neobsahuje velikosti
   - BC610051 Pivrnec tričko s potiskem – počítačový závislák – oblečení – feed neobsahuje velikosti
@@ -171,7 +172,7 @@ Vyřazené položky (164):
   - BC210002 Pánské tričko s potiskem - Hory volají – oblečení – feed neobsahuje velikosti
   - BC850006 Zlatá medovina pro babičku 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
 
-Označeno jako 18+ (176) – zkontrolujte:
+Označeno jako 18+ (179) – zkontrolujte:
   - BC006223 Dárkové bílé víno pro tatínka 0,75 l - Chardonnay
   - BC006224 Dárkové červené víno mamince 0,75 l - Merlot
   - BC006225 Dárkové červené víno pro babičku 0,75 l - Merlot
@@ -272,7 +273,6 @@ Označeno jako 18+ (176) – zkontrolujte:
   - BC250083 Dřevěná dárková bedna pro vinaře
   - BC250085 Dřevěná dárková bedna pro vinařku
   - BC250088 Dřevěný dárkový box s dekou pro maminku
-  - BC250098 Vánoční dřevěná dárková bedna s prosecco
   - BC250100 Dřevěná dárková bedna z lásky s prosecco
   - BC250199 Dárkové bílé víno 0,75 l – Chardonnay – Recept
   - BC250201 Dárkové bílé víno 0,75 l Chardonnay – Antidebilicum
@@ -348,8 +348,12 @@ Označeno jako 18+ (176) – zkontrolujte:
   - BC260326 Dárkové bílé víno Chardonnay 0,75 l – Petruv zdar.
   - BC260327 Dárkové bílé víno 0,75 l - Chardonnay - Krásné narozeniny
   - BC260328 Dárkové bílé víno 0,75 l - Chardonnay - Dnes se slaví narozeniny
+  - BC260142 Dárkové bílé víno 0,75 l Chardonnay - pro babičku
+  - BC260143 Dárkové červené víno 0,75 l Merlot - pro babičku
+  - BC260144 Dárkové bílé víno 0,75 l Chardonnay - pro dědu
+  - BC260145 Dárkové červené víno 0,75 l Merlot - pro dědu
 
-Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (78):
+Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (63):
   - BC190141 Dětská bavlněná plenka - srnec (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190139 Dětská bavlněná plenka - medvídek (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190140 Dětská bavlněná plenka - sova (kategorie dodavatele: Dárky pro > Dárky pro miminko)
@@ -412,19 +416,4 @@ Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (78
   - BC260416 Potpourri 12x20 cm - pro milovanou babičku (kategorie dodavatele: Dárky pro > Dárky pro babičku)
   - BC260417 Potpourri 12x20 cm - pro skvělou kamarádku (kategorie dodavatele: Dárky pro > Dárky pro kamarádku)
   - BC260419 Potpourri 12x20 cm - pro vyjímečnou ženu (kategorie dodavatele: Dárky pro > Dárky pro ženu)
-  - BC260376 Vánoční plechový box XS - Pro paní učitelku (kategorie dodavatele: Dárky pro učitele a učitelky)
-  - BC260377 Vánoční plechový box XS - Pro zdravotní sestřičku (kategorie dodavatele: Darky pro doktory a sestřičky)
-  - BC260378 Vánoční plechový box XS - Pro paní doktorku (kategorie dodavatele: Darky pro doktory a sestřičky)
-  - BC260379 Vánoční plechový box XS - Pro učitelku MŠ (kategorie dodavatele: Dárky pro učitele a učitelky)
-  - BC260380 Vánoční plechový box XS - Pro paní pečovatelku (kategorie dodavatele: Dárky pro)
-  - BC260381 Vánoční plechový box XS - Pro paní asistentku (kategorie dodavatele: Dárky pro)
-  - BC260398 Vánoční sada hrnků 4 ks - vánoční pohoda (kategorie dodavatele: Vánoční dárky)
-  - BC260399 Vánoční sada hrnků 4 ks - vánoční pošta pro tebe (kategorie dodavatele: Vánoční dárky)
-  - BC260400 Vánoční sada hrnků 4 ks - Vánoce v každém doušku (kategorie dodavatele: Vánoční dárky)
-  - BC260401 Vánoční sada hrnků 4 ks - Krásné Vánoce (kategorie dodavatele: Vánoční dárky)
-  - BC260402 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní učitelku (kategorie dodavatele: Dárky pro učitele a učitelky > Vánoční dárky)
-  - BC260403 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní učitelku v MŠ (kategorie dodavatele: Dárky pro učitele a učitelky > Vánoční dárky)
-  - BC260404 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní asistentku (kategorie dodavatele: Dárky pro > Vánoční dárky)
-  - BC260405 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní doktorku (kategorie dodavatele: Darky pro doktory a sestřičky > Vánoční dárky)
-  - BC260406 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro zdravotní sestřičku (kategorie dodavatele: Darky pro doktory a sestřičky > Vánoční dárky)
-  - BC260407 Vánoční plechový box XL - 2x ozdoba, mýdlo a LED keramický domeček - pro paní pečovatelku (kategorie dodavatele: Darky pro doktory a sestřičky > Vánoční dárky)
+  - BC260231 Kosmetická sada Apotecare Vánoce - sprchový gel 200 ml, šampon 200 ml, mýdlo 30 g a koupelová sůl 150 g - jablko a skořice (kategorie dodavatele: Alza > Kosmetické sady a balíčky > Vánoční dárky)
