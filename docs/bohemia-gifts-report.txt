@@ -1,9 +1,9 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2293
-Produktů ve výstupu: 2128 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2128, cena z koeficientu: 0
+Položek ve feedu dodavatele: 2286
+Produktů ve výstupu: 2121 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2121, cena z koeficientu: 0
 Zboží jen pro dospělé (18+): 179
-Zmizelo z feedu dodavatele – ponecháno se skladem 0: 41, vypuštěno po lhůtě: 0
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 52, vypuštěno po lhůtě: 0
 
 Vyřazené položky (165):
   - BC220247 Dětské body s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
@@ -353,7 +353,7 @@ Označeno jako 18+ (179) – zkontrolujte:
   - BC260144 Dárkové bílé víno 0,75 l Chardonnay - pro dědu
   - BC260145 Dárkové červené víno 0,75 l Merlot - pro dědu
 
-Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (63):
+Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (60):
   - BC190141 Dětská bavlněná plenka - srnec (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190139 Dětská bavlněná plenka - medvídek (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190140 Dětská bavlněná plenka - sova (kategorie dodavatele: Dárky pro > Dárky pro miminko)
@@ -371,9 +371,6 @@ Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (63
   - BC250038 Kosmetická sada 2x sprchový gel 250 ml - kniha pro turisty (kategorie dodavatele: Kosmetické sady a balíčky > Dárky pro ženu > Dárky pro muže > Dárky pro kamarádku > Dárky pro cestovatele a turisty > Dárky pro kamaráda)
   - BC250075 Keramická vonná svíčka 200 g - mockrát děkuji (kategorie dodavatele: Dárky pro > Dárky pro ženu > Dárky pro babičku > Dárky pro maminku > Dárky pro kamarádku > Dárky pro sestru > Dárky pro tchýni)
   - BC250076 Keramická vonná svíčka 200 g - skvělé kámošce (kategorie dodavatele: Dárky pro > Dárky pro ženu > Dárky pro kamarádku)
-  - BC250127 Vánoční dárková sada v plechovém boxu - 2x sprchový gel 100 ml - santa (kategorie dodavatele: Dárky pro > Kosmetické sady a balíčky > Dárky pro ženu > Vánoční dárky)
-  - BC250129 Vánoční dárková sada v plechovém boxu - 2x sprchový gel 100 ml - koník (kategorie dodavatele: Dárky pro > Kosmetické sady a balíčky > Dárky pro ženu > Vánoční dárky)
-  - BC250130 Vánoční dárková sada v plechovém boxu - 2x sprchový gel 100 ml - louskáček (kategorie dodavatele: Dárky pro > Kosmetické sady a balíčky > Dárky pro ženu > Vánoční dárky)
   - BC250065 Prací papírky s vůní heřmánku - 50 pracích dávek (kategorie dodavatele: Prací papírky)
   - BC250066 Prací papírky s vůní moře - 50 pracích dávek (kategorie dodavatele: Prací papírky)
   - BC250067 Prací papírky na dětské prádlo - 50 pracích dávek (kategorie dodavatele: Prací papírky)
