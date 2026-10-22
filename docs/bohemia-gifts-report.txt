@@ -3,7 +3,7 @@ Položek ve feedu dodavatele: 2290
 Produktů ve výstupu: 2125 (z toho bez skladu: 0)
 Cena z doporučené/prodejní ceny dodavatele: 2125, cena z koeficientu: 0
 Zboží jen pro dospělé (18+): 179
-Zmizelo z feedu dodavatele – ponecháno se skladem 0: 53, vypuštěno po lhůtě: 0
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 56, vypuštěno po lhůtě: 0
 
 Vyřazené položky (165):
   - BC220247 Dětské body s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
@@ -353,7 +353,7 @@ Označeno jako 18+ (179) – zkontrolujte:
   - BC260144 Dárkové bílé víno 0,75 l Chardonnay - pro dědu
   - BC260145 Dárkové červené víno 0,75 l Merlot - pro dědu
 
-Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (64):
+Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (60):
   - BC190141 Dětská bavlněná plenka - srnec (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190139 Dětská bavlněná plenka - medvídek (kategorie dodavatele: Dárky pro > Dárky pro miminko)
   - BC190140 Dětská bavlněná plenka - sova (kategorie dodavatele: Dárky pro > Dárky pro miminko)
@@ -414,7 +414,3 @@ Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (64
   - BC260417 Potpourri 12x20 cm - pro skvělou kamarádku (kategorie dodavatele: Dárky pro > Dárky pro kamarádku)
   - BC260419 Potpourri 12x20 cm - pro vyjímečnou ženu (kategorie dodavatele: Dárky pro > Dárky pro ženu)
   - BC260231 Kosmetická sada Apotecare Vánoce - sprchový gel 200 ml, šampon 200 ml, mýdlo 30 g a koupelová sůl 150 g - jablko a skořice (kategorie dodavatele: Alza > Kosmetické sady a balíčky > Vánoční dárky)
-  - BC260372 Čtyřdílný vánoční box - pro maminku (kategorie dodavatele: Dárky pro maminku > Vánoční dárky)
-  - BC260374 Čtyřdílný vánoční box - pro kamarádku (kategorie dodavatele: Dárky pro kamarádku > Vánoční dárky)
-  - BC260373 Čtyřdílný vánoční box - pro babičku (kategorie dodavatele: Dárky pro babičku > Vánoční dárky)
-  - BC260375 Čtyřdílný vánoční box - Krásné Vánoce (kategorie dodavatele: Vánoční dárky)
