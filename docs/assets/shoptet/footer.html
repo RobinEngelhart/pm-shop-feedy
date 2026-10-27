@@ -1,0 +1,45 @@
+<style id="pm-banner-align">.banners-row .extended-banner-texts>span{text-align:left!important}</style>
+<!-- P+M shop – povinné zaškrtnutí Náhradního plnění v košíku (krok 2) -->
+<style>
+@keyframes pmnpPulse{0%{box-shadow:0 0 0 0 rgba(215,38,46,.55)}70%{box-shadow:0 0 0 12px rgba(215,38,46,0)}100%{box-shadow:0 0 0 0 rgba(215,38,46,0)}}
+#pmnpBox{margin:20px 0;border:3px solid #D7262E;border-radius:16px;background:#fff;overflow:hidden;font-size:15px;line-height:1.45}
+#pmnpBox .pmnp-h{background:#D7262E;color:#fff;font-weight:800;font-size:15px;letter-spacing:.02em;padding:10px 16px;display:flex;gap:8px;align-items:center}
+#pmnpBox .pmnp-b{padding:16px}
+#pmnpBox label{display:flex;gap:14px;align-items:center;cursor:pointer;margin:0;background:#FFF0F0;border:2px dashed #D7262E;border-radius:12px;padding:14px}
+#pmnpBox input{width:30px;height:30px;flex:0 0 30px;margin:0;accent-color:#16A34A;cursor:pointer;border-radius:6px;animation:pmnpPulse 1.6s infinite}
+#pmnpBox .pmnp-l{font-size:19px;font-weight:800;color:#1F2125}
+#pmnpBox p{margin:12px 0 0;color:#3B3E44}
+#pmnpBox a{color:#D7262E;font-weight:700;text-decoration:underline}
+#pmnpBox .pmnp-ok{display:none;margin-top:12px;background:#ECFDF3;border:2px solid #16A34A;color:#166534;border-radius:10px;padding:10px 12px;font-weight:700}
+#pmnpBox.on{border-color:#16A34A}
+#pmnpBox.on .pmnp-h{background:#16A34A}
+#pmnpBox.on label{background:#ECFDF3;border-color:#16A34A;border-style:solid}
+#pmnpBox.on input{animation:none}
+#pmnpBox.on .pmnp-ok{display:block}
+#pmnpErr{margin-top:12px;background:#D7262E;color:#fff;border-radius:10px;padding:10px 12px;font-weight:700}
+#pmnpHint{display:block;margin:8px 0 4px;background:#FFF0F0;border-left:4px solid #D7262E;border-radius:0 8px 8px 0;padding:8px 12px;font-size:14px;color:#1F2125}
+#pmnpHint a{color:#D7262E;font-weight:700}
+</style>
+<script>
+(function(){
+if(!/\/objednavka\/krok-2\//.test(location.pathname))return;
+var MARK='*** NÁHRADNÍ PLNĚNÍ – ANO ***';
+function init(){
+var f=document.getElementById('order-form');if(!f||document.getElementById('pmnpBox'))return;
+var rm=f.querySelector('[name=remark]'),cs=f.querySelector('[name=companyShopping]'),ic=f.querySelector('[name=companyId]'),btn=document.getElementById('submit-order');
+var box=document.createElement('div');box.id='pmnpBox';
+box.innerHTML='<div class="pmnp-h">⚠ Nakupujete v rámci náhradního plnění? Musíte zaškrtnout</div><div class="pmnp-b"><label><input type="checkbox" id="pmnpCk"><span class="pmnp-l">Ano, nakupuji v rámci náhradního plnění</span></label><p>Aby se objednávka započítala do <strong>náhradního plnění povinného podílu OZP</strong>, <strong>musíte toto políčko zaškrtnout</strong> a vyplnit údaje firmy včetně IČO. <strong>Bez zaškrtnutí ji do evidence MPSV zapsat nemůžeme.</strong> <a href="/nahradni-plneni/" target="_blank">Co je náhradní plnění</a></p><div class="pmnp-ok">✓ Objednávku vyfakturujeme jako náhradní plnění a po zaplacení ji zapíšeme do evidence MPSV.</div><div id="pmnpErr" hidden>Pro náhradní plnění zaškrtněte „Nakupuji na firmu“ a vyplňte IČO.</div></div>';
+var anchor=btn?btn.closest('.next-step, .order-summary-item, .form-group, div'):null;
+if(anchor&&anchor.parentNode)anchor.parentNode.insertBefore(box,anchor);else f.appendChild(box);
+if(cs){var w=cs.closest('.form-group')||cs.parentNode;var h=document.createElement('div');h.id='pmnpHint';h.innerHTML='Nakupujete v rámci <strong>náhradního plnění</strong>? Před odesláním objednávky <a href="#pmnpBox">zaškrtněte políčko dole ↓</a>';w.parentNode.insertBefore(h,w.nextSibling);h.querySelector('a').addEventListener('click',function(e){e.preventDefault();box.scrollIntoView({behavior:'smooth',block:'center'})})}
+var ck=box.querySelector('input'),err=box.querySelector('#pmnpErr');
+function upd(){var on=ck.checked;box.classList.toggle('on',on);try{sessionStorage.setItem('pmnp',on?'1':'')}catch(e){}
+if(rm){var v=rm.value.split(MARK).join('').replace(/^\s+/,'');rm.value=on?(MARK+(v?'\n'+v:'')):v}
+if(on&&cs&&!cs.checked)cs.click();if(!on)err.hidden=true}
+ck.addEventListener('change',upd);
+try{if(sessionStorage.getItem('pmnp')==='1'||(rm&&rm.value.indexOf(MARK)>-1)){ck.checked=true;upd()}}catch(e){}
+f.addEventListener('submit',function(e){if(ck.checked&&(!cs||!cs.checked||!ic||!ic.value.trim())){e.preventDefault();e.stopImmediatePropagation();err.hidden=false;if(cs&&!cs.checked)cs.click();if(ic)setTimeout(function(){ic.focus()},50)}},true);
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
+})();
+</script>
