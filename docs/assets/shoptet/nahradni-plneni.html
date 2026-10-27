@@ -1,0 +1,189 @@
+<style>
+.pmnp{--r:#D7262E;--g:#1F2125;--mut:#5B5F67;--line:#E4E6EA;--soft:#F4F5F7;color:var(--g);line-height:1.6;max-width:1000px}
+.pmnp h2{font-size:clamp(26px,3.2vw,38px);line-height:1.15;margin:8px 0 14px;color:#fff}
+.pmnp h3{font-size:26px;line-height:1.2;margin:48px 0 14px;scroll-margin-top:90px}
+.pmnp h4{font-size:19px;margin:0 0 8px}
+.pmnp-hero{background:radial-gradient(800px 360px at 90% -20%,rgba(215,38,46,.35),transparent 60%),linear-gradient(160deg,#1A1B1F,#2B2D31);color:#fff;border-radius:18px;padding:36px 32px;margin-bottom:8px}
+.pmnp-hero p{color:rgba(255,255,255,.85);font-size:17px;margin:0 0 14px}
+.pmnp-eyebrow{text-transform:uppercase;letter-spacing:.08em;font-size:13px;font-weight:700;color:#FF7A80!important;margin:0!important}
+.pmnp-cta{margin-top:20px!important;display:flex;flex-wrap:wrap;gap:10px}
+.pmnp-btn{display:inline-block;background:var(--r);color:#fff!important;border-radius:999px;padding:12px 22px;font-weight:700;text-decoration:none!important}
+.pmnp-btn:hover{background:#B81E25}
+.pmnp-btn-o{background:transparent;border:1.5px solid rgba(255,255,255,.5)}
+.pmnp-btn-o:hover{background:#fff;color:var(--g)!important}
+.pmnp-toc{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 0;padding:0;list-style:none}
+.pmnp-toc li{margin:0}
+.pmnp-toc a{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:7px 14px;font-weight:600;font-size:14px;color:var(--g)!important;text-decoration:none!important;background:#fff}
+.pmnp-toc a:hover{border-color:var(--r);color:var(--r)!important}
+.pmnp-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:18px 0}
+.pmnp-cards>div{border:1px solid var(--line);border-radius:14px;padding:18px}
+.pmnp-cards>div.on{border:2px solid var(--r);background:#FFF5F5}
+.pmnp-cards b{display:block;margin-bottom:4px}
+.pmnp-cards span{color:var(--mut);font-size:15px}
+.pmnp-table{width:100%;border-collapse:collapse;margin:10px 0 14px}
+.pmnp-table th,.pmnp-table td{border-bottom:1px solid var(--line);padding:12px 10px;text-align:left}
+.pmnp-table td{text-align:right;font-weight:700;white-space:nowrap}
+.pmnp-calc{background:var(--soft);border-radius:18px;padding:26px 24px;margin:40px 0;border:1px solid var(--line);scroll-margin-top:90px}
+.pmnp-calc h3{margin-top:0}
+.pmnp-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.pmnp-grid label{display:flex;flex-direction:column;gap:6px;font-weight:600;font-size:14px}
+.pmnp-grid input{border:1px solid #CBCED4;border-radius:10px;padding:11px 12px;font-size:17px;width:100%;box-sizing:border-box}
+.pmnp-out{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:18px}
+.pmnp-out div{background:#fff;border-radius:14px;padding:16px;border:1px solid var(--line)}
+.pmnp-out div.hl{border:2px solid var(--r)}
+.pmnp-out small{display:block;color:var(--mut);font-size:13px}
+.pmnp-out strong{display:block;font-size:24px;margin-top:4px}
+.pmnp-out p{grid-column:1/-1;margin:0;color:var(--mut)}
+.pmnp-small{font-size:13px;color:var(--mut);margin:14px 0 0}
+.pmnp-offer{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:18px 0}
+.pmnp-offer>div{border:1px solid var(--line);border-radius:16px;padding:22px}
+.pmnp-offer>div.svc{background:#1F2125;color:#fff;border:0}
+.pmnp-offer>div.svc h4{color:#fff}
+.pmnp-offer>div.svc li{color:rgba(255,255,255,.9)}
+.pmnp-offer>div.svc p{color:rgba(255,255,255,.75)}
+.pmnp-offer ul{margin:10px 0 0;padding-left:20px}
+.pmnp-offer li{margin-bottom:6px}
+.pmnp-tag{display:inline-block;background:var(--r);color:#fff;font-size:12px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;border-radius:999px;padding:4px 10px;margin-bottom:10px}
+.pmnp-steps{padding-left:20px}
+.pmnp-steps li{margin-bottom:10px}
+.pmnp-must{border:2px solid var(--r);background:#FFF5F5;border-radius:12px;padding:14px 16px;margin:14px 0}
+.pmnp-facts{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:16px 0}
+.pmnp-facts div{background:var(--soft);border-radius:12px;padding:14px 16px}
+.pmnp-facts b{display:block;font-size:20px;color:var(--r)}
+.pmnp-faq details{border-bottom:1px solid var(--line);padding:14px 4px}
+.pmnp-faq summary{font-weight:700;cursor:pointer;font-size:17px}
+.pmnp-faq details p{margin:10px 0 0;color:var(--mut)}
+.pmnp-contact{border-left:4px solid var(--r);background:var(--soft);padding:16px 18px;border-radius:0 12px 12px 0;margin-top:30px}
+@media(max-width:760px){.pmnp-cards,.pmnp-grid,.pmnp-out,.pmnp-offer,.pmnp-facts{grid-template-columns:1fr}.pmnp-hero{padding:26px 20px}}
+</style>
+<div class="pmnp">
+<div class="pmnp-hero">
+<p class="pmnp-eyebrow">Pro firmy nad 25 zaměstnanců</p>
+<h2>Náhradní plnění: nakupte zboží nebo služby, které potřebujete, a splňte povinný podíl</h2>
+<p>E-shop P+M shop provozuje <strong>P+M komplexní služby s.r.o.</strong>, zaměstnavatel na chráněném trhu práce. Zboží z e-shopu i naše služby pro výrobu (čištění a maskování pro lakovny, kompletace, třídění, přebal) vám můžeme dodat v režimu náhradního plnění. Splníte tak povinnost zaměstnávat osoby se zdravotním postižením a nemusíte platit odvod státu.</p>
+<p class="pmnp-cta"><a class="pmnp-btn" href="#kalkulacka">Spočítat náhradní plnění</a> <a class="pmnp-btn pmnp-btn-o" href="mailto:info@pm-komplexnisluzby.cz?subject=Popt%C3%A1vka%20%E2%80%93%20n%C3%A1hradn%C3%AD%20pln%C4%9Bn%C3%AD">Napsat poptávku</a></p>
+</div>
+<ul class="pmnp-toc">
+<li><a href="#co-to-je">Co je náhradní plnění</a></li>
+<li><a href="#kolik">Kolik to dělá</a></li>
+<li><a href="#kalkulacka">Kalkulačka</a></li>
+<li><a href="#co-nabizime">Co u nás odeberete</a></li>
+<li><a href="#jak-nakoupit">Jak nakoupit</a></li>
+<li><a href="#terminy">Termíny a pravidla</a></li>
+<li><a href="#otazky">Časté otázky</a></li>
+</ul>
+
+<h3 id="co-to-je">Co je náhradní plnění</h3>
+<p>Zákon o zaměstnanosti (č. 435/2004 Sb.) ukládá zaměstnavatelům s <strong>více než 25 zaměstnanci v pracovním poměru</strong> povinnost zaměstnávat <strong>osoby se zdravotním postižením (OZP) ve výši 4 %</strong> z celkového počtu zaměstnanců. Za OZP se považují lidé uznaní invalidními v prvním až třetím stupni a osoby zdravotně znevýhodněné.</p>
+<p>Ne každá firma najde vhodné pracovníky na všechny pozice. Proto zákon umožňuje splnit povinnost i jinak:</p>
+<div class="pmnp-cards">
+<div><b>1. Zaměstnáním OZP</b><span>Přímé zaměstnání osob se zdravotním postižením v pracovním poměru.</span></div>
+<div class="on"><b>2. Náhradním plněním</b><span>Odběrem zboží nebo služeb od zaměstnavatele na chráněném trhu práce, například od nás.</span></div>
+<div><b>3. Odvodem státu</b><span>Platbou do státního rozpočtu, za kterou firma nic nedostane.</span></div>
+</div>
+<p>Způsoby lze libovolně <strong>kombinovat</strong>. Můžete například zaměstnávat dvě OZP a zbytek povinnosti pokrýt nákupem u nás.</p>
+
+<h3 id="kolik">Kolik to dělá</h3>
+<div class="pmnp-facts">
+<div><b>7× průměrná mzda</b>Hodnota odběru (bez DPH), která nahradí jednu chybějící OZP.</div>
+<div><b>48 171 Kč</b>Průměrná mzda za 1.–3. čtvrtletí 2025 (sdělení MPSV č. 537/2025 Sb.).</div>
+<div><b>337 197 Kč</b>Odběr bez DPH, který v roce 2025 nahradí jednu OZP.</div>
+<div><b>1× / 2× / 3,5×</b>Odvod státu za chybějící OZP od roku 2025 podle toho, kolik OZP firma přímo zaměstnává.</div>
+</div>
+<p><strong>Odvod státu se od roku 2025 zpřísnil.</strong> Firma, která přímo zaměstnává alespoň 3 % OZP, platí za každou chybějící osobu 1násobek průměrné mzdy. Při alespoň 1 % platí 2násobek a při méně než 1 % <strong>3,5násobek</strong>. Dřív to byl jednotně 2,5násobek. Náhradní plnění se tak vyplatí především firmám, které OZP zaměstnávají málo nebo vůbec.</p>
+<p>Průměrnou mzdu pro povinnost za rok 2026 vyhlásí MPSV koncem roku 2026. Do té doby počítejte s orientační hodnotou za rok 2025.</p>
+
+<h4>Příklad: firma se 100 zaměstnanci, bez zaměstnanců OZP</h4>
+<table class="pmnp-table">
+<tr><th>Povinný podíl 4 %</th><td>4 osoby</td></tr>
+<tr><th>Odvod státu (3,5 × 48 171 Kč × 4)</th><td>674 394 Kč</td></tr>
+<tr><th>Náhradní plnění (7 × 48 171 Kč × 4)</th><td>1 348 788 Kč bez DPH</td></tr>
+</table>
+<p>Odvod je čistý náklad. U náhradního plnění za stejné peníze dostanete zboží nebo služby, které firma stejně potřebuje: autodoplňky do firemních aut, baterie a svítilny, drogerii, firemní a vánoční dárky, nebo práci, kterou byste jinak zadávali jiné firmě.</p>
+
+<div class="pmnp-calc" id="kalkulacka">
+<h3>Kalkulačka náhradního plnění</h3>
+<div class="pmnp-grid">
+<label>Počet zaměstnanců<input id="npN" type="number" min="0" step="1" value="100" inputmode="numeric"></label>
+<label>Z toho zaměstnanci OZP<input id="npE" type="number" min="0" step="1" value="0" inputmode="numeric"></label>
+<label>Průměrná mzda pro výpočet (Kč)<input id="npW" type="number" min="0" step="1" value="48171" inputmode="numeric"></label>
+</div>
+<div class="pmnp-out" id="npOut"></div>
+<p class="pmnp-small">Výpočet je orientační. Zákon počítá s průměrným ročním přepočteným počtem zaměstnanců. Přesnou výši povinnosti určuje ohlášení Úřadu práce ČR.</p>
+</div>
+
+<h3 id="co-nabizime">Co u nás můžete v náhradním plnění odebrat</h3>
+<div class="pmnp-offer">
+<div>
+<span class="pmnp-tag">Zboží z e-shopu</span>
+<h4>Nákup přímo v e-shopu</h4>
+<p>Celý sortiment P+M shopu, v malém i velkém množství.</p>
+<ul>
+<li>Autodoplňky a vůně do firemních aut</li>
+<li>Baterie, svítilny, čelovky a nabíječky do dílen a skladů</li>
+<li>Drogerie a péče</li>
+<li>Firemní a vánoční dárky pro zaměstnance a klienty, dárkové bedny</li>
+</ul>
+<p><a class="pmnp-btn" href="/" style="margin-top:12px">Do e-shopu</a></p>
+</div>
+<div class="svc">
+<span class="pmnp-tag">Služby pro výrobu</span>
+<h4>Práce, kterou můžete svěřit nám</h4>
+<p>Naši vyškolení pracovníci zvládnou ruční práce ve výrobě. Každou zakázku pečlivě dokumentujeme kvůli kvalitě. Pracujeme mimo jiné pro firmy Denso a Driv.</p>
+<ul>
+<li><strong>Čištění a maskování pro práškové lakovny:</strong> mechanické čištění maskovacích prvků z gumy, silikonu a kovu a čištění plugů. Prodlužuje jejich životnost a zachovává vlastnosti.</li>
+<li><strong>Čištění závěsů</strong> a výrobních zařízení pro lakovny.</li>
+<li><strong>Kompletace a sortování (třídění)</strong> výrobků a dílů všeho druhu, včetně automotive.</li>
+<li><strong>Přebal a balení:</strong> přebalování, balení a kompletace zboží do nových obalů nebo sad.</li>
+<li><strong>Lehká výroba a další ruční práce</strong> na zakázku po domluvě.</li>
+</ul>
+<p><a class="pmnp-btn" href="mailto:info@pm-komplexnisluzby.cz?subject=Popt%C3%A1vka%20slu%C5%BEeb%20v%20n%C3%A1hradn%C3%ADm%20pln%C4%9Bn%C3%AD" style="margin-top:12px">Poptat služby</a></p>
+</div>
+</div>
+
+<h3 id="jak-nakoupit">Jak nakoupit v náhradním plnění</h3>
+<h4>Zboží z e-shopu</h4>
+<ol class="pmnp-steps">
+<li><b>Vložte zboží do košíku</b> a pokračujte k objednávce.</li>
+<li><b>Vyplňte údaje firmy</b> (zaškrtněte „Nakupuji na firmu“) včetně IČO.</li>
+<li><b>Před odesláním objednávky zaškrtněte políčko „Nakupuji v rámci náhradního plnění“.</b></li>
+<li><b>Uhraďte fakturu.</b> Do náhradního plnění se počítá jen zaplacené plnění.</li>
+<li><b>Do 30 dnů od zaplacení</b> zapíšeme plnění do Evidence náhradního plnění vedené MPSV.</li>
+</ol>
+<div class="pmnp-must"><strong>Důležité:</strong> bez zaškrtnutí políčka „Nakupuji v rámci náhradního plnění“ a vyplněného IČO nemůžeme objednávku do náhradního plnění zapsat. Pokud jste ho zapomněli zaškrtnout, napište nám co nejdříve na <a href="mailto:info@pm-komplexnisluzby.cz">info@pm-komplexnisluzby.cz</a> s číslem objednávky.</div>
+<h4>Služby a větší odběry</h4>
+<ol class="pmnp-steps">
+<li><b>Pošlete poptávku</b> s popisem práce nebo zboží a předpokládaným objemem.</li>
+<li><b>Připravíme nabídku</b> a potvrdíme, kolik náhradního plnění vám můžeme dodat v rámci našeho ročního limitu.</li>
+<li><b>Dohodneme podmínky</b> a práci provedeme nebo zboží dodáme.</li>
+<li><b>Vystavíme fakturu</b> a po jejím zaplacení plnění zapíšeme do evidence.</li>
+</ol>
+
+<h3 id="terminy">Termíny a pravidla, která je dobré znát</h3>
+<ul>
+<li><strong>Do 30 dnů od zaplacení</strong> zapisuje dodavatel (my) plnění do Evidence náhradního plnění MPSV. Bez zápisu nelze plnění započítat.</li>
+<li><strong>Do 15. února</strong> následujícího roku podáváte jako zaměstnavatel ohlášení o plnění povinného podílu na krajskou pobočku Úřadu práce ČR.</li>
+<li>Započítat lze jen <strong>zaplacené</strong> plnění. Plnění dodané v daném roce lze započítat i tehdy, když je zaplacené nejpozději do 15. února následujícího roku.</li>
+<li>Do výpočtu se počítá <strong>cena bez DPH</strong>.</li>
+<li>Každý dodavatel má <strong>roční limit</strong> náhradního plnění: 14násobek průměrné mzdy na každého svého přepočteného zaměstnance OZP. Před větším odběrem vám volný limit potvrdíme.</li>
+<li>Náhradní plnění nelze uplatnit u odběratele, který je s dodavatelem <strong>spojenou osobou</strong> (například mateřská a dceřiná společnost).</li>
+<li>Zapsané plnění si můžete kdykoli ověřit ve veřejné části aplikace Evidence náhradního plnění na portálu MPSV.</li>
+</ul>
+
+<h3 id="otazky">Časté otázky</h3>
+<div class="pmnp-faq">
+<details><summary>Může náhradní plnění využít každý zákazník?</summary><p>Náhradní plnění má smysl pro firmy a instituce, které mají povinný podíl, tedy více než 25 zaměstnanců. Pro zápis do evidence potřebujeme IČO odběratele. Běžní zákazníci nakupují v e-shopu jako obvykle.</p></details>
+<details><summary>Musím odebrat celou částku najednou?</summary><p>Ne. Plnění se během roku sčítá. Můžete nakupovat průběžně, každá zaplacená faktura se do evidence zapíše zvlášť.</p></details>
+<details><summary>Mohu pokrýt jen část povinnosti?</summary><p>Ano. Náhradní plnění lze kombinovat se zaměstnáváním OZP i s odvodem. Každých 337 197 Kč bez DPH (pro rok 2025) nahradí jednu chybějící osobu.</p></details>
+<details><summary>Jak poznám, že je plnění opravdu zapsané?</summary><p>Údaje o plnění jsou v Evidenci náhradního plnění MPSV, kterou vede ministerstvo.</p></details>
+<details><summary>Zapomněl jsem v objednávce zaškrtnout náhradní plnění. Co teď?</summary><p>Napište nám co nejdříve s číslem objednávky a IČO firmy. Domluvíme se na dalším postupu.</p></details>
+</div>
+
+<div class="pmnp-contact">
+<p><strong>P+M komplexní služby s.r.o.</strong>, Dopravní 711, 463 11 Liberec 30 – Vratislavice nad Nisou, IČO 07257562, DIČ CZ07257562<br>
+E-mail: <a href="mailto:info@pm-komplexnisluzby.cz">info@pm-komplexnisluzby.cz</a> · Telefon: <a href="tel:+420731442200">+420 731 442 200</a> · <a href="https://www.pm-komplexnisluzby.cz/pro-firmy/" target="_blank" rel="noopener">Služby pro firmy</a></p>
+</div>
+</div>
+<script>
+(function(){function f(n){return Math.round(n).toLocaleString('cs-CZ')+' Kč'}function g(id){var e=document.getElementById(id);var v=parseInt(e.value,10);if(isNaN(v)||v<0)v=0;return v}function c(){var N=g('npN'),E=g('npE'),W=g('npW'),o=document.getElementById('npOut');if(N<=25){o.innerHTML='<p>Povinný podíl se týká zaměstnavatelů s více než 25 zaměstnanci v pracovním poměru.</p>';return}var req=N*0.04,miss=Math.max(0,req-E),s=E/N,m=s>=0.03?1:(s>=0.01?2:3.5);if(miss<=0){o.innerHTML='<p>Povinný podíl ('+req.toFixed(2).replace('.',',')+' osob) plníte přímým zaměstnáváním. Náhradní plnění nepotřebujete.</p>';return}o.innerHTML='<div><small>Chybí do povinného podílu</small><strong>'+miss.toFixed(2).replace('.',',')+' osob</strong></div><div><small>Odvod státu ('+String(m).replace('.',',')+'× průměrná mzda)</small><strong>'+f(miss*m*W)+'</strong></div><div class="hl"><small>Náhradní plnění (7× průměrná mzda)</small><strong>'+f(miss*7*W)+'</strong></div><p>Nákupem zboží nebo služeb za '+f(miss*7*W)+' bez DPH ročně nahradíte odvod '+f(miss*m*W)+'. Můžete pokrýt i jen část – každých '+f(7*W)+' odběru nahradí jednu chybějící osobu.</p>'}function i(){if(!document.getElementById('npOut'))return;['npN','npE','npW'].forEach(function(x){var e=document.getElementById(x);e.addEventListener('input',c);e.addEventListener('change',function(){var v=parseInt(e.value,10);e.value=isNaN(v)||v<0?0:v;c()});e.addEventListener('keydown',function(ev){if(ev.key==='.'||ev.key===','||ev.key==='e'||ev.key==='-')ev.preventDefault()})});c()}if(document.readyState=='loading')document.addEventListener('DOMContentLoaded',i);else i()})();
+</script>
