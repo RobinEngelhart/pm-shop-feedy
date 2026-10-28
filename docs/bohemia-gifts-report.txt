@@ -1,7 +1,7 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2289
-Produktů ve výstupu: 2124 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2124, cena z koeficientu: 0
+Položek ve feedu dodavatele: 2299
+Produktů ve výstupu: 2134 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2134, cena z koeficientu: 0
 Zboží jen pro dospělé (18+): 179
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 66, vypuštěno po lhůtě: 0
 
@@ -371,9 +371,9 @@ Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (60
   - BC250038 Kosmetická sada 2x sprchový gel 250 ml - kniha pro turisty (kategorie dodavatele: Kosmetické sady a balíčky > Dárky pro ženu > Dárky pro muže > Dárky pro kamarádku > Dárky pro cestovatele a turisty > Dárky pro kamaráda)
   - BC250075 Keramická vonná svíčka 200 g - mockrát děkuji (kategorie dodavatele: Dárky pro > Dárky pro ženu > Dárky pro babičku > Dárky pro maminku > Dárky pro kamarádku > Dárky pro sestru > Dárky pro tchýni)
   - BC250076 Keramická vonná svíčka 200 g - skvělé kámošce (kategorie dodavatele: Dárky pro > Dárky pro ženu > Dárky pro kamarádku)
-  - BC250065 Prací papírky s vůní heřmánku - 50 pracích dávek (kategorie dodavatele: Prací papírky)
-  - BC250066 Prací papírky s vůní moře - 50 pracích dávek (kategorie dodavatele: Prací papírky)
-  - BC250067 Prací papírky na dětské prádlo - 50 pracích dávek (kategorie dodavatele: Prací papírky)
+  - BC250065 Prací papírky s vůní heřmánku - 50 pracích dávek (kategorie dodavatele: Akční nabídka > Prací papírky)
+  - BC250066 Prací papírky s vůní moře - 50 pracích dávek (kategorie dodavatele: Akční nabídka > Prací papírky)
+  - BC250067 Prací papírky na dětské prádlo - 50 pracích dávek (kategorie dodavatele: Akční nabídka > Prací papírky)
   - BC240026 Kosmetická sada Veselé Vánoce - sprchový gel 250 ml a vlasový šampon 250 ml (kategorie dodavatele: Akční nabídka > Kosmetické sady a balíčky > Vánoční dárky)
   - S33000050 Sada sponek a gumiček do vlasů s jednorožcem (kategorie dodavatele: Dárky pro > Akční nabídka > Dárky pro holky > Dárky pro děti)
   - BC260098 Kosmetická sada Kniha pro maminku (kategorie dodavatele: Dárky pro maminku)
