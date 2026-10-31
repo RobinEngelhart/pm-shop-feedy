@@ -11125,33 +11125,6 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Kosmetická sada kniha pro Přátele</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Kosmetický balíček pro všechny opravdové přátele. Potěšte své přátele a darujte jim originální kosmetickou sada obsahující sprchový gel a olejovou lázeň s olejovými složkami vůní levandule.…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Kosmetický balíček pro všechny opravdové přátele. Potěšte své přátele a darujte jim originální kosmetickou sada obsahující sprchový gel a olejovou lázeň s olejovými složkami vůní levandule. Netradiční kosmetický dárek pro někoho, na kom vám opravdu záleží. Po odklopení přední strany krabičky si můžete přečíst krátké texty o přátelství.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC210197-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2014/09/BC210197_KNIHA_pratele_C.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2014/09/BC210197.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210197_KNIHA_pratele.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC210197</CODE>
-    <EAN>8595590707399</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Kosmetická sada pro tchýni - sprchový gel a šampon</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Kosmetický balíček pro všechny báječné tchýně. Lámete si hlavu, čím potěšit vaši tchýni? Darujte si naši originální kosmetickou sada obsahující sprchový gel a olejovou lázeň s olejovými složkami vůní levandule.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Kosmetický balíček pro všechny báječné tchýně. Lámete si hlavu, čím potěšit vaši tchýni? Darujte si naši originální kosmetickou sada obsahující sprchový gel a olejovou lázeň s olejovými složkami vůní levandule.&lt;/p&gt;</DESCRIPTION>
@@ -12693,6 +12666,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC006222-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2012/09/BC006222_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC006222</CODE>
@@ -12746,6 +12720,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC062216-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2012/09/BC062216_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC062216</CODE>
@@ -12955,6 +12930,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC001704-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC1704_PRKYNKO_MYSLIVEC.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC001704</CODE>
@@ -12979,6 +12955,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC170522-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC1705738.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC170522</CODE>
@@ -13003,6 +12980,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC170523-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC170523-placatka-pro-myslivce.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC170523</CODE>
@@ -13027,6 +13005,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC170565-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC170564-5.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC170565</CODE>
@@ -13051,6 +13030,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC001706-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC17066.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2016/04/products-otvirak_s_priveskem_BC1706.jpg</IMAGE>
     </IMAGES>
@@ -13076,6 +13056,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC017061-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC017061.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC017061</CODE>
@@ -13100,6 +13081,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC017062-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC017062.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC017062</CODE>
@@ -13124,6 +13106,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC017063-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC017063.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC017063</CODE>
@@ -13150,6 +13133,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610030-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2013/12/BC610030_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610030</CODE>
@@ -13176,6 +13160,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC017091-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2013/12/BC017091_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC017091</CODE>
@@ -13202,6 +13187,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610031-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2013/12/BC610031_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610031</CODE>
@@ -13228,6 +13214,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC017101-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2013/12/BC017101_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC017101</CODE>
@@ -13254,6 +13241,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC062232-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2014/09/BC062232_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC062232</CODE>
@@ -13306,6 +13294,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC062235-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2014/09/BC062235_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC062235</CODE>
@@ -13582,6 +13571,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124009-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/07/BC124009_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124009</CODE>
@@ -13608,6 +13598,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124016-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/07/BC124016_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124016</CODE>
@@ -13634,6 +13625,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124015-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/07/BC124015.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124015</CODE>
@@ -13660,6 +13652,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124014-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/07/BC124014_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124014</CODE>
@@ -13686,6 +13679,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124013-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/07/BC124013_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124013</CODE>
@@ -13712,6 +13706,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124012-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/07/BC124012_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124012</CODE>
@@ -13738,6 +13733,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124011-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/07/BC124011_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124011</CODE>
@@ -13764,6 +13760,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124010-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/07/BC124010_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124010</CODE>
@@ -13790,6 +13787,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124025-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/BC124025_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124025</CODE>
@@ -13816,6 +13814,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124026-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/BC124026_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124026</CODE>
@@ -13842,6 +13841,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124027-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/BC124027_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124027</CODE>
@@ -13868,6 +13868,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124028-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/BC124028_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124028</CODE>
@@ -13894,6 +13895,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124029-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/BC124029_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124029</CODE>
@@ -13920,6 +13922,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124030-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/BC124030_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124030</CODE>
@@ -13946,6 +13949,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124031-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/BC124031_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124031</CODE>
@@ -13972,6 +13976,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124032-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/BC124032_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124032</CODE>
@@ -14046,6 +14051,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610078-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC6100782.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610078</CODE>
@@ -14143,6 +14149,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610073-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/obraz-nejlepsi-vina-BC610073.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610073</CODE>
@@ -14167,6 +14174,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610079-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610079-plechacek-pro-rybare.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610079</CODE>
@@ -14191,6 +14199,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610087-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC6100877.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610087</CODE>
@@ -14267,6 +14276,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC002017-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2017/04/BC002017_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC002017</CODE>
@@ -14316,6 +14326,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610329-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610329.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2017/10/BC610329_keram_hrnek_pro_rybare_.jpg</IMAGE>
     </IMAGES>
@@ -14369,6 +14380,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124035-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2017/10/BC124035_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124035</CODE>
@@ -14395,6 +14407,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124036-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2017/10/BC124036.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124036</CODE>
@@ -14419,6 +14432,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC170566-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC170566.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC170566</CODE>
@@ -14443,6 +14457,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC170563-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC170563.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC170563</CODE>
@@ -14467,6 +14482,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610320-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/obraz-miluj-zivot-BC610320.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610320</CODE>
@@ -14516,6 +14532,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610324-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/obraz-zit-sve-sny-BC610324.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610324</CODE>
@@ -14619,6 +14636,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC137021-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC137021-energy-drink-deda.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC137021</CODE>
@@ -14745,31 +14763,6 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </IMAGES>
     <CODE>BG-BC620055</CODE>
     <EAN>8595590779037</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>34.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vánoční mléčná čokoláda 10 g - chlapeček v modrém</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - chlapeček v modrém. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - chlapeček v modrém. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620056-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620056-mala-cokolada-modr.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC620056</CODE>
-    <EAN>8595590779044</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
     <PRICE_VAT>34.00</PRICE_VAT>
@@ -15380,6 +15373,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC137026-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC137026.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC137026</CODE>
@@ -15404,6 +15398,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC137027-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC137027.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC137027</CODE>
@@ -15428,6 +15423,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC137028-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC137028.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC137028</CODE>
@@ -15452,6 +15448,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC137030-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC137030-energie-po-dlouhe.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC137030</CODE>
@@ -15476,6 +15473,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC137029-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC137029.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC137029</CODE>
@@ -15525,6 +15523,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610234-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/BC610234_plechacek_uhas_zizen.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610234</CODE>
@@ -15549,6 +15548,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610235-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610235.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610235</CODE>
@@ -15573,6 +15573,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610240-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610240.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610240</CODE>
@@ -15597,6 +15598,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC125053-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC125053-plechacek-gentleman.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC125053</CODE>
@@ -15621,6 +15623,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610239-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610239.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610239</CODE>
@@ -15645,6 +15648,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC170567-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC170567.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC170567</CODE>
@@ -15669,6 +15673,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC170570-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC150570-no-stress.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC170570</CODE>
@@ -15693,6 +15698,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC125057-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC125057-placatka-pro-muze-gentleman.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC125057</CODE>
@@ -15794,6 +15800,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Klíčenky a placky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC840051-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC840051.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC840051</CODE>
@@ -15844,6 +15851,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Klíčenky a placky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC840050-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC840050.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC840050</CODE>
@@ -16123,6 +16131,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC840023-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC840023.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC840023</CODE>
@@ -16249,6 +16258,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124037-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/BC124037_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124037</CODE>
@@ -16275,6 +16285,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124038-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/08/BC124038.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124038</CODE>
@@ -16301,6 +16312,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124039-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/BC124039_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124039</CODE>
@@ -16327,6 +16339,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124040-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2012/09/BC124040_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124040</CODE>
@@ -16353,6 +16366,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124041-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/BC124041_W.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124041</CODE>
@@ -16379,6 +16393,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC124042-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2012/09/BC124042_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC124042</CODE>
@@ -16602,6 +16617,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610357-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610357.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610357</CODE>
@@ -16626,6 +16642,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610359-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610359.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610359</CODE>
@@ -16650,6 +16667,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610360-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/products-BC610360.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610360</CODE>
@@ -16674,6 +16692,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610361-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610361.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610361</CODE>
@@ -16748,6 +16767,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610364-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC610364.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610364</CODE>
@@ -16772,6 +16792,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850100-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC850100.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/products-BC850100-2.jpg</IMAGE>
     </IMAGES>
@@ -16797,6 +16818,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850101-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC850101.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/products-BC850101-2.jpg</IMAGE>
     </IMAGES>
@@ -16822,6 +16844,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850103-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC850103.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/products-BC850103-2.jpg</IMAGE>
     </IMAGES>
@@ -16847,6 +16870,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850105-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC850105.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/products-BC850105-2.jpg</IMAGE>
     </IMAGES>
@@ -16872,6 +16896,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850107-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC850107.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/products-BC850107-2.jpg</IMAGE>
     </IMAGES>
@@ -16897,6 +16922,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850109-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC850109.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/10/products-BC850109-2.jpg</IMAGE>
     </IMAGES>
@@ -17138,6 +17164,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850311-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/Placatka-velka-myslivec.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC850311</CODE>
@@ -17162,6 +17189,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850312-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/Placatka-velka-rybar.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC850312</CODE>
@@ -17186,6 +17214,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850314-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/Placatka-velka-palivo.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC850314</CODE>
@@ -17210,6 +17239,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850315-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/Placatka-velka-mazani.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC850315</CODE>
@@ -17234,6 +17264,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850313-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/Placatka-alkohol-pomaha.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC850313</CODE>
@@ -17258,6 +17289,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC610355-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/obraz-pratelstvi-BC61035535.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC610355</CODE>
@@ -17282,6 +17314,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC850354-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/03/BC850354_pivni-sunka_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/03/products-drevena-paletka.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/03/BC850354_pivni-sunka.jpg</IMAGE>
@@ -17463,6 +17496,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC140034-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/zapich-ucitele-meni-svet.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC140034</CODE>
@@ -17487,6 +17521,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC140036-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/zapich-ucitel.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC140036</CODE>
@@ -17511,6 +17546,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC140035-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/zapich-ucitelka.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC140035</CODE>
@@ -17609,6 +17645,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190207-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190207-dreveny-stojan-kucharka-babicka.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC190207</CODE>
@@ -17633,6 +17670,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190208-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190208-dreveny-stojan-kucharka-menu.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC190208</CODE>
@@ -17657,6 +17695,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190209-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190209-dreveny-stojan-kucharka-myslivec.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC190209</CODE>
@@ -17681,6 +17720,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190210-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190210-dreveny-stojan-kucharka-rybar.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC190210</CODE>
@@ -17705,6 +17745,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190223-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190223-stojan-na-sklenicky-hokej.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/products-stojan-na-sklenicky.jpg</IMAGE>
     </IMAGES>
@@ -17730,6 +17771,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190222-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190222-stojan-na-sklenicky-fotbal.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/products-stojan-na-sklenicky.jpg</IMAGE>
     </IMAGES>
@@ -17755,6 +17797,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190224-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190224-stojan-na-sklenicky-myslivec.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/products-stojan-na-sklenicky.jpg</IMAGE>
     </IMAGES>
@@ -17780,6 +17823,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190226-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190226-stojan-na-sklenicky-rybar8.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/products-stojan-na-sklenicky.jpg</IMAGE>
     </IMAGES>
@@ -17805,6 +17849,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190225-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190225-stojan-na-sklenicky-gentleman.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/products-stojan-na-sklenicky.jpg</IMAGE>
     </IMAGES>
@@ -17830,6 +17875,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC190227-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190227-stojan-na-sklenicky-letadlo.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/products-stojan-na-sklenicky.jpg</IMAGE>
     </IMAGES>
@@ -43873,31 +43919,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Plechová vánoční ozdoba 10 cm – Holčička</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Plechová ozdoba s holčičkou v retro stylu dodá výzdobě kouzelnou a něžnou vánoční náladu. Ideální na stromek i zimní dekorace.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Plechová ozdoba s holčičkou v retro stylu dodá výzdobě kouzelnou a něžnou vánoční náladu. Ideální na stromek i zimní dekorace.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Vánoční dekorace</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Vánoční dekorace</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/A83100040C-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/A83100040C.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-A83100040C</CODE>
-    <EAN>8721037572194</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Plechová vánoční ozdoba 10 cm – Sob</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Plechová ozdoba se sobem v retro stylu nádherně doplní klasickou vánoční výzdobu a dodá jí elegantní zimní atmosféru.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Plechová ozdoba se sobem v retro stylu nádherně doplní klasickou vánoční výzdobu a dodá jí elegantní zimní atmosféru.&lt;/p&gt;</DESCRIPTION>
@@ -53034,58 +53055,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - veselé Vánoce (klučina zdobí stromeček)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka a příjemné světlo svíčky pomohou vytvořit kouzelnou atmosféru tradičních Vánoc. Milá pozornost pro rodinu, přátele i všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260363</CODE>
-    <EAN>8595590737594</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - krásné Vánoce (holčička s prskavkou)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla plamínku a krásné porcelánové nádobky pomůže vytvořit útulnou sváteční atmosféru. Originální vánoční dárek pro rodinu, přátele i milovníky tradičních Vánoc.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260365</CODE>
-    <EAN>8595590737617</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vánoční oříšková čokoláda 100g - Nesem Vám noviny</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Vánoční oříšková čokoláda 100 g – Nesem Vám noviny je originální sladký dárek s tradičním vánočním motivem inspirovaným oblíbenou českou koledou. Lahodná oříšková čokoláda v krásném svátečním balení…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Vánoční oříšková čokoláda 100 g – Nesem Vám noviny je originální sladký dárek s tradičním vánočním motivem inspirovaným oblíbenou českou koledou. Lahodná oříšková čokoláda v krásném svátečním balení potěší rodinu, přátele i všechny milovníky tradičních českých Vánoc.&lt;/p&gt;</DESCRIPTION>
@@ -54527,6 +54496,135 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kosmetická sada kniha pro Přátele</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Kosmetický balíček pro všechny opravdové přátele. Potěšte své přátele a darujte jim originální kosmetickou sada obsahující sprchový gel a olejovou lázeň s olejovými složkami vůní levandule.…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Kosmetický balíček pro všechny opravdové přátele. Potěšte své přátele a darujte jim originální kosmetickou sada obsahující sprchový gel a olejovou lázeň s olejovými složkami vůní levandule. Netradiční kosmetický dárek pro někoho, na kom vám opravdu záleží. Po odklopení přední strany krabičky si můžete přečíst krátké texty o přátelství.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC210197-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2014/09/BC210197_KNIHA_pratele_C.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2014/09/BC210197.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210197_KNIHA_pratele.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC210197</CODE>
+    <EAN>8595590707399</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční mléčná čokoláda 10 g - chlapeček v modrém</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - chlapeček v modrém. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - chlapeček v modrém. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620056-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620056-mala-cokolada-modr.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC620056</CODE>
+    <EAN>8595590779044</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>34.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Plechová vánoční ozdoba 10 cm – Holčička</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Plechová ozdoba s holčičkou v retro stylu dodá výzdobě kouzelnou a něžnou vánoční náladu. Ideální na stromek i zimní dekorace.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Plechová ozdoba s holčičkou v retro stylu dodá výzdobě kouzelnou a něžnou vánoční náladu. Ideální na stromek i zimní dekorace.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Vánoční dekorace</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Vánoční dekorace</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/A83100040C-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/A83100040C.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-A83100040C</CODE>
+    <EAN>8721037572194</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - veselé Vánoce (klučina zdobí stromeček)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka a příjemné světlo svíčky pomohou vytvořit kouzelnou atmosféru tradičních Vánoc. Milá pozornost pro rodinu, přátele i všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260363</CODE>
+    <EAN>8595590737594</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - krásné Vánoce (holčička s prskavkou)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla plamínku a krásné porcelánové nádobky pomůže vytvořit útulnou sváteční atmosféru. Originální vánoční dárek pro rodinu, přátele i milovníky tradičních Vánoc.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260365</CODE>
+    <EAN>8595590737617</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
