@@ -32477,31 +32477,6 @@ Ušatý parťák do školy a školky na všechna dobrodružství tam i venku! Ve
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Kovový svícen ve tvaru stromku na čajovou svíčku - malý</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vytvořte si doma jedinečnou vánoční atmosféru pomocí kovového svícnu ve tvaru vánočního stromku na čajovou svíčku.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vytvořte si doma jedinečnou vánoční atmosféru pomocí kovového svícnu ve tvaru vánočního stromku na čajovou svíčku.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/AAE325140-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/10/stromek-svicen-maly.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/10/stromky-svicen.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-AAE325140</CODE>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vánoční kulaté prostírání - 3druhy</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Sada dvou vánočních prostírání ochrání váš stůl před kolečky od sklenic, skvrnami od jídla či poškrábáním. Zároveň vám ale také pomůže vtisknout vašemu stolu styl a útulnost vaší domácnosti.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Sada dvou vánočních prostírání ochrání váš stůl před kolečky od sklenic, skvrnami od jídla či poškrábáním. Zároveň vám ale také pomůže vtisknout vašemu stolu styl a útulnost vaší domácnosti.&lt;/p&gt;</DESCRIPTION>
@@ -52903,31 +52878,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Bytový parfém 200 ml - krásné Vánoce (bergamot, amber, sandalwood)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Bytový parfém 200 ml – Krásné Vánoce (bergamot, amber, sandalwood) je elegantní vůně do domácnosti, která spojuje svěží tóny bergamotu, hřejivou ambru a jemné santalové dřevo. Krásný voňavý doplněk…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Bytový parfém 200 ml – Krásné Vánoce (bergamot, amber, sandalwood) je elegantní vůně do domácnosti, která spojuje svěží tóny bergamotu, hřejivou ambru a jemné santalové dřevo. Krásný voňavý doplněk pro vytvoření útulné vánoční atmosféry i originální dárek pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260296-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260296.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260296</CODE>
-    <EAN>8595590736894</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Bytový parfém 200 ml - dobrou noc (eukalyptus, lavender, cedar wood)</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Bytový parfém 200 ml – Dobrou noc (eukalyptus, levandule, cedrové dřevo) je elegantní vůně do domácnosti, která spojuje svěží eukalyptus, jemnou levanduli a hřejivé cedrové dřevo. Ideální pro…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Bytový parfém 200 ml – Dobrou noc (eukalyptus, levandule, cedrové dřevo) je elegantní vůně do domácnosti, která spojuje svěží eukalyptus, jemnou levanduli a hřejivé cedrové dřevo. Ideální pro vytvoření klidné a útulné atmosféry při večerním odpočinku. Krásný voňavý dárek pro každého, kdo miluje chvíle relaxace a domácí pohody.&lt;/p&gt;</DESCRIPTION>
@@ -54496,6 +54446,56 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kovový svícen ve tvaru stromku na čajovou svíčku - malý</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vytvořte si doma jedinečnou vánoční atmosféru pomocí kovového svícnu ve tvaru vánočního stromku na čajovou svíčku.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vytvořte si doma jedinečnou vánoční atmosféru pomocí kovového svícnu ve tvaru vánočního stromku na čajovou svíčku.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/AAE325140-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/10/stromek-svicen-maly.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/10/stromky-svicen.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-AAE325140</CODE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Bytový parfém 200 ml - krásné Vánoce (bergamot, amber, sandalwood)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Bytový parfém 200 ml – Krásné Vánoce (bergamot, amber, sandalwood) je elegantní vůně do domácnosti, která spojuje svěží tóny bergamotu, hřejivou ambru a jemné santalové dřevo. Krásný voňavý doplněk…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Bytový parfém 200 ml – Krásné Vánoce (bergamot, amber, sandalwood) je elegantní vůně do domácnosti, která spojuje svěží tóny bergamotu, hřejivou ambru a jemné santalové dřevo. Krásný voňavý doplněk pro vytvoření útulné vánoční atmosféry i originální dárek pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260296-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260296.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260296</CODE>
+    <EAN>8595590736894</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
