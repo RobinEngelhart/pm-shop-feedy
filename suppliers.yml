@@ -154,6 +154,80 @@ suppliers:
       # dárkové bedny a sady, které alkohol obsahují
       - {name: "^(?!.*(kosmet|sprchov|šampon|mýdl|lázeň|koupel|otvír|krájen)).*(bedn|koš|kufřík|sada|box|balíček)", text: "(červeným|bílým|šumivým|růžovým) vínem|s vínem|šumivé víno|víno [A-ZÁČĎÉĚÍŇÓŘŠŤÚŮÝŽ]|víno \\d|prosecc|medovin|lahvov\\w* piv|piv[oa] \\d|s pivem|ležák"}
 
+  # ------------------------------------------------------------------ Automotochemie (Drive)
+  # Velkoobchodní feed (adresa obsahuje přístupový klíč -> GitHub secret FEED_URL_AUTOMOTOCHEMIE).
+  # PRICE = nákupní cena bez DPH, PRICE_VAT = jen PRICE × 1,21 (doporučenou cenu feed neposílá),
+  # proto se prodejní cena počítá z nákupní (defaults.pricing: +15 % + DPH).
+  # Štítky PŘIPRAVUJEME / VÝPRODEJ / NOVINKY / PROMO AKCE nejsou kategorie – pravidla je ignorují.
+  automotochemie:
+    supplier_name: "Automotochemie (Drive)"
+    item_tag: SHOPITEM
+    code_prefix: "AC-"
+    min_items: 100
+    strip_styles: true
+    fields:
+      code: PRODUCTCODE
+      ean: EAN
+      name: PRODUCT
+      description: DET_DESCRIPTION
+      description_fallback: DESCRIPTION
+      short_description: DESCRIPTION
+      manufacturer: MANUFACTURER
+      image: IMGURL
+      stock: INSTOCK
+      purchase_price: PRICE
+      vat: VAT
+      category: CATEGORYTEXT
+    stock_map:
+      ano: 5                      # feed posílá jen Ano/Ne
+      ne: 0
+    pricing:
+      use_rrp: false
+    manufacturer_map:
+      "L&amp;D Aromaticos": "L&D Aromaticos"
+    exclude:
+      - {text: "UKONČENÝ PRODEJ", reason: "ukončený prodej"}
+      - {name: "ZMĚNA KODU", reason: "starý kód – produkt je ve feedu pod novým kódem"}
+      - {name: "^[A-Z0-9_]+$", reason: "chybí název (jen kód)"}
+    categories:
+      # --- Vůně do auta
+      - {category: "Organic Can|Gelové osvěžovače", path: "Auto-moto > Vůně do auta > Vůně v plechovce"}
+      - {category: "Papírové osvěžovače|Little Bottle", path: "Auto-moto > Vůně do auta > Závěsné vůně"}
+      - {category: "Kolíčky do ventilace", path: "Auto-moto > Vůně do auta > Vůně do ventilace"}
+      - {category: "Osvěžovače vzduchu", path: "Auto-moto > Vůně do auta"}
+      # --- Autoklimatizace
+      - {category: "Autoklimatizace", path: "Auto-moto > Autoklimatizace"}
+      # --- Autokosmetika
+      - {category: "Autokosmetika \\| Šampóny", path: "Auto-moto > Autokosmetika > Mytí a šampony"}
+      - {category: "Autokosmetika \\| (Vosky|Leštěnky)", path: "Auto-moto > Autokosmetika > Vosky a leštěnky"}
+      - {category: "Autokosmetika \\| Interiér", path: "Auto-moto > Autokosmetika > Péče o interiér"}
+      - {category: "Autokosmetika \\| Čističe a impregnace", path: "Auto-moto > Autokosmetika > Čističe a impregnace"}
+      - {category: "Autokosmetika \\| Aplikace", path: "Auto-moto > Autokosmetika > Houby, utěrky a aplikátory"}
+      - {category: "Údržba kabrioletu|Údržba motocyklu|Dárkové kazety|Autokosmetika", path: "Auto-moto > Autokosmetika"}
+      # --- Autochemie
+      - {category: "Aditiva|Dekarbonizace", path: "Auto-moto > Autochemie > Aditiva do paliva"}
+      - {category: "\\| Motor\\b|Převodovka|Posilovač řízení", path: "Auto-moto > Autochemie > Motor a převodovka"}
+      - {category: "Chladící soustava", path: "Auto-moto > Autochemie > Chladicí soustava"}
+      - {category: "Brzdová soustava|Výfukový systém", path: "Auto-moto > Autochemie > Brzdy a výfuk"}
+      - {category: "Maziva a oleje", path: "Auto-moto > Autochemie > Maziva a oleje"}
+      - {category: "Zimní produkty|Ostřikovače", path: "Auto-moto > Autochemie > Zimní produkty a ostřikovače"}
+      - {category: "Rychlá oprava defektu|Opravné sady", path: "Auto-moto > Autochemie > Opravy a defekty"}
+      - {category: "Barvy, laky a nástřiky", path: "Auto-moto > Autochemie > Barvy a nástřiky"}
+      - {category: "Čističe|GOOP", path: "Auto-moto > Autochemie > Čističe a odmašťovače"}
+      # --- Tmely, lepidla a pásky
+      - {category: "Tmely, pásky a lepidla", path: "Auto-moto > Tmely, lepidla a pásky"}
+      # --- ostatní
+      - {category: "Autodoplňky|Elektroinstalace|Přečerpávací hadice", path: "Auto-moto > Autodoplňky"}
+      # --- položky jen se štítkem (VÝPRODEJ, PŘIPRAVUJEME, PROMO) – podle názvu
+      - {name: "MOTIP|Bumperspray|lak na|nástřik", path: "Auto-moto > Autochemie > Barvy a nástřiky"}
+      - {name: "Color Wax|vosk|autolak|kabriolet|pneumatik", path: "Auto-moto > Autokosmetika"}
+      - {name: "výfuk", path: "Auto-moto > Autochemie > Brzdy a výfuk"}
+      - {name: "chladič", path: "Auto-moto > Autochemie > Chladicí soustava"}
+      - {name: "tmel|pájka|lepidl|pásk", path: "Auto-moto > Tmely, lepidla a pásky"}
+      - {name: "čištění rukou|čistič", path: "Auto-moto > Autochemie > Čističe a odmašťovače"}
+      - {name: "olej|mazivo", path: "Auto-moto > Autochemie > Maziva a oleje"}
+    fallback_category: "Ke kontrole"
+
   # Šablona pro dalšího dodavatele (stačí zkopírovat, upravit a nastavit enabled: true).
   # Častý formát je Heureka XML – pak vypadá mapování takto:
   sablona-heureka:

@@ -20,6 +20,7 @@ import math
 import os
 import re
 import sys
+import urllib.parse
 import urllib.request
 from copy import deepcopy
 from datetime import date
@@ -153,7 +154,8 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
         "code": get_field(item, f.get("code")) or get_field(item, f.get("code_fallback")),
         "ean": get_field(item, f.get("ean")),
         "name": get_field(item, f.get("name")),
-        "description": get_field(item, f.get("description")),
+        "description": get_field(item, f.get("description")) or get_field(item, f.get("description_fallback")),
+        "short_description": get_field(item, f.get("short_description")),
         "manufacturer": get_field(item, f.get("manufacturer")),
         "images": get_all(item, f.get("image")),
         "stock": get_field(item, f.get("stock")),
@@ -163,7 +165,8 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
         "rrp": get_field(item, f.get("rrp")),
         "vat": get_field(item, f.get("vat")),
         "weight_g": get_field(item, f.get("weight_g")),
-        "supplier_category": get_field(item, f.get("category")),
+        # víc kategorií u položky -> spojíme, pravidla hledají v celém textu
+        "supplier_category": " ; ".join(get_all(item, f.get("category"))),
         "gpsr": get_field(item, f.get("gpsr")),
     }
 
@@ -214,6 +217,9 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
     if rrp_num is None and len(data["rrp"]) > 50 and len(description) < 20:
         description = data["rrp"]
     desc_html = html_paragraphs(description)
+    if cfg.get("strip_styles"):
+        desc_html = re.sub(r'\s(style|class)="[^"]*"', "", desc_html)
+        desc_html = re.sub(r"<p>(\s|&nbsp;)*</p>", "", desc_html)
     if data["gpsr"] and cfg.get("append_gpsr", True):
         gpsr = data["gpsr"]
         for wrong, right in cfg.get("text_fixes", {}).items():
@@ -278,8 +284,9 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
     # --- sestavení SHOPITEM (pořadí prvků schéma nevyžaduje)
     si = ET.Element("SHOPITEM")
     ET.SubElement(si, "NAME").text = name
-    if description.strip():
-        ET.SubElement(si, "SHORT_DESCRIPTION").text = html_paragraphs(short_text(description))
+    short_src = data["short_description"] or description
+    if short_src.strip():
+        ET.SubElement(si, "SHORT_DESCRIPTION").text = html_paragraphs(short_text(short_src))
     if desc_html:
         ET.SubElement(si, "DESCRIPTION").text = desc_html
     if manufacturer:
@@ -298,6 +305,9 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
     if data["images"]:
         imgs = ET.SubElement(si, "IMAGES")
         for url in data["images"][:20]:
+            if not re.match(r"https?://", url, re.IGNORECASE):
+                url = "https://" + url.lstrip("/")
+            url = urllib.parse.quote(url, safe=":/?&=%#+,;@!$'()*~")
             ET.SubElement(imgs, "IMAGE").text = url
     ET.SubElement(si, "CODE").text = code
     if re.fullmatch(r"\d{8,14}", data["ean"] or ""):
@@ -321,9 +331,11 @@ def load_source(supplier_id: str, cfg: dict, inputs: dict) -> bytes:
     if supplier_id in inputs:
         return Path(inputs[supplier_id]).read_bytes()
     urls = json.loads(os.environ.get("FEED_URLS", "{}") or "{}")
-    url = urls.get(supplier_id) or cfg.get("url")
+    # každý dodavatel může mít i vlastní secret FEED_URL_<ID>, např. FEED_URL_AUTOMOTOCHEMIE
+    own = os.environ.get("FEED_URL_" + re.sub(r"[^A-Z0-9]", "_", supplier_id.upper()), "")
+    url = own.strip() or urls.get(supplier_id) or cfg.get("url")
     if not url:
-        raise RuntimeError(f"Chybí URL feedu pro '{supplier_id}' (doplňte ji do secretu FEED_URLS).")
+        raise RuntimeError(f"Chybí URL feedu pro '{supplier_id}' (doplňte secret FEED_URL_{re.sub(r'[^A-Z0-9]', '_', supplier_id.upper())}).")
     req = urllib.request.Request(url, headers={"User-Agent": "pm-shop-feedy/1.0"})
     with urllib.request.urlopen(req, timeout=180) as resp:
         return resp.read()

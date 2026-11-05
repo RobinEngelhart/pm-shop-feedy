@@ -34,6 +34,7 @@ jobs:
       - name: Převod feedů
         env:
           FEED_URLS: ${{ secrets.FEED_URLS || vars.FEED_URLS }}
+          FEED_URL_AUTOMOTOCHEMIE: ${{ secrets.FEED_URL_AUTOMOTOCHEMIE }}
         run: python convert.py
 
       - name: Uložit změny (jen když se něco změnilo)
