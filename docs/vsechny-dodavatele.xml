@@ -34865,29 +34865,6 @@ Dárková sada obsahuje:
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Kovová lucerna s LED světlem</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Velká kovová lucerna se sklem a LED osvětlením.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Velká kovová lucerna se sklem a LED osvětlením.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/11/XX8323110.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-XX8323110</CODE>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dekorace ptáček</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dekorativní figurka ptáčka.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Dekorativní figurka ptáčka.&lt;/p&gt;</DESCRIPTION>
@@ -34959,32 +34936,6 @@ Dárková sada obsahuje:
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>999.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Dárková dřevěná bedna pro muže XL - pro motoristy</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Krásný dárek, který potěší každého motoristu. Dřevěná dárková bedna obsahuje originální hodiny, které budou ozdobou každé pracovny, garáže nebo dílny.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Krásný dárek, který potěší každého motoristu. Dřevěná dárková bedna obsahuje originální hodiny, které budou ozdobou každé pracovny, garáže nebo dílny.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC220025-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC220025_motorista_B.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC220025_motorista.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC220025</CODE>
-    <EAN>8595590771826</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>1390.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -47618,30 +47569,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Dřevěná dárková bedna s čajem</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Elegantní dřevěná dárková bedna s čajem obsahuje praktický keramický hrnek a čaj v plechové krabičce. Originální dárkový set pro milovníky čaje.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Elegantní dřevěná dárková bedna s čajem obsahuje praktický keramický hrnek a čaj v plechové krabičce. Originální dárkový set pro milovníky čaje.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250095_B_LQ.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250095</CODE>
-    <EAN>8595590730984</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dřevěná dárková bedna z lásky s prosecco</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Stylová dřevěná dárková bedna z lásky s praktickým boxem a dárkovým proseccem 0,75 l. Obsahuje také dvě pěnivé a šumivé bomby do koupele, pralinky pro zamilované a plechovou krabičku s nápisem Love…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Stylová dřevěná dárková bedna z lásky s praktickým boxem a dárkovým proseccem 0,75 l. Obsahuje také dvě pěnivé a šumivé bomby do koupele, pralinky pro zamilované a plechovou krabičku s nápisem Love You. Ideální romantický dárek pro partnera či partnerku.&lt;/p&gt;</DESCRIPTION>
@@ -57604,7 +57531,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737181</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57631,7 +57558,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737198</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57658,7 +57585,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737204</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57685,7 +57612,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737211</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57710,7 +57637,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737020</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>1190.00</PRICE_VAT>
+    <PRICE_VAT>952.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57735,7 +57662,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737037</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>1190.00</PRICE_VAT>
+    <PRICE_VAT>952.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57760,7 +57687,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737044</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>1190.00</PRICE_VAT>
+    <PRICE_VAT>952.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57785,7 +57712,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737051</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>1190.00</PRICE_VAT>
+    <PRICE_VAT>952.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57810,7 +57737,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737068</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>1190.00</PRICE_VAT>
+    <PRICE_VAT>952.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57835,7 +57762,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737075</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>1190.00</PRICE_VAT>
+    <PRICE_VAT>952.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57860,7 +57787,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737082</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>749.00</PRICE_VAT>
+    <PRICE_VAT>599.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57885,7 +57812,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737099</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>749.00</PRICE_VAT>
+    <PRICE_VAT>599.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57910,7 +57837,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737105</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>749.00</PRICE_VAT>
+    <PRICE_VAT>599.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57935,7 +57862,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737112</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>749.00</PRICE_VAT>
+    <PRICE_VAT>599.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57960,7 +57887,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737129</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>749.00</PRICE_VAT>
+    <PRICE_VAT>599.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -57985,7 +57912,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8695590737136</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>749.00</PRICE_VAT>
+    <PRICE_VAT>599.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58010,7 +57937,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737228</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58035,7 +57962,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737235</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58060,7 +57987,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737242</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58085,7 +58012,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737259</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58110,7 +58037,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737266</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58135,7 +58062,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737273</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58161,7 +58088,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736979</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>499.00</PRICE_VAT>
+    <PRICE_VAT>399.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58186,7 +58113,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736665</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58211,7 +58138,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736672</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58236,7 +58163,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736689</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58261,7 +58188,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736757</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58287,7 +58214,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736764</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58313,7 +58240,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736771</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58339,7 +58266,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736788</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58365,7 +58292,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736986</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>499.00</PRICE_VAT>
+    <PRICE_VAT>399.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58391,7 +58318,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736528</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>57.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58417,7 +58344,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736535</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>57.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58443,7 +58370,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736542</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>57.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58469,7 +58396,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736566</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>57.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58495,7 +58422,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736559</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>57.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58521,7 +58448,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736573</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>57.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58547,7 +58474,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736993</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>499.00</PRICE_VAT>
+    <PRICE_VAT>399.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58573,7 +58500,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737006</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>499.00</PRICE_VAT>
+    <PRICE_VAT>399.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58599,7 +58526,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737013</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>449.00</PRICE_VAT>
+    <PRICE_VAT>359.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58624,7 +58551,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736832</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>179.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58649,7 +58576,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736849</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>179.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58674,7 +58601,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736856</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>179.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58702,7 +58629,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590735347</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>185.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58729,7 +58656,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590735521</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>144.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58756,7 +58683,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590735514</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>144.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58783,7 +58710,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734197</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>144.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58810,7 +58737,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734180</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>144.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58835,7 +58762,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736825</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>109.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58860,7 +58787,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736597</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58885,7 +58812,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736603</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58910,7 +58837,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736610</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58935,7 +58862,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736627</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58960,7 +58887,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736634</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -58985,7 +58912,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736641</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59010,7 +58937,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736702</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59035,7 +58962,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736719</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59060,7 +58987,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736726</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59085,7 +59012,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736733</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59110,7 +59037,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737792</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59135,7 +59062,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737785</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59160,7 +59087,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737808</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59185,7 +59112,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737815</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59210,7 +59137,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737822</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59235,7 +59162,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737839</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59260,7 +59187,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737846</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59285,7 +59212,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737853</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59310,7 +59237,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738119</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59335,7 +59262,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738126</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59360,7 +59287,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738133</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59385,7 +59312,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738140</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59410,7 +59337,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738157</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59435,7 +59362,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738164</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59460,7 +59387,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737556</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59485,7 +59412,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737549</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59510,7 +59437,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737518</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59535,7 +59462,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737501</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59560,7 +59487,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736894</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59585,7 +59512,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736900</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59610,7 +59537,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736917</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59635,7 +59562,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736924</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59661,7 +59588,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737563</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59687,7 +59614,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737570</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59712,7 +59639,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737525</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59737,7 +59664,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737532</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59763,7 +59690,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737723</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>135.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59789,7 +59716,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737730</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>135.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59815,7 +59742,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737747</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>135.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59841,7 +59768,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737754</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>135.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59867,7 +59794,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737761</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>135.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59893,7 +59820,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737778</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>169.00</PRICE_VAT>
+    <PRICE_VAT>135.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59919,7 +59846,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737945</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>449.00</PRICE_VAT>
+    <PRICE_VAT>329.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59945,7 +59872,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737952</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>449.00</PRICE_VAT>
+    <PRICE_VAT>329.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59971,7 +59898,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737969</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>449.00</PRICE_VAT>
+    <PRICE_VAT>329.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -59997,7 +59924,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737976</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>449.00</PRICE_VAT>
+    <PRICE_VAT>329.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60023,7 +59950,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737983</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60049,7 +59976,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737990</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60075,7 +60002,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738003</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60101,7 +60028,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738010</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60127,7 +60054,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738027</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60153,7 +60080,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738034</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60180,7 +60107,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734616</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60207,7 +60134,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734623</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60234,7 +60161,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734630</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60261,7 +60188,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734647</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>259.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60286,7 +60213,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590735651</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>379.00</PRICE_VAT>
+    <PRICE_VAT>279.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60311,7 +60238,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736696</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60336,7 +60263,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736740</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60361,7 +60288,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737860</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60386,7 +60313,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737877</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60415,7 +60342,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737686</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60444,7 +60371,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737709</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60473,7 +60400,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737693</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60502,7 +60429,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737716</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.00</PRICE_VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60527,7 +60454,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736863</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60552,7 +60479,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736870</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60577,7 +60504,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736887</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60602,7 +60529,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738218</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60627,7 +60554,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738225</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60652,7 +60579,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738270</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60677,7 +60604,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738263</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60702,7 +60629,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738249</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60727,7 +60654,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738232</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60752,7 +60679,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738201</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60777,7 +60704,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736658</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>69.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60803,7 +60730,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738546</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60829,7 +60756,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738553</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60855,7 +60782,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738560</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60881,7 +60808,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738577</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60906,7 +60833,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738584</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>185.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60931,7 +60858,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738591</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>185.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60956,7 +60883,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738607</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>185.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -60981,7 +60908,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738614</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>185.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -61006,7 +60933,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8720573637305</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>179.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -61031,7 +60958,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8720573637305</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
+    <PRICE_VAT>179.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -61056,7 +60983,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738621</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>239.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -61081,7 +61008,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738638</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>239.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -61106,7 +61033,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738645</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>239.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -61131,9 +61058,484 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738652</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
+    <PRICE_VAT>239.20</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárkový box Pro báječnou maminku – sprchový gel 250 ml, tělový krém, svíčka, krém na ruce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárkový box – Pro báječnou maminku je krásným dárkem plným voňavé péče a relaxace. Sada obsahuje sprchový gel 250 ml, tělový krém, svíčku a krém na ruce. Dárkové balení s milým věnováním potěší…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárkový box – Pro báječnou maminku je krásným dárkem plným voňavé péče a relaxace. Sada obsahuje sprchový gel 250 ml, tělový krém, svíčku a krém na ruce. Dárkové balení s milým věnováním potěší každou maminku k narozeninám, svátku, Dni matek nebo jen tak pro radost.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/16786a9d-bf7c-4969-bd39-da1ee8ebed0c.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/799b0366-757a-450e-b1c3-463df189bf02.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/e001fcd6-6f77-4a33-919d-b147ee77b35f.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/7a44eb15-452b-4b86-9843-d81e2a6dd410.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/1e4e8145-0bcb-471a-9b9a-ae89d72c663e.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/36ade02d-475b-438c-947c-42b479a1fb3e.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260475</CODE>
+    <EAN>8595590738713</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>479.20</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárková svíčka ve skle 260 g – Jablko a skořice</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková svíčka ve skle 260 g – Jablko a skořice provoní domov příjemnou kombinací sladkého jablka a hřejivé skořice. Vonná svíčka ve skleněném obalu vytvoří útulnou atmosféru během podzimních a…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárková svíčka ve skle 260 g – Jablko a skořice provoní domov příjemnou kombinací sladkého jablka a hřejivé skořice. Vonná svíčka ve skleněném obalu vytvoří útulnou atmosféru během podzimních a zimních večerů. Krásný dárek k Vánocům, narozeninám nebo jen tak pro radost.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260478-svicka-jablko-skorice-260g-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260478-svicka-jablko-skorice-260g.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260478-svicka-jablko-skorice-260g-detail.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260478</CODE>
+    <EAN>8595590738744</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárková svíčka ve skle 260 g – Vánoční jmelí</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková svíčka ve skle 260 g – Vánoční jmelí vnese do domova příjemnou sváteční vůni a kouzlo Vánoc. Vonná svíčka s vůní jmelí ve skleněném obalu vytvoří útulnou atmosféru během adventních a zimních…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárková svíčka ve skle 260 g – Vánoční jmelí vnese do domova příjemnou sváteční vůni a kouzlo Vánoc. Vonná svíčka s vůní jmelí ve skleněném obalu vytvoří útulnou atmosféru během adventních a zimních večerů. Krásný vánoční dárek pro vaše blízké nebo dekorace do domácnosti.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260479-svicka-vanocni-jmeli-260g-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260479-svicka-vanocni-jmeli-260g.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260479-svicka-vanocni-jmeli-260g-detail.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260479</CODE>
+    <EAN>8595590738751</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárková svíčka ve skle 260 g – Krásné Vánoce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková svíčka ve skle 260 g – Krásné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou atmosféru a sváteční pohodu. Svíčka ve skleněném obalu s vánočním motivem potěší každého…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárková svíčka ve skle 260 g – Krásné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou atmosféru a sváteční pohodu. Svíčka ve skleněném obalu s vánočním motivem potěší každého milovníka útulného domova. Ideální jako drobný dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260480-svicka-krasne-vanoce-260g-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260480-svicka-krasne-vanoce-260g.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260480-svicka-krasne-vanoce-260g-detail.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260480</CODE>
+    <EAN>8595590738768</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárkový box Skvělé kamarádce – sprchový gel 250 ml, mýdlo 100 g, krém, svíčka, šumivá bomba do koupele</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárkový box – Skvělé kamarádce je krásným dárkem plným voňavé péče a relaxace. Sada obsahuje sprchový gel 250 ml, tuhé mýdlo 100 g, krém, svíčku a šumivou bombu do koupele. Dárkové balení s milým…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárkový box – Skvělé kamarádce je krásným dárkem plným voňavé péče a relaxace. Sada obsahuje sprchový gel 250 ml, tuhé mýdlo 100 g, krém, svíčku a šumivou bombu do koupele. Dárkové balení s milým věnováním potěší každou kamarádku k narozeninám, svátku, Vánocům nebo jen tak pro radost.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/75358508-45e6-4168-831c-86a28f058d50.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-29-at-12.57.47.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/55376996-cba9-45b0-98f2-fe0f8d4614ee.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/df92345a-678a-4a99-98fc-6d7941a4aaca.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/678f4d0a-5585-4eaf-a147-e89a44b9a2fe.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-27-at-14.56.44-3.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260476</CODE>
+    <EAN>8595590738720</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>399.20</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárkový box Pro tu nejmilejší babičku – sprchový gel 250 ml, tělový krém, svíčka, krém na ruce, srdce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárkový box – Pro tu nejmilejší babičku je krásným dárkem plným péče, pohody a lásky. Sada obsahuje sprchový gel 250 ml, tělový krém, svíčku, krém na ruce a dekorativní srdce. Dárkové balení s milým…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárkový box – Pro tu nejmilejší babičku je krásným dárkem plným péče, pohody a lásky. Sada obsahuje sprchový gel 250 ml, tělový krém, svíčku, krém na ruce a dekorativní srdce. Dárkové balení s milým věnováním potěší každou babičku k narozeninám, svátku, Vánocům nebo jen tak pro radost.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/6fa06f0f-85ab-493e-8303-0f936d4fb0e5.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/e012f080-fc78-4793-9ad2-43df2c83a75e.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-27-at-15.20.28.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/fc2fe4a3-741a-4e87-b0cb-0f794f19b2be.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-27-at-15.20.28-4.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-27-at-15.20.28-3.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260477</CODE>
+    <EAN>8595590738737</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>639.20</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční kufřík XL - Andělské Vánoce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční kufřík XL – Andělské Vánoce je originální dárková sada plná vánoční pohody a milých překvapení. Dekorativní červený kufřík se zimním motivem ukrývá roztomilého látkového andílka, kosmetické…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vánoční kufřík XL – Andělské Vánoce je originální dárková sada plná vánoční pohody a milých překvapení. Dekorativní červený kufřík se zimním motivem ukrývá roztomilého látkového andílka, kosmetické produkty a srdíčko. Krásný vánoční dárek pro maminku, babičku, kamarádku nebo každého, komu chcete udělat radost.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/e02f8d98-9779-4e0f-83e7-65b3ca8b9437.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/7ffdfd80-c636-4a31-8a79-36eb7c4a90ae.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/b281e1ef-b145-4464-9a66-48bbd8b38b51.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-29-at-13.36.560.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-29-at-13.36.56.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-27-at-11.22.21.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260454</CODE>
+    <EAN>8595590738508</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>1039.20</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční kufřík - Kouzlo Vánoc</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční kufřík – Kouzlo Vánoc je originální dárková sada plná vánočních překvapení. Elegantní červený kufřík ukrývá vonnou svíčku, vánoční ozdobu, schránku na dopisy Santovi, hřejivé ponožky, čaj a…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vánoční kufřík – Kouzlo Vánoc je originální dárková sada plná vánočních překvapení. Elegantní červený kufřík ukrývá vonnou svíčku, vánoční ozdobu, schránku na dopisy Santovi, hřejivé ponožky, čaj a dekorativní rolničky. Krásný vánoční dárek pro rodinu, přátele i kolegy.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/150f49dc-105e-421c-8e28-1cabd7d0e5dd.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/12a094ec-4855-4a84-8101-e9c4356b75ab.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-27-at-11.13.01.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-27-at-11.13.01-1.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/WhatsApp-Image-2026-10-27-at-11.13.01-2.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/ec467c99-598f-4133-930f-bdc130b13fe9.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260453</CODE>
+    <EAN>8595590738492</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>719.20</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční sada hrnků pro kamarádky – 2 ks</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční sada hrnků pro kamarádky obsahuje 2 světlé hrnky s motivy skřítka a cukrové hůlky. Dárková krabička nese věnování „Pro nejlepší kamarádky – Na všechny naše rozhovory“. Pozornost pod stromeček…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Vánoční sada hrnků pro kamarádky&lt;/strong&gt; obsahuje 2 světlé hrnky s motivy skřítka a cukrové hůlky. Dárková krabička nese věnování „Pro nejlepší kamarádky – Na všechny naše rozhovory“. Pozornost pod stromeček pro kamarádku, se kterou je každé posezení příjemnější.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260408-sada-hrnku-vanocni-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260408-vanocni-sada-hrnku-2-ks-pro-kamaradky.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260408</CODE>
+    <EAN>8595590738041</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>229.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční sada hrnků pro maminku – 2 ks</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční sada hrnků pro maminku se skřítkem a cukrovou hůlkou obsahuje 2 kusy v dárkové krabičce. Přebal „Pro společné chvíle s maminkou – Čas spolu je nejkrásnější dárek“ promění praktický dárek v…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Vánoční sada hrnků pro maminku&lt;/strong&gt; se skřítkem a cukrovou hůlkou obsahuje 2 kusy v dárkové krabičce. Přebal „Pro společné chvíle s maminkou – Čas spolu je nejkrásnější dárek“ promění praktický dárek v pozvání k posezení ve dvou.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260409-sada-hrnku-vanocni-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260409-vanocni-sada-hrnku-2-ks-pro-chvile-s-maminkou.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260409</CODE>
+    <EAN>8595590738058</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>229.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční sada hrnků pro babičku – 2 ks</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční sada hrnků pro babičku obsahuje 2 světlé hrnky s motivem skřítka a cukrové hůlky. Krabičku zdobí věnování „Pro společné chvíle s babičkou – Chvíle plné pohody“. Vánoční dárek od vnoučat pro…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Vánoční sada hrnků pro babičku&lt;/strong&gt; obsahuje 2 světlé hrnky s motivem skřítka a cukrové hůlky. Krabičku zdobí věnování „Pro společné chvíle s babičkou – Chvíle plné pohody“. Vánoční dárek od vnoučat pro další rodinné návštěvy.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260410-sada-hrnku-vanocni-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260410-vanocni-sada-hrnku-2-ks-pro-chvile-s-babickou.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260410</CODE>
+    <EAN>8595590738065</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>229.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárková sada hrnků pro maminku – 4 ks</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková sada hrnků pro maminku obsahuje 4 hrnky s reliéfem v mentolové, světle šedé, tmavě šedé a jemně růžové barvě. Vánoční přebal „Pro maminku – Za všechno teplo domova“ vyjadřuje poděkování za chvíle strávené spolu.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Dárková sada hrnků pro maminku&lt;/strong&gt; obsahuje 4 hrnky s reliéfem v mentolové, světle šedé, tmavě šedé a jemně růžové barvě. Vánoční přebal „Pro maminku – Za všechno teplo domova“ vyjadřuje poděkování za chvíle strávené spolu.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260411-sada-hrnku-vanocni-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260411-darkova-sada-hrnku-4-ks-pro-maminku.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/darkova-sada-4-hrnky-detail-obsahu-v2-1000x1000-1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260411</CODE>
+    <EAN>8595590738072</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>329.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárková sada hrnků pro babičku – 4 ks</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková sada hrnků pro babičku se 4 barevnými hrnky s reliéfem potěší při rodinných návštěvách. Krabička s vánočním přebalem „Pro babičku – Za lásku, která hřeje“ je osobním dárkem pod stromeček od vnoučat i celé rodiny.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Dárková sada hrnků pro babičku&lt;/strong&gt; se 4 barevnými hrnky s reliéfem potěší při rodinných návštěvách. Krabička s vánočním přebalem „Pro babičku – Za lásku, která hřeje“ je osobním dárkem pod stromeček od vnoučat i celé rodiny.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260412-sada-hrnku-vanocni-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260412-darkova-sada-hrnku-4-ks-pro-babicku.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/darkova-sada-4-hrnky-detail-obsahu-v2-1000x1000-1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260412</CODE>
+    <EAN>8595590738089</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>329.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárková sada hrnků pro kamarádku – 4 ks</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková sada hrnků pro kamarádku obsahuje 4 barevné hrnky s kosočtvercovým a šestiúhelníkovým reliéfem. Vánoční krabička nese věnování „Pro kamarádku – Na naše společné chvíle“. Dárek pro přátelská…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Dárková sada hrnků pro kamarádku&lt;/strong&gt; obsahuje 4 barevné hrnky s kosočtvercovým a šestiúhelníkovým reliéfem. Vánoční krabička nese věnování „Pro kamarádku – Na naše společné chvíle“. Dárek pro přátelská setkání u kávy nebo čaje.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260413-sada-hrnku-vanocni-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260413-darkova-sada-hrnku-4-ks-pro-kamaradku.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/darkova-sada-4-hrnky-detail-obsahu-v2-1000x1000-1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260413</CODE>
+    <EAN>8595590738096</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>329.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárková sada hrnků pro paní učitelku – 4 ks</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková sada hrnků pro paní učitelku se 4 barevnými hrnky s reliéfem je vánočním poděkováním od dětí a rodičů. Dárkový přebal s knihami, tužkou a větvičkami doplňuje věnování „Pro paní učitelku – S poděkováním od srdce“.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Dárková sada hrnků pro paní učitelku&lt;/strong&gt; se 4 barevnými hrnky s reliéfem je vánočním poděkováním od dětí a rodičů. Dárkový přebal s knihami, tužkou a větvičkami doplňuje věnování „Pro paní učitelku – S poděkováním od srdce“.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260414-sada-hrnku-vanocni-interier.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260414-darkova-sada-hrnku-4-ks-pro-pani-ucitelku.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/darkova-sada-4-hrnky-detail-obsahu-v2-1000x1000-1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260414</CODE>
+    <EAN>8595590738102</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>329.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kovová lucerna s LED světlem</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Velká kovová lucerna se sklem a LED osvětlením.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Velká kovová lucerna se sklem a LED osvětlením.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/11/XX8323110.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-XX8323110</CODE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárková dřevěná bedna pro muže XL - pro motoristy</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Krásný dárek, který potěší každého motoristu. Dřevěná dárková bedna obsahuje originální hodiny, které budou ozdobou každé pracovny, garáže nebo dílny.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Krásný dárek, který potěší každého motoristu. Dřevěná dárková bedna obsahuje originální hodiny, které budou ozdobou každé pracovny, garáže nebo dílny.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC220025-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC220025_motorista_B.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC220025_motorista.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC220025</CODE>
+    <EAN>8595590771826</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>1390.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dřevěná dárková bedna s čajem</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Elegantní dřevěná dárková bedna s čajem obsahuje praktický keramický hrnek a čaj v plechové krabičce. Originální dárkový set pro milovníky čaje.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Elegantní dřevěná dárková bedna s čajem obsahuje praktický keramický hrnek a čaj v plechové krabičce. Originální dárkový set pro milovníky čaje.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250095_B_LQ.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250095</CODE>
+    <EAN>8595590730984</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
