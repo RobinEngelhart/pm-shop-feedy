@@ -50,6 +50,9 @@ suppliers:
       codes: ["ESV032"]          # chybně spárovaný produkt ve feedu dodavatele
     vat_map:
       "15": 21                   # sazba 15 % už neexistuje
+    pricing:                     # VO partner: marže aspoň 30 % nad nákupní cenou
+      coef: 1.30                 # nákup bez DPH × 1,30 + DPH
+      coef_is_minimum: true      # doporučená cena jen když je vyšší než nákup + 30 % + DPH
     name_fixes:
       "Batereie": "Baterie"
       "Bazerie": "Baterie"

@@ -265,7 +265,10 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
         rc = float(pricing.get("retail_coef", 1.0))
         price_vat = retail if rc == 1.0 else round_price(retail * rc, pricing.get("rounding", "nines"))
         report["priced_rrp"] += 1
-    elif pricing.get("use_rrp", True) and rrp_num and rrp_num > buy * min_ratio:
+    elif (pricing.get("use_rrp", True) and rrp_num and rrp_num > buy * min_ratio
+          and not (pricing.get("coef_is_minimum")
+                   and rrp_num < buy * (1 + vat / 100) * coef)):
+        # coef_is_minimum: doporučenou cenu bereme, jen když dává aspoň marži coef
         price_vat = rrp_num
         report["priced_rrp"] += 1
     else:
