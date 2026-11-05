@@ -194,7 +194,10 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
             report["skipped"].append(f"{data['code']} – chybí prodejní cena")
             return None
     elif buy is None or buy <= 0:
-        report["skipped"].append(f"{data['code']} – chybí nákupní cena")
+        report["skipped"].append(f"{data['code']} {data['name']} – nákupní cena je 0 nebo chybí")
+        # ať ho ani keep_missing nevrátí do výstupu se starou cenou
+        raw = re.sub(r"\s*-\s*", "-", data["code"]).replace(" ", "")
+        report.setdefault("zero_price", set()).add(cfg.get("code_prefix", "") + raw)
         return None
 
     # --- oprava textů
@@ -380,6 +383,9 @@ def keep_missing(supplier_id: str, cfg: dict, defaults: dict, shop: ET.Element, 
         for old in ET.parse(old_path).getroot().findall("SHOPITEM"):
             code = old.findtext("CODE")
             if code in seen:
+                continue
+            if code in report.get("zero_price", set()):
+                report["dropped_missing"] += 1
                 continue
             since = state.get(code, today)
             if (date.fromisoformat(today) - date.fromisoformat(since)).days > days:
