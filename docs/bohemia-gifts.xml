@@ -11312,6 +11312,33 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Kosmetická sada pro maminku - sprchový gel 100 ml, šampon 100 ml a mýdlo 100 g</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárkový kosmetický balíček pro maminku. Kosmetická sada mamince obsahuje sprchový gel, vlasový šampon a ručně vyráběné mýdlo. Balíček je krásný dárek pro maminku k narozeninám, svátku nebo k vánocům.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárkový kosmetický balíček pro maminku. Kosmetická sada mamince obsahuje sprchový gel, vlasový šampon a ručně vyráběné mýdlo. Balíček je krásný dárek pro maminku k narozeninám, svátku nebo k vánocům.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/2d185922-d858-46b5-8333-d35c7efc2e11.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC210183-2.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/BC210183_C.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2018/09/BC210183_B.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC210183</CODE>
+    <EAN>8595590708877</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>219.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Kosmetická sada pro tatínka - sprchový gel 100 ml, šampon 100 ml a mýdlo 100 g</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dárkový kosmetický balíček pro tatínka. Kosmetická sada pro tátu obsahuje sprchový gel, vlasový šampon a ručně vyráběné mýdlo. Balíček je krásný dárek pro tatínka k narozeninám, svátku nebo k Vánocům.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Dárkový kosmetický balíček pro tatínka. Kosmetická sada pro tátu obsahuje sprchový gel, vlasový šampon a ručně vyráběné mýdlo. Balíček je krásný dárek pro tatínka k narozeninám, svátku nebo k Vánocům.&lt;/p&gt;</DESCRIPTION>
@@ -38609,6 +38636,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240145-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240145_vonne_svicky_zen.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/vonne-tycinky_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/vonne-tycinky_C.jpg</IMAGE>
@@ -38980,6 +39008,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240072-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240072_krasny-den_w.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/difuzer-domky.jpg</IMAGE>
     </IMAGES>
@@ -39032,6 +39061,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240074-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240074_kamaradka_w.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/difuzer-domky.jpg</IMAGE>
     </IMAGES>
@@ -39057,6 +39087,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240107-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240107_w.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC240107</CODE>
@@ -39081,6 +39112,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240108-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240108_w.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC240108</CODE>
@@ -39105,6 +39137,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240109-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240109_w.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC240109</CODE>
@@ -39229,6 +39262,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240114-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240114_w.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC240114</CODE>
@@ -39355,6 +39389,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC2204-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC2204_w.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC2204</CODE>
@@ -39379,6 +39414,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC2203-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC2203_w.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC2203</CODE>
@@ -39403,6 +39439,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC2202-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC2202_w.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC2202</CODE>
@@ -39859,6 +39896,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240179-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240179_hrnek_radost.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240179_hrnek_radost_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/radost_tmavy_hrnek.jpg</IMAGE>
@@ -39915,6 +39953,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240181-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240181_hrnek_stesti.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240181_hrnek_stesti_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/stesti_tmavy_hrnek.jpg</IMAGE>
@@ -39942,6 +39981,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240183-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240183_hrnek_dekuji_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240183_hrnek_dekuji.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/Q99000110_maxi_hrnky.jpg</IMAGE>
@@ -39970,6 +40010,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240184-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240184_hrnek_laska_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240184_hrnek_laska.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/laska_tmavy_hrnek.jpg</IMAGE>
@@ -40022,6 +40063,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240182-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240182_hrnek_pohoda.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240182_hrnek_pohoda_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/Q99000110_maxi_hrnky.jpg</IMAGE>
@@ -40048,6 +40090,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240078-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240078_W.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC240078.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC240078B.jpg</IMAGE>
@@ -40259,6 +40302,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240209-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/vxstrelovac_konfet.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC240209</CODE>
@@ -40566,6 +40610,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240081-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/08/BC240081-w-Medium.jpeg</IMAGE>
     </IMAGES>
     <CODE>BG-BC240081</CODE>
@@ -40614,6 +40659,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240084-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/08/BC240084-w-Medium.jpeg</IMAGE>
     </IMAGES>
     <CODE>BG-BC240084</CODE>
@@ -40746,6 +40792,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250031-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/05/KROUCENE-LIZATKO-1_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250031</CODE>
@@ -40770,6 +40817,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250032-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/05/KROUCENE-LIZATKO-2_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250032</CODE>
@@ -40794,6 +40842,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250034-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/05/KROUCENE-LIZATKO-5_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250034</CODE>
@@ -40818,6 +40867,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250035-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/05/KROUCENE-LIZATKO-4_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250035</CODE>
@@ -40842,6 +40892,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250033-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/05/KROUCENE-LIZATKO-3_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250033</CODE>
@@ -40924,6 +40975,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250083-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250083_A_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250083_B_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250083_C_LQ.jpg</IMAGE>
@@ -40950,6 +41002,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250084-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250084_A_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250084_B_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250084_C_LQ.jpg</IMAGE>
@@ -40978,6 +41031,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250085-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250085_A_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250085_B_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250085_C_LQ.jpg</IMAGE>
@@ -41194,6 +41248,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250093-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250093_B_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250093_C_LQ.jpg</IMAGE>
     </IMAGES>
@@ -41247,6 +41302,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250100-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250100_B_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250100_C_LQ.jpg</IMAGE>
     </IMAGES>
@@ -41272,9 +41328,9 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250101-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250101_C_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250101_B_LQ.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250101_C_LQ.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250101</CODE>
     <EAN>8595590731042</EAN>
@@ -41298,6 +41354,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250102-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250102_C_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250102_A_LQ.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250102_D_LQ.jpg</IMAGE>
@@ -41480,6 +41537,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250059-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250059_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250059</CODE>
@@ -41504,6 +41562,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250060-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250060_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250060</CODE>
@@ -41631,6 +41690,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250037-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/vareni_1000x1000.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250037.jpg</IMAGE>
     </IMAGES>
@@ -41682,6 +41742,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250112-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250112.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250112_b.jpg</IMAGE>
     </IMAGES>
@@ -41707,6 +41768,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250113-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250113.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250113_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250113_C.jpg</IMAGE>
@@ -41734,6 +41796,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250114-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250114.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250114_c.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250114_B.jpg</IMAGE>
@@ -41760,6 +41823,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250111-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250111.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250111_b.jpg</IMAGE>
     </IMAGES>
@@ -41785,6 +41849,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250029-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250029_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250029</CODE>
@@ -41809,6 +41874,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250030-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250030_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250030</CODE>
@@ -41833,6 +41899,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250079-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250079_1000x1000.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250079</CODE>
@@ -41908,6 +41975,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250103-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250103_1000x1000.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatko-hvezdice.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatka.jpg</IMAGE>
@@ -41934,6 +42002,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250104-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250104_1000x1000.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatka.jpg</IMAGE>
     </IMAGES>
@@ -41986,6 +42055,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250106-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250106_1000x1000.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatko-musle.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatka.jpg</IMAGE>
@@ -42223,6 +42293,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250076-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250076-1000x1000-1.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250076</CODE>
@@ -42322,6 +42393,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC12602725-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC126027_hasic_web.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC126027_hasic_web_OV.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC126027_hasic_web_gel_2.jpg</IMAGE>
@@ -42349,6 +42421,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250036-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250036_florbalisty.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250036_florbalistyOV.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250036_gel1.jpg</IMAGE>
@@ -42594,6 +42667,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250118-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250118_dekuji_1000x1000.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250118_1000x1000.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250118-250119_1000x1000.jpg</IMAGE>
@@ -42646,6 +42720,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250120-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250120_narozeniny_1000x1000.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250120_1000x1000.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250118-250119_1000x1000.jpg</IMAGE>
@@ -42725,6 +42800,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250022-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250022-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250022.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250022-2.jpg</IMAGE>
@@ -42752,6 +42828,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Čaje a nápoje</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250023-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250023-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250023-2.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250023.jpg</IMAGE>
@@ -42945,6 +43022,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250054-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250054-1000x1000_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250054-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/05/vafle_zada.jpg</IMAGE>
@@ -42971,6 +43049,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250053-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250053-1000x1000_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250053-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/05/vafle_zada.jpg</IMAGE>
@@ -43137,33 +43216,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>169.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Plechové autíčko s makronkami 10 ks - červené (10x6,3 g)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Červené plechové autíčko s vánočním motivem ukrývá 10 makronek s příchutěmi vanilka, matcha, lemon a jahoda. Stylový vánoční dárek, který potěší chuťové buňky i oko.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Červené plechové autíčko s vánočním motivem ukrývá 10 makronek s příchutěmi vanilka, matcha, lemon a jahoda. Stylový vánoční dárek, který potěší chuťové buňky i oko.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Becky´s</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC250144-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250144.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250144-B.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/makronky.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250144</CODE>
-    <EAN>8595590731738</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -43566,12 +43618,12 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Další dárky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250067-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250067-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/A2_papirky.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/A3_papirky.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/papirky.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/papirky_2.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/praci-papirky-oddeleni.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250067</CODE>
     <EAN>8595590730700</EAN>
@@ -43861,6 +43913,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/Q80000960-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/kava_3.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/kava.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/kava_2.jpg</IMAGE>
@@ -43987,6 +44040,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250188-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250188.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250188</CODE>
@@ -44011,6 +44065,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250189-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250189.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250189</CODE>
@@ -44260,6 +44315,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250145-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250145.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/puzzle.jpg</IMAGE>
     </IMAGES>
@@ -44285,6 +44341,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250146-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250146.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/puzzle.jpg</IMAGE>
     </IMAGES>
@@ -44310,6 +44367,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250147-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250147.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/puzzle.jpg</IMAGE>
     </IMAGES>
@@ -44335,6 +44393,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250148-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250148.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/puzzle.jpg</IMAGE>
     </IMAGES>
@@ -44521,6 +44580,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250194-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250194.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/996381-zmrzlina.jpg</IMAGE>
     </IMAGES>
@@ -44546,6 +44606,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250195-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250195.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/996381-zmrzlina.jpg</IMAGE>
     </IMAGES>
@@ -44571,6 +44632,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250196-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250196.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/996381-zmrzlina.jpg</IMAGE>
     </IMAGES>
@@ -44596,6 +44658,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250197-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/BC250197.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/996381-zmrzlina.jpg</IMAGE>
     </IMAGES>
@@ -44621,6 +44684,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250198-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/BC250198.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/BC250198_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/BC250198_C.jpg</IMAGE>
@@ -44649,6 +44713,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250199-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/Vina_recept_cahrdonnay-1.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250199</CODE>
@@ -44675,6 +44740,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250201-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/Vina_DEBIL_cahrdonnay.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250201</CODE>
@@ -44701,6 +44767,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250200-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/BC250200_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250200</CODE>
@@ -44727,6 +44794,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250202-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/BC250202_R26_lq.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250202</CODE>
@@ -44775,6 +44843,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250171-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/BC250171_amore-cervena.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250171</CODE>
@@ -44848,6 +44917,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250174-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/BC250174.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250174</CODE>
@@ -44872,6 +44942,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250175-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/12/BC250175.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250175</CODE>
@@ -45023,6 +45094,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC260001-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/01/BC260001_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/01/BC260001_B.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/kava_2.jpg</IMAGE>
@@ -45483,6 +45555,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250203-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250203_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250203_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45510,6 +45583,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250204-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250204_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250204_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45537,6 +45611,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250205-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250205_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250205_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45564,6 +45639,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250206-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250206_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250206_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45591,6 +45667,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250207-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250207_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250207_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45618,6 +45695,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250208-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250208_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250208_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45645,6 +45723,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250209-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250209_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250209_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45672,6 +45751,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250211-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250211_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250211_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45699,6 +45779,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250212-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250212_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250212_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45726,6 +45807,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250213-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250213_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250213_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45753,6 +45835,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250214-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250214_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250214_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45780,6 +45863,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250215-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250215_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250215_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45807,6 +45891,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250216-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250216_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250216_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45834,6 +45919,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250217-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250217_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250217_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45861,6 +45947,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250218-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250218_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250218_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45888,6 +45975,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250219-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250219_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250219_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45915,6 +46003,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250220-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250220_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250220_HLQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45942,6 +46031,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250221-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250221_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250221_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45969,6 +46059,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250222-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250222_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250222_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -45996,6 +46087,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250223-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250223_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250223_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -46023,6 +46115,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250224-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250224_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250224_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -46050,6 +46143,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250225-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250225_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250225_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -46077,6 +46171,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250226-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250226_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250226_LQ_B-1.jpg</IMAGE>
     </IMAGES>
@@ -46104,6 +46199,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Víno a alkohol 18+</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250210-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250210_LQ_A.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250210_LQ_B.jpg</IMAGE>
     </IMAGES>
@@ -46177,6 +46273,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250176-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250176.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250176</CODE>
@@ -46201,6 +46298,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250177-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/02/BC250177.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC250177</CODE>
@@ -51195,7 +51293,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737181</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51222,7 +51320,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737198</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51249,7 +51347,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737204</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51276,7 +51374,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737211</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51301,7 +51399,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737020</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>952.00</PRICE_VAT>
+    <PRICE_VAT>1190.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51326,7 +51424,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737037</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>952.00</PRICE_VAT>
+    <PRICE_VAT>1190.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51351,7 +51449,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737044</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>952.00</PRICE_VAT>
+    <PRICE_VAT>1190.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51376,7 +51474,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737051</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>952.00</PRICE_VAT>
+    <PRICE_VAT>1190.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51401,7 +51499,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737068</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>952.00</PRICE_VAT>
+    <PRICE_VAT>1190.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51426,7 +51524,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737075</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>952.00</PRICE_VAT>
+    <PRICE_VAT>1190.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51451,7 +51549,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737082</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.20</PRICE_VAT>
+    <PRICE_VAT>749.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51476,7 +51574,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737099</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.20</PRICE_VAT>
+    <PRICE_VAT>749.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51501,7 +51599,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737105</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.20</PRICE_VAT>
+    <PRICE_VAT>749.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51526,7 +51624,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737112</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.20</PRICE_VAT>
+    <PRICE_VAT>749.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51551,7 +51649,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737129</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.20</PRICE_VAT>
+    <PRICE_VAT>749.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51576,7 +51674,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8695590737136</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>599.20</PRICE_VAT>
+    <PRICE_VAT>749.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51601,7 +51699,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737228</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51626,7 +51724,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737235</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51651,7 +51749,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737242</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51676,7 +51774,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737259</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51701,7 +51799,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737266</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51726,7 +51824,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737273</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51752,7 +51850,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736979</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>399.20</PRICE_VAT>
+    <PRICE_VAT>499.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51777,7 +51875,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736665</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51802,7 +51900,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736672</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51827,7 +51925,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736689</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51852,7 +51950,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736757</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51878,7 +51976,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736764</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51904,7 +52002,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736771</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51930,7 +52028,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736788</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51956,7 +52054,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736986</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>399.20</PRICE_VAT>
+    <PRICE_VAT>499.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -51982,7 +52080,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736528</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>57.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52008,7 +52106,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736535</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>57.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52034,7 +52132,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736542</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>57.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52060,7 +52158,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736566</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>57.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52086,7 +52184,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736559</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>57.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52112,7 +52210,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736573</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>57.00</PRICE_VAT>
+    <PRICE_VAT>79.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52138,7 +52236,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736993</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>399.20</PRICE_VAT>
+    <PRICE_VAT>499.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52164,7 +52262,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737006</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>399.20</PRICE_VAT>
+    <PRICE_VAT>499.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52190,7 +52288,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737013</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>359.20</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52215,7 +52313,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736832</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>179.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52240,7 +52338,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736849</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>179.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52265,7 +52363,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736856</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>179.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52293,7 +52391,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590735347</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>185.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52320,7 +52418,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590735521</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>144.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52347,7 +52445,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590735514</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>144.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52374,7 +52472,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734197</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>144.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52401,7 +52499,82 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734180</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>144.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční tuhé mýdlo 200 g - zelené - sněhulák</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční tuhé mýdlo 200 g - zelené - sněhulák Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dětí stavějících sněhuláka. Milý kosmetický dárek, který vykouzlí pravou zimní a vánoční atmosféru.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vánoční tuhé mýdlo 200 g - zelené - sněhulák Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dětí stavějících sněhuláka. Milý kosmetický dárek, který vykouzlí pravou zimní a vánoční atmosféru.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260286.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260286-.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260286</CODE>
+    <EAN>8595590736795</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční tuhé mýdlo 200 g - červené - poštovní schránka</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční tuhé mýdlo 200 g – červené – Poštovní schránka . Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dětí u vánoční poštovní schránky. Originální drobný dárek s kouzlem starých Vánoc.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;strong data-start="24" data-end="82"&gt;Vánoční tuhé mýdlo 200 g – červené – Poštovní schránka&lt;/strong&gt;. Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dětí u vánoční poštovní schránky. Originální drobný dárek s kouzlem starých Vánoc.</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260287.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260287-.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260287</CODE>
+    <EAN>8595590736801</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční tuhé mýdlo 200 g - béžové - dítě se sobem</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční tuhé mýdlo 200 g – béžové – Dítě se sobem . Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dítěte a soba v zasněžené krajině. Milý kosmetický dárek s kouzelnou atmosférou tradičních Vánoc.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;strong data-start="24" data-end="77"&gt;Vánoční tuhé mýdlo 200 g – béžové – Dítě se sobem&lt;/strong&gt;. Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dítěte a soba v zasněžené krajině. Milý kosmetický dárek s kouzelnou atmosférou tradičních Vánoc.</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260288.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260288-.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260288</CODE>
+    <EAN>8595590736818</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52426,7 +52599,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736825</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
+    <PRICE_VAT>149.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52451,7 +52624,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736597</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52476,7 +52649,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736603</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52501,7 +52674,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736610</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52526,7 +52699,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736627</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52551,7 +52724,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736634</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52576,7 +52749,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736641</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52601,7 +52774,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736702</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52626,7 +52799,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736719</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52651,7 +52824,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736726</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52676,7 +52849,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736733</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52701,7 +52874,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737792</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52726,7 +52899,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737785</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52751,7 +52924,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737808</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52776,7 +52949,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737815</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52801,7 +52974,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737822</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52826,7 +52999,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737839</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52851,7 +53024,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737846</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52876,7 +53049,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737853</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>119.00</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52901,7 +53074,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738119</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52926,7 +53099,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738126</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52951,7 +53124,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738133</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -52976,7 +53149,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738140</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53001,7 +53174,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738157</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53026,7 +53199,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738164</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>189.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53051,7 +53224,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737556</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53076,7 +53249,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737549</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53101,7 +53274,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737518</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53126,7 +53299,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737501</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53151,7 +53324,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736894</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53176,7 +53349,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736900</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53201,7 +53374,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736917</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53226,7 +53399,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736924</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
+    <PRICE_VAT>139.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53252,7 +53425,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737563</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53278,7 +53451,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737570</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53303,7 +53476,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737525</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>79.00</PRICE_VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53328,7 +53501,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737532</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53354,7 +53527,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737723</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>135.20</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53380,7 +53553,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737730</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>135.20</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53406,7 +53579,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737747</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>135.20</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53432,7 +53605,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737754</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>135.20</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53458,7 +53631,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737761</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>135.20</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53484,7 +53657,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737778</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>135.20</PRICE_VAT>
+    <PRICE_VAT>169.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53510,7 +53683,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737945</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>329.00</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53536,7 +53709,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737952</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>329.00</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53562,7 +53735,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737969</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>329.00</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53588,7 +53761,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737976</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>329.00</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53614,7 +53787,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737983</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53640,7 +53813,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737990</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53666,7 +53839,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738003</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53692,7 +53865,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738010</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53718,7 +53891,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738027</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53744,7 +53917,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738034</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53771,7 +53944,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734616</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53798,7 +53971,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734623</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53825,7 +53998,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734630</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53852,7 +54025,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590734647</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>189.00</PRICE_VAT>
+    <PRICE_VAT>259.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53877,7 +54050,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590735651</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>279.00</PRICE_VAT>
+    <PRICE_VAT>379.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53902,7 +54075,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736696</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53927,7 +54100,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736740</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53952,7 +54125,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737860</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -53977,7 +54150,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737877</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54006,7 +54179,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737686</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54035,7 +54208,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737709</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54064,7 +54237,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737693</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54093,7 +54266,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590737716</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54118,7 +54291,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736863</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54143,7 +54316,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736870</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54168,7 +54341,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736887</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54193,7 +54366,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738218</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54218,7 +54391,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738225</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54243,7 +54416,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738270</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54268,7 +54441,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738263</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54293,7 +54466,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738249</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54318,7 +54491,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738232</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54343,7 +54516,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738201</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54368,7 +54541,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590736658</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
-    <PRICE_VAT>69.00</PRICE_VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54394,7 +54567,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738546</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54420,7 +54593,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738553</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54446,7 +54619,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738560</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54472,7 +54645,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738577</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>139.00</PRICE_VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54497,7 +54670,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738584</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>185.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54522,7 +54695,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738591</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>185.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54547,7 +54720,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738607</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>185.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54572,7 +54745,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738614</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>185.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54597,7 +54770,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8720573637305</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>179.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54622,7 +54795,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8720573637305</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>179.00</PRICE_VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54647,7 +54820,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738621</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>239.20</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54672,7 +54845,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738638</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>239.20</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54697,7 +54870,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738645</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>239.20</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54722,7 +54895,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738652</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>239.20</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54751,7 +54924,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738713</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>479.20</PRICE_VAT>
+    <PRICE_VAT>599.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54777,7 +54950,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738744</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54803,7 +54976,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738751</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54829,7 +55002,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738768</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54858,7 +55031,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738720</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>399.20</PRICE_VAT>
+    <PRICE_VAT>499.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54887,7 +55060,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738737</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>639.20</PRICE_VAT>
+    <PRICE_VAT>799.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54916,7 +55089,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738508</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>1039.20</PRICE_VAT>
+    <PRICE_VAT>1299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54945,7 +55118,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738492</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>719.20</PRICE_VAT>
+    <PRICE_VAT>899.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54970,7 +55143,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738041</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>229.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -54995,7 +55168,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738058</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>229.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -55020,7 +55193,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738065</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>229.00</PRICE_VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -55046,7 +55219,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738072</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>329.00</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -55072,7 +55245,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738089</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>329.00</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -55098,7 +55271,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738096</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>329.00</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
@@ -55124,9 +55297,36 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <EAN>8595590738102</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>329.00</PRICE_VAT>
+    <PRICE_VAT>449.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Plechové autíčko s makronkami 10 ks - červené (10x6,3 g)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Červené plechové autíčko s vánočním motivem ukrývá 10 makronek s příchutěmi vanilka, matcha, lemon a jahoda. Stylový vánoční dárek, který potěší chuťové buňky i oko.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Červené plechové autíčko s vánočním motivem ukrývá 10 makronek s příchutěmi vanilka, matcha, lemon a jahoda. Stylový vánoční dárek, který potěší chuťové buňky i oko.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Becky´s</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC250144-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250144.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250144-B.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/makronky.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250144</CODE>
+    <EAN>8595590731738</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
@@ -55671,31 +55871,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vánoční tuhé mýdlo 200 g - béžové - dítě se sobem</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční tuhé mýdlo 200 g – béžové – Dítě se sobem . Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dítěte a soba v zasněžené krajině. Milý kosmetický dárek s kouzelnou atmosférou tradičních Vánoc.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;strong data-start="24" data-end="77"&gt;Vánoční tuhé mýdlo 200 g – béžové – Dítě se sobem&lt;/strong&gt;. Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dítěte a soba v zasněžené krajině. Milý kosmetický dárek s kouzelnou atmosférou tradičních Vánoc.</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260288.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260288-.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260288</CODE>
-    <EAN>8595590736818</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>149.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Plechové autíčko s makronkami 10 ks - zelené (10x6,3 g)</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Originální plechové autíčko s vánočním motivem ukrývá 10 lahodných makronek s příchutěmi vanilka, matcha, lemon a jahoda. Krásný dárek pro milovníky sladkostí a vánoční dárek.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Originální plechové autíčko s vánočním motivem ukrývá 10 lahodných makronek s příchutěmi vanilka, matcha, lemon a jahoda. Krásný dárek pro milovníky sladkostí a vánoční dárek.&lt;/p&gt;</DESCRIPTION>
@@ -55790,56 +55965,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>1099.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vánoční tuhé mýdlo 200 g - zelené - sněhulák</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční tuhé mýdlo 200 g - zelené - sněhulák Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dětí stavějících sněhuláka. Milý kosmetický dárek, který vykouzlí pravou zimní a vánoční atmosféru.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vánoční tuhé mýdlo 200 g - zelené - sněhulák Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dětí stavějících sněhuláka. Milý kosmetický dárek, který vykouzlí pravou zimní a vánoční atmosféru.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260286.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260286-.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260286</CODE>
-    <EAN>8595590736795</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vánoční tuhé mýdlo 200 g - červené - poštovní schránka</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční tuhé mýdlo 200 g – červené – Poštovní schránka . Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dětí u vánoční poštovní schránky. Originální drobný dárek s kouzlem starých Vánoc.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;strong data-start="24" data-end="82"&gt;Vánoční tuhé mýdlo 200 g – červené – Poštovní schránka&lt;/strong&gt;. Voňavé tuhé mýdlo v krásném vánočním balení s nostalgickým motivem dětí u vánoční poštovní schránky. Originální drobný dárek s kouzlem starých Vánoc.</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260287.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260287-.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260287</CODE>
-    <EAN>8595590736801</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>109.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>0</AMOUNT>
     </STOCK>
