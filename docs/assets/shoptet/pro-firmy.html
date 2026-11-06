@@ -1,0 +1,91 @@
+<style>
+.pmf{--r:#D7262E;--g:#1F2125;--mut:#5B5F67;--line:#E4E6EA;--soft:#F4F5F7;color:var(--g);line-height:1.55;max-width:1000px}
+.pmf-hero{background:radial-gradient(700px 320px at 90% -20%,rgba(215,38,46,.4),transparent 60%),linear-gradient(160deg,#1A1B1F,#2B2D31);color:#fff;border-radius:18px;padding:32px 30px}
+.pmf-eye{text-transform:uppercase;letter-spacing:.08em;font-size:13px;font-weight:700;color:#FF7A80!important;margin:0!important}
+.pmf-hero h2{color:#fff!important;font-size:clamp(26px,3.4vw,40px);line-height:1.12;margin:6px 0 12px!important}
+.pmf-hero p{color:rgba(255,255,255,.86)!important;font-size:17px;margin:0 0 6px;max-width:640px}
+.pmf-cta{display:flex;flex-wrap:wrap;gap:10px;margin-top:18px!important}
+.pmf-btn{display:inline-block;background:var(--r);color:#fff!important;border-radius:999px;padding:12px 22px;font-weight:700;text-decoration:none!important}
+.pmf-btn:hover{background:#B81E25}
+.pmf-btn-o{background:transparent;border:1.5px solid rgba(255,255,255,.55)}
+.pmf-btn-o:hover{background:#fff;color:var(--g)!important}
+.pmf h3{font-size:24px;line-height:1.2;margin:38px 0 14px}
+.pmf-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
+.pmf-card{border:1px solid var(--line);border-radius:16px;padding:20px;background:#fff;display:flex;flex-direction:column;gap:8px}
+.pmf-card.hl{border:2px solid var(--r);background:#FFF5F5}
+.pmf-card h4{margin:0!important;font-size:19px;line-height:1.25;display:flex;align-items:center;gap:10px}
+.pmf-card h4 i{flex:0 0 36px;height:36px;border-radius:10px;background:#FFF0F0;color:var(--r);font-style:normal;font-weight:800;font-size:18px;display:flex;align-items:center;justify-content:center}
+.pmf-card.hl h4 i{background:var(--r);color:#fff}
+.pmf-card p{margin:0!important;color:#3B3E44}
+.pmf-card ul{margin:0!important;padding-left:18px!important}
+.pmf-card li{margin:2px 0}
+.pmf-card a.more{margin-top:auto;font-weight:700;color:var(--r)!important}
+.pmf-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;counter-reset:s;list-style:none;padding:0!important;margin:0!important}
+.pmf-steps li{background:var(--soft);border-radius:14px;padding:16px 16px 16px 58px;position:relative;margin:0}
+.pmf-steps li::before{counter-increment:s;content:counter(s);position:absolute;left:16px;top:16px;width:30px;height:30px;border-radius:50%;background:var(--r);color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center}
+.pmf-ref{margin-top:26px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;border:1px solid var(--line);border-radius:16px;padding:16px 20px}
+.pmf-ref p{margin:0!important}
+.pmf-contact{margin-top:18px;border-left:4px solid var(--r);background:var(--soft);padding:16px 18px;border-radius:0 12px 12px 0}
+.pmf-contact p{margin:0!important}
+@media(max-width:767px){.pmf-hero{padding:24px 18px}.pmf-hero p{font-size:16px}.pmf-grid,.pmf-steps{grid-template-columns:1fr}.pmf-card{padding:16px}.pmf-btn{width:100%;text-align:center;box-sizing:border-box}}
+</style>
+<div class="pmf">
+<div class="pmf-hero">
+<p class="pmf-eye">Pro firmy</p>
+<h2>Zboží, služby a náhradní plnění pro vaši firmu</h2>
+<p>E-shop P+M shop provozuje <strong>P+M komplexní služby s.r.o.</strong>, chráněná dílna z Liberce. Firmám dodáváme zboží na fakturu, pitný režim na pracoviště i služby pro výrobu. Díky tomu u nás můžete splnit i povinný podíl zaměstnávání osob se zdravotním postižením.</p>
+<p class="pmf-cta"><a class="pmf-btn" href="mailto:info@pm-shop.cz">Poptat nabídku</a> <a class="pmf-btn pmf-btn-o" href="/nahradni-plneni/">Jak funguje náhradní plnění</a></p>
+</div>
+
+<h3>Co firmám nabízíme</h3>
+<div class="pmf-grid">
+<div class="pmf-card hl">
+<h4><i>✓</i>Náhradní plnění</h4>
+<p>Firmy s více než 25 zaměstnanci musí zaměstnávat 4 % osob se zdravotním postižením, jinak platí odvod státu. Když u nás nakoupíte, můžete tento odvod snížit nebo úplně nahradit. Za stejné peníze tak dostanete zboží nebo služby, které firma potřebuje.</p>
+<a class="more" href="/nahradni-plneni/">Vše o náhradním plnění a kalkulačka →</a>
+</div>
+<div class="pmf-card">
+<h4><i>💧</i>Pitný režim na pracoviště</h4>
+<p>Zajistíme pitný režim pro vaše zaměstnance, výdejníky vody <strong>Culligan</strong> a <strong>Uniqua</strong>. I tuto službu vám můžeme dodat v rámci náhradního plnění.</p>
+<a class="more" href="mailto:info@pm-shop.cz">Poptat pitný režim →</a>
+</div>
+<div class="pmf-card">
+<h4><i>🛒</i>Zboží pro provoz firmy</h4>
+<ul>
+<li>autodoplňky a autochemie pro firemní vozy</li>
+<li>baterie, svítilny a nabíječky</li>
+<li>drogerie a kosmetika</li>
+<li>firemní a vánoční dárky pro zaměstnance i klienty</li>
+</ul>
+<a class="more" href="/">Prohlédnout e-shop →</a>
+</div>
+<div class="pmf-card">
+<h4><i>⚙</i>Služby pro výrobu</h4>
+<ul>
+<li>čištění a maskování pro práškové lakovny</li>
+<li>čištění závěsů a výrobních zařízení</li>
+<li>kompletace a sortování</li>
+<li>přebal a balení</li>
+<li>lehká výroba a ruční práce na zakázku</li>
+</ul>
+<a class="more" href="mailto:info@pm-shop.cz">Poptat službu →</a>
+</div>
+</div>
+
+<h3>Jak u nás nakoupit jako firma</h3>
+<ol class="pmf-steps">
+<li><strong>Vyberte zboží</strong> v e-shopu, nebo nám pošlete poptávku na větší odběr či službu.</li>
+<li><strong>V objednávce zaškrtněte</strong> „Nakupuji na firmu“, vyplňte IČO a případně i náhradní plnění.</li>
+<li><strong>Vystavíme fakturu.</strong> U náhradního plnění zapíšeme plnění po zaplacení do evidence MPSV.</li>
+</ol>
+
+<div class="pmf-ref">
+<p><strong>Spolupracují s námi firmy, nemocnice i školy.</strong> Podívejte se, kdo už u nás nakupuje.</p>
+<a class="pmf-btn" href="/spokojeni-klienti/">Spokojení klienti</a>
+</div>
+
+<div class="pmf-contact">
+<p><strong>P+M komplexní služby s.r.o.</strong> · Dopravní 711, 463 11 Liberec – Vratislavice nad Nisou · IČ 07257562<br>
+E-mail: <a href="mailto:info@pm-shop.cz">info@pm-shop.cz</a> · Telefon: <a href="tel:+420774044337">+420 774 044 337</a></p>
+</div>
+</div>
