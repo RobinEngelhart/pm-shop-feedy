@@ -1,7 +1,7 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2305
-Produktů ve výstupu: 2140 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2140, cena z koeficientu: 0
+Položek ve feedu dodavatele: 2306
+Produktů ve výstupu: 2141 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2141, cena z koeficientu: 0
 Zboží jen pro dospělé (18+): 179
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 85, vypuštěno po lhůtě: 0
 
