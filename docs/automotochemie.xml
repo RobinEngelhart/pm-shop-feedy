@@ -44609,7 +44609,7 @@ Důkladně promíchejte obě složky - použijte mixační tyčinku, která je s
     <VAT>21.00</VAT>
     <PRICE_VAT>99.00</PRICE_VAT>
     <STOCK>
-      <AMOUNT>5</AMOUNT>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
@@ -63108,6 +63108,45 @@ Volkswagen Golf, Lupo, New Beetle, Polo&lt;/p&gt;</DESCRIPTION>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>202.00</PRICE_VAT>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sada žárovek a pojistek 12V - Compass 08512</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Škoda Roomster H7 / Škoda Fabia II H7 / Škoda Octavia II&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Škoda Roomster H7 / Škoda Fabia II H7 / Škoda Octavia II&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plastová krabička náhradních autožárovek, homologace E.&lt;/p&gt;
+
+&lt;p&gt;Balení obsahuje:&lt;/p&gt;
+
+&lt;p&gt;1ks H7 - 12V 55W PX26d&lt;br /&gt;
+1ks HB4 - 12V 55W&lt;br /&gt;
+1ks P21W - 12V 21W Ba15s&lt;br /&gt;
+1ks PY21W - 12V 21W ORANGE BaU15s&lt;br /&gt;
+1ks W5W - 12V 5W W2,1x9,5d&lt;br /&gt;
+1ks WY5W - 12V 5W ORANGE W2,1x9,5d&lt;br /&gt;
+1ks C5W - 12V 5W SV8,5-36&lt;br /&gt;
+7ks pojistka nožová&lt;br /&gt;
+3ks pojistka nožová mini&lt;br /&gt;
+1ks pojistka nožová maxi&lt;/p&gt;</DESCRIPTION>
+    <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Auto-moto &gt; Autodoplňky</CATEGORY>
+      <DEFAULT_CATEGORY>Auto-moto &gt; Autodoplňky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/08512.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/08512_2.jpg</IMAGE>
+    </IMAGES>
+    <CODE>AC-08512</CODE>
+    <EAN>8591686085129</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>131.00</PRICE_VAT>
     <STOCK>
       <AMOUNT>5</AMOUNT>
     </STOCK>
