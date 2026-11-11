@@ -51,8 +51,8 @@ suppliers:
     vat_map:
       "15": 21                   # sazba 15 % už neexistuje
     pricing:                     # VO partner: marže aspoň 30 % nad nákupní cenou
-      coef: 1.30                 # nákup bez DPH × 1,30 + DPH
-      coef_is_minimum: true      # doporučená cena jen když je vyšší než nákup + 30 % + DPH
+      coef: 1.4286               # nákup bez DPH / 0,70 + DPH = marže 30 % z prodejní ceny
+      coef_is_minimum: true      # doporučená cena jen když dává aspoň 30% marži
     name_fixes:
       "Batereie": "Baterie"
       "Bazerie": "Baterie"
