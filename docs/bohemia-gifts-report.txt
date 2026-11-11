@@ -3,6 +3,7 @@ Položek ve feedu dodavatele: 2302
 Produktů ve výstupu: 2137 (z toho bez skladu: 0)
 Cena z doporučené/prodejní ceny dodavatele: 2137, cena z koeficientu: 0
 Zboží jen pro dospělé (18+): 179
+Ruční ceny z ceny-rucne.csv: 0
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 89, vypuštěno po lhůtě: 0
 
 Vyřazené položky (165):
