@@ -50,7 +50,7 @@ suppliers:
       codes: ["ESV032"]          # chybně spárovaný produkt ve feedu dodavatele
     vat_map:
       "15": 21                   # sazba 15 % už neexistuje
-    pricing:                     # VO partner: marže aspoň 30 % nad nákupní cenou
+    pricing:                     # VO partner: marže aspoň 30 % z prodejní ceny
       coef: 1.4286               # nákup bez DPH / 0,70 + DPH = marže 30 % z prodejní ceny
       coef_is_minimum: true      # doporučená cena jen když dává aspoň 30% marži
     name_fixes:
