@@ -9,6 +9,7 @@ on:
     paths:
       - "suppliers.yml"
       - "convert.py"
+      - "ceny-rucne.csv"
 
 permissions:
   contents: write

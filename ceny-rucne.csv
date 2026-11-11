@@ -1,0 +1,7 @@
+kod;cena_s_dph;marze_procent;poznamka
+# Ruční ceny – mají přednost před cenou z feedu a noční import je nepřepíše.
+# kod = kód produktu v e-shopu (např. AC-AGM, ECR001, BG-BC850354).
+# Vyplňte BUĎ cenu s DPH, NEBO marži v % z prodejní ceny (marže potřebuje nákupní cenu ve feedu, Bohemia Gifts ji nemá).
+# Řádky začínající # se ignorují. Příklady:
+# AC-AGM;;40;nižší marže kvůli konkurenci
+# ECR001;59;;pevná cena

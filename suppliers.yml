@@ -186,6 +186,7 @@ suppliers:
       ne: 0
     pricing:
       use_rrp: false
+      coef: 2.0                   # nákup bez DPH / 0,50 + DPH = marže 50 % z prodejní ceny
     manufacturer_map:
       "L&amp;D Aromaticos": "L&D Aromaticos"
     exclude:

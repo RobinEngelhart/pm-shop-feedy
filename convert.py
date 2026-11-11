@@ -59,6 +59,37 @@ def fmt_price(value: float) -> str:
     return f"{value:.2f}"
 
 
+_OVERRIDES = None
+
+
+def load_price_overrides() -> dict:
+    """ceny-rucne.csv: kod;cena_s_dph;marze_procent;poznamka (stačí vyplnit cenu NEBO marži)."""
+    global _OVERRIDES
+    if _OVERRIDES is not None:
+        return _OVERRIDES
+    _OVERRIDES = {}
+    path = Path(__file__).with_name("ceny-rucne.csv")
+    if not path.exists():
+        return _OVERRIDES
+    import csv
+    with path.open(encoding="utf-8-sig", newline="") as fh:
+        sample = fh.read(2048)
+        fh.seek(0)
+        delim = ";" if sample.count(";") >= sample.count(",") else ","
+        for row in csv.DictReader(fh, delimiter=delim):
+            row = {(k or "").strip().lower(): (v or "").strip() for k, v in row.items()}
+            code = row.get("kod", "")
+            if not code or code.startswith("#"):
+                continue
+            num = lambda v: float(v.replace(" ", "").replace(",", ".")) if v else None
+            try:
+                _OVERRIDES[code] = {"price": num(row.get("cena_s_dph", "")),
+                                    "margin": num(row.get("marze_procent", ""))}
+            except ValueError:
+                print(f"WARN ceny-rucne.csv: neplatný řádek {row}")
+    return _OVERRIDES
+
+
 def round_price(value: float, rule: str) -> float:
     """Zaokrouhlení prodejní ceny.
     nines  – od 50 Kč nahoru na ...9 (79, 189, 609), pod 50 Kč na celé koruny nahoru
@@ -284,6 +315,18 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
     raw_code = re.sub(r"\s*-\s*", "-", data["code"]).replace(" ", "")   # 'UB3 - A5' -> 'UB3-A5'
     code = cfg.get("code_prefix", "") + raw_code
 
+    # --- ruční ceny z ceny-rucne.csv (mají přednost před vším ostatním)
+    ov = load_price_overrides().get(code)
+    if ov:
+        if ov.get("price"):
+            price_vat = ov["price"]
+            report.setdefault("manual_price", []).append(f"{code} – pevná cena {fmt_price(price_vat)} Kč")
+        elif ov.get("margin") is not None and buy and 0 <= ov["margin"] < 100:
+            price_vat = round_price(buy / (1 - ov["margin"] / 100) * (1 + vat / 100),
+                                    pricing.get("rounding", "nines"))
+            report.setdefault("manual_price", []).append(
+                f"{code} – marže {ov['margin']:g} % → {fmt_price(price_vat)} Kč")
+
     # --- sestavení SHOPITEM (pořadí prvků schéma nevyžaduje)
     si = ET.Element("SHOPITEM")
     ET.SubElement(si, "NAME").text = name
@@ -425,6 +468,8 @@ def write_report(supplier_id: str, cfg: dict, r: dict) -> None:
         f"Produktů ve výstupu: {r['count']} (z toho bez skladu: {r['out_of_stock']})",
         f"Cena z doporučené/prodejní ceny dodavatele: {r['priced_rrp']}, cena z koeficientu: {r['priced_coef']}",
         f"Zboží jen pro dospělé (18+): {r['adult']}",
+        f"Ruční ceny z ceny-rucne.csv: {len(r.get('manual_price', []))}",
+        *[f"  - {x}" for x in r.get("manual_price", [])],
         f"Zmizelo z feedu dodavatele – ponecháno se skladem 0: {r['kept_missing']}, vypuštěno po lhůtě: {r['dropped_missing']}",
         "",
         f"Vyřazené položky ({len(r['skipped'])}):",
