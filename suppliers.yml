@@ -23,6 +23,12 @@ defaults:
   # Zboží jen pro dospělé (pravidla adult_rules u dodavatele): dostane příznak ADULT,
   # upozornění na začátek popisu a navíc se zařadí do kategorie 18+ (na ni se v Shoptetu
   # napojí doplněk na ověření věku v košíku).
+  # Viditelnost produktů v Shoptetu (import ji aktualizuje): vyprodané se skryjí a po naskladnění
+  # zase zobrazí, alkohol (adult_rules) jen přihlášeným zákazníkům.
+  visibility:
+    hide_out_of_stock: true
+    adult: showRegistered
+    default: visible
   adult_category: "Pouze pro dospělé 18+"
   adult_notice: "<p><strong>Prodej osobám mladším 18 let je zakázán.</strong> Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.</p>"
 
@@ -149,6 +155,15 @@ suppliers:
       - {category: "Přání|Balící papír", path: "Dárky a dekorace > Přání a balení dárků"}
       - {category: "Textil|tašky|Batohy", path: "Dárky a dekorace > Tašky a textil"}
       - {category: "Dekorace|Rámečky|Samolepky|hodiny|zápichy|srdce", path: "Dárky a dekorace > Dekorace do bytu"}
+      # dříve nezařazené (podle názvu)
+      - {name: "Prací papír", path: "Dárky a dekorace > Další dárky"}
+      - {name: "Kosmetická sada|sprchov", path: "Dárky a dekorace > Kosmetika a mýdla"}
+      - {name: "čokolád", path: "Dárky a dekorace > Sladkosti", vat: 12}
+      - {name: "Energetický nápoj", path: "Dárky a dekorace > Čaje a nápoje", vat: 21}
+      - {name: "svařák", path: "Dárky a dekorace > Čaje a nápoje"}
+      - {name: "svíčk|Potpourri", path: "Dárky a dekorace > Svíčky a vůně"}
+      - {name: "plenk|Dino|dino|Archeolog|sádrov|penál|Kuličkové pero|dět", path: "Dárky a dekorace > Dárky pro děti"}
+      - {name: "kalendář|utěrk|konfet", path: "Dárky a dekorace > Dekorace do bytu"}
     fallback_category: "Dárky a dekorace > Další dárky"
     # alkohol: samotné nápoje + dárkové bedny/sady, ve kterých je víno, prosecco, pivo nebo medovina
     adult_rules:
@@ -197,6 +212,7 @@ suppliers:
       - {name: "^[A-Z0-9_]+$", reason: "chybí název (jen kód)"}
     categories:
       # --- Vůně do auta
+      - {name: "chladič|chladící soustav|chladicí soustav", path: "Auto-moto > Autochemie > Chladicí soustava"}
       - {category: "Organic Can|Gelové osvěžovače", path: "Auto-moto > Vůně do auta > Vůně v plechovce"}
       - {category: "Papírové osvěžovače|Little Bottle", path: "Auto-moto > Vůně do auta > Závěsné vůně"}
       - {category: "Kolíčky do ventilace", path: "Auto-moto > Vůně do auta > Vůně do ventilace"}

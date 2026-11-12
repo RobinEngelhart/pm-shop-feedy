@@ -363,6 +363,18 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
     ET.SubElement(si, "PRICE_VAT").text = fmt_price(price_vat)
     if pricing.get("publish_purchase_price", False) and buy:
         ET.SubElement(si, "PURCHASE_PRICE").text = fmt_price(buy)
+    # viditelnost v Shoptetu: vyprodané skrýt, alkohol jen přihlášeným (hodnoty dle Shoptet XML)
+    vis_cfg = {**defaults.get("visibility", {}), **cfg.get("visibility", {})}
+    if vis_cfg:
+        if stock <= 0 and vis_cfg.get("hide_out_of_stock", False):
+            visibility = "hidden"
+        elif adult:
+            visibility = vis_cfg.get("adult", "showRegistered")
+        else:
+            visibility = vis_cfg.get("default", "visible")
+        ET.SubElement(si, "VISIBILITY").text = visibility
+        report.setdefault("visibility", {}).setdefault(visibility, 0)
+        report["visibility"][visibility] += 1
     st = ET.SubElement(si, "STOCK")
     ET.SubElement(st, "AMOUNT").text = str(stock)
     report["count"] += 1
@@ -453,6 +465,13 @@ def keep_missing(supplier_id: str, cfg: dict, defaults: dict, shop: ET.Element, 
             amount = item.find("STOCK/AMOUNT")
             if amount is not None:
                 amount.text = "0"
+            vis_cfg = {**defaults.get("visibility", {}), **cfg.get("visibility", {})}
+            if vis_cfg.get("hide_out_of_stock"):
+                vis = item.find("VISIBILITY")
+                if vis is None:
+                    vis = ET.Element("VISIBILITY")
+                    item.insert(list(item).index(item.find("STOCK")) if item.find("STOCK") is not None else len(item), vis)
+                vis.text = "hidden"
             shop.append(item)
             seen.add(code)
             new_state[code] = since
@@ -468,6 +487,7 @@ def write_report(supplier_id: str, cfg: dict, r: dict) -> None:
         f"Produktů ve výstupu: {r['count']} (z toho bez skladu: {r['out_of_stock']})",
         f"Cena z doporučené/prodejní ceny dodavatele: {r['priced_rrp']}, cena z koeficientu: {r['priced_coef']}",
         f"Zboží jen pro dospělé (18+): {r['adult']}",
+        f"Viditelnost v e-shopu: {r.get('visibility', {})}",
         f"Ruční ceny z ceny-rucne.csv: {len(r.get('manual_price', []))}",
         *[f"  - {x}" for x in r.get("manual_price", [])],
         f"Zmizelo z feedu dodavatele – ponecháno se skladem 0: {r['kept_missing']}, vypuštěno po lhůtě: {r['dropped_missing']}",
