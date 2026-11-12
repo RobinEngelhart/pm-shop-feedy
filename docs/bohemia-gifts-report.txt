@@ -2,7 +2,7 @@ Dodavatel: Bohemia Gifts
 Položek ve feedu dodavatele: 2299
 Produktů ve výstupu: 2134 (z toho bez skladu: 0)
 Cena z doporučené/prodejní ceny dodavatele: 2134, cena z koeficientu: 0
-Zboží jen pro dospělé (18+): 191
+Zboží jen pro dospělé (18+): 192
 Ruční ceny z ceny-rucne.csv: 0
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 92, vypuštěno po lhůtě: 0
 
@@ -173,7 +173,7 @@ Vyřazené položky (165):
   - BC210002 Pánské tričko s potiskem - Hory volají – oblečení – feed neobsahuje velikosti
   - BC850006 Zlatá medovina pro babičku 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
 
-Označeno jako 18+ (191) – zkontrolujte:
+Označeno jako 18+ (192) – zkontrolujte:
   - BC006223 Dárkové bílé víno pro tatínka 0,75 l - Chardonnay
   - BC006224 Dárkové červené víno mamince 0,75 l - Merlot
   - BC006225 Dárkové červené víno pro babičku 0,75 l - Merlot
@@ -259,6 +259,7 @@ Označeno jako 18+ (191) – zkontrolujte:
   - BC210414 Vánoční dárková dřevěná bedna - Vánoční pohoda
   - BC210419 Dárková dřevěná bedna - pro štěstí
   - BC210400 Dárková pivní sada vybraných německých piv
+  - BC220036 Plechový dárkový koš - Vše nejlepší
   - BC220075 Dárkové prosecco k narozeninám 0,75 l
   - BC220076 Dárkové prosecco 0,75 l pro maminku
   - BC220077 Dárkové prosecco 0,75 l pro babičku

@@ -28748,13 +28748,15 @@ Dárková sada obsahuje:
   <SHOPITEM>
     <NAME>Plechový dárkový koš - Vše nejlepší</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Originální dárek k narozeninám nebo svátku. Praktický dekorační plechový box naplněný dárky k narozeninám. Šumivá koupel a šumivý sekt ... To vypadá na krásný večer.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Originální dárek k narozeninám nebo svátku. Praktický dekorační plechový box naplněný dárky k narozeninám. Šumivá koupel a šumivý sekt ... To vypadá na krásný večer.&lt;/p&gt;</DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Originální dárek k narozeninám nebo svátku. Praktický dekorační plechový box naplněný dárky k narozeninám. Šumivá koupel a šumivý sekt ... To vypadá na krásný večer.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Daruj Bednu</MANUFACTURER>
     <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
     <ITEM_TYPE>product</ITEM_TYPE>
     <UNIT>ks</UNIT>
     <CATEGORIES>
       <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
