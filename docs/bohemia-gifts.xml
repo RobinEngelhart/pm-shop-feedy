@@ -38588,33 +38588,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Lavender luxusní dárkový koš</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Tento exkluzivní koš obsahuje širokou škálu luxusních produktů s levandulovou vůní.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Tento exkluzivní koš obsahuje širokou škálu luxusních produktů s levandulovou vůní.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/02/d5eca08e-84d1-4b19-ad3f-4d25f5ae6ef5.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/02/BC240015_lavende_darkovy_kos.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/02/BC240015_lavende_darkovy_kos_b.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC240015</CODE>
-    <EAN>8595590726734</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>999.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dětský věšák v duhovém designu</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Ukažte dětem, že je možné mít radost z organizace jejich oblečení. Tento designový dřevěný věšák je perfektní pro zavěšení dětského oblečení a doplňků. Má čtyři různě barevné háčky, které dodají…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Ukažte dětem, že je možné mít radost z organizace jejich oblečení. Tento designový dřevěný věšák je perfektní pro zavěšení dětského oblečení a doplňků. Má čtyři různě barevné háčky, které dodají každé místnosti zábavný a barevný dotek.
@@ -57373,6 +57346,33 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Lavender luxusní dárkový koš</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Tento exkluzivní koš obsahuje širokou škálu luxusních produktů s levandulovou vůní.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Tento exkluzivní koš obsahuje širokou škálu luxusních produktů s levandulovou vůní.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/02/d5eca08e-84d1-4b19-ad3f-4d25f5ae6ef5.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/02/BC240015_lavende_darkovy_kos.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/02/BC240015_lavende_darkovy_kos_b.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC240015</CODE>
+    <EAN>8595590726734</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>999.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>

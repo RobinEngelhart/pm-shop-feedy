@@ -62366,9 +62366,9 @@ Před použitím řádně zatřepte! Vytlačte přiměřené množství emulze n
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>194.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
+    <VISIBILITY>hidden</VISIBILITY>
     <STOCK>
-      <AMOUNT>5</AMOUNT>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>

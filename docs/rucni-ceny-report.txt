@@ -1,0 +1,9 @@
+Ruční ceny – hlídání změn v e-shopu
+
+Nově zamčeno v posledním běhu (0):
+
+Upozornění (0):
+
+Všechny ruční ceny v ceny-rucne.csv (0):
+
+Zámek zrušíte smazáním řádku v ceny-rucne.csv – produkt se vrátí na cenu z feedu.
