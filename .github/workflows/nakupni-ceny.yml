@@ -1,0 +1,47 @@
+name: Nákupní ceny (šifrovaný export)
+
+# Vytvoří CSV s nákupními cenami a uloží ho do repozitáře jen ZAŠIFROVANÉ
+# veřejným klíčem tools/nc_pub.pem (rozšifrovat jde jen soukromým klíčem, který v repozitáři není).
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - "tools/nakupni_ceny.py"
+      - ".github/workflows/nakupni-ceny.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feedy
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml==6.0.2
+      - name: Export a šifrování
+        env:
+          FEED_URLS: ${{ secrets.FEED_URLS || vars.FEED_URLS }}
+          FEED_URL_AUTOMOTOCHEMIE: ${{ secrets.FEED_URL_AUTOMOTOCHEMIE }}
+        run: |
+          python tools/nakupni_ceny.py "$RUNNER_TEMP/nc.csv"
+          openssl rand -hex 32 > "$RUNNER_TEMP/k"
+          mkdir -p tools/out
+          openssl enc -aes-256-cbc -pbkdf2 -salt -in "$RUNNER_TEMP/nc.csv" -out tools/out/nc.csv.enc -pass file:"$RUNNER_TEMP/k"
+          openssl pkeyutl -encrypt -pubin -inkey tools/nc_pub.pem -in "$RUNNER_TEMP/k" -out tools/out/nc.key.enc
+          rm -f "$RUNNER_TEMP/nc.csv" "$RUNNER_TEMP/k"
+      - name: Uložit
+        run: |
+          git config user.name "pm-shop-feedy bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add tools/out
+          git commit -m "Šifrovaný export nákupních cen $(date -u +'%Y-%m-%d %H:%M') UTC" || exit 0
+          git pull --rebase
+          git push
