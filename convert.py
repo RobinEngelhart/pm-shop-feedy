@@ -90,6 +90,107 @@ def load_price_overrides() -> dict:
     return _OVERRIDES
 
 
+# ---------------------------------------------------------------- ruční změny cen v e-shopu
+# Před každým během se stáhnou aktuální ceny z e-shopu (export Shoptetu "Ceny pro převodník feedů",
+# adresa v secretu SHOP_PRICES_URL). Když se cena v e-shopu neshoduje s žádnou cenou, kterou
+# převodník v poslední době poslal, změnil ji někdo ručně -> cena se zamkne do ceny-rucne.csv.
+
+HISTORY_PATH = STATE_DIR / "odeslane-ceny.json"
+HISTORY_KEEP = 6
+MANUAL_LOCKS: list[str] = []      # nově zamčené ceny v tomto běhu (pro přehled)
+MANUAL_WARN: list[str] = []
+
+
+def _norm_code(code: str) -> str:
+    import unicodedata
+    return "".join(ch for ch in unicodedata.normalize("NFD", code) if not unicodedata.combining(ch)).upper()
+
+
+def fetch_shop_prices() -> dict | None:
+    url = os.environ.get("SHOP_PRICES_URL", "").strip()
+    if not url:
+        print("INFO SHOP_PRICES_URL není nastaven – hlídání ručních cen přeskočeno.")
+        return None
+    import csv, io
+    req = urllib.request.Request(url, headers={"User-Agent": "pm-shop-feedy/1.0"})
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        text = resp.read().decode("utf-8-sig", errors="replace")
+    prices = {}
+    for row in csv.DictReader(io.StringIO(text), delimiter=";"):
+        code = (row.get("code") or "").strip()
+        price = to_price((row.get("price") or "").replace(" ", "").replace(" ", ""))
+        if code and price is not None and price > 0:
+            prices[_norm_code(code)] = price
+    if len(prices) < 100:
+        raise RuntimeError(f"export cen z e-shopu má jen {len(prices)} řádků")
+    return prices
+
+
+def detect_manual_prices(defaults: dict) -> None:
+    """Najde ručně změněné ceny v e-shopu a zapíše je do ceny-rucne.csv."""
+    if not HISTORY_PATH.exists():
+        print("INFO historie odeslaných cen zatím neexistuje – hlídání ručních cen začne příštím během.")
+        return
+    try:
+        shop = fetch_shop_prices()
+    except Exception as exc:   # výpadek exportu nesmí zastavit převod feedů
+        print(f"WARN ceny z e-shopu se nepodařilo stáhnout: {exc}", file=sys.stderr)
+        return
+    if shop is None:
+        return
+    history = json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
+    overrides = load_price_overrides()
+    locked_norm = {_norm_code(c) for c in overrides}
+    found = []
+    for code, sent in history.items():
+        if not sent or _norm_code(code) in locked_norm:
+            continue
+        price = shop.get(_norm_code(code))
+        if price is None:
+            continue
+        if any(abs(price - h) < 0.01 for h in sent):
+            continue
+        found.append((code, price, sent[-1]))
+    limit = int(defaults.get("manual_price_detection_limit", 60))
+    if len(found) > limit:
+        # pojistka: hromadná změna (např. přepočet cen v Shoptetu) se nezamyká automaticky
+        MANUAL_WARN.append(f"Rozdílných cen je {len(found)} (limit {limit}) – nic se nezamklo, zkontrolujte ručně. "
+                           + ", ".join(f"{c} {p:g}" for c, p, _ in found[:20]))
+        print("WARN " + MANUAL_WARN[-1], file=sys.stderr)
+        return
+    if not found:
+        return
+    path = Path(__file__).with_name("ceny-rucne.csv")
+    text = path.read_text(encoding="utf-8-sig") if path.exists() else "kod;cena_s_dph;marze_procent;poznamka\n"
+    if not text.endswith("\n"):
+        text += "\n"
+    today = date.today().strftime("%d. %m. %Y")
+    for code, price, prev in found:
+        text += f"{code};{fmt_price(price).replace('.', ',')};;ručně změněno v e-shopu {today} (feed posílal {fmt_price(prev).replace('.', ',')})\n"
+        overrides[code] = {"price": price, "margin": None}
+        MANUAL_LOCKS.append(f"{code}: {fmt_price(price)} Kč (feed posílal {fmt_price(prev)} Kč)")
+    path.write_text(text, encoding="utf-8")
+    print(f"Zamčeno ručních cen: {len(found)}")
+
+
+def update_price_history(combined_path: Path) -> None:
+    """Zapamatuje si ceny, které převodník poslal do e-shopu."""
+    if not combined_path.exists():
+        return
+    history = json.loads(HISTORY_PATH.read_text(encoding="utf-8")) if HISTORY_PATH.exists() else {}
+    for si in ET.parse(combined_path).getroot().findall("SHOPITEM"):
+        code, pv = si.findtext("CODE"), to_price(si.findtext("PRICE_VAT"))
+        if not code or pv is None:
+            continue
+        sent = history.setdefault(code, [])
+        if not sent or abs(sent[-1] - pv) >= 0.01:
+            sent.append(round(pv, 2))
+        del sent[:-HISTORY_KEEP]
+    STATE_DIR.mkdir(exist_ok=True)
+    HISTORY_PATH.write_text(json.dumps(history, ensure_ascii=False, sort_keys=True, separators=(",", ":")) + "\n",
+                            encoding="utf-8")
+
+
 def round_price(value: float, rule: str) -> float:
     """Zaokrouhlení prodejní ceny.
     nines  – od 50 Kč nahoru na ...9 (79, 189, 609), pod 50 Kč na celé koruny nahoru
@@ -321,6 +422,15 @@ def convert_item(item: ET.Element, cfg: dict, defaults: dict, report: dict):
         if ov.get("price"):
             price_vat = ov["price"]
             report.setdefault("manual_price", []).append(f"{code} – pevná cena {fmt_price(price_vat)} Kč")
+            if buy and not retail_mode:
+                margin = 1 - buy / (price_vat / (1 + vat / 100))
+                target = 1 - 1 / coef if coef > 1 else 0
+                if margin < 0:
+                    MANUAL_WARN.append(f"{code} {name}: ruční cena {fmt_price(price_vat)} Kč je POD nákupní cenou "
+                                       f"({fmt_price(buy * (1 + vat / 100))} Kč s DPH)")
+                elif margin < target - 0.005:
+                    MANUAL_WARN.append(f"{code} {name}: ruční cena {fmt_price(price_vat)} Kč dává marži "
+                                       f"{margin * 100:.0f} % (nastaveno {target * 100:.0f} %)")
         elif ov.get("margin") is not None and buy and 0 <= ov["margin"] < 100:
             price_vat = round_price(buy / (1 - ov["margin"] / 100) * (1 + vat / 100),
                                     pricing.get("rounding", "nines"))
@@ -527,6 +637,9 @@ def write_combined(config: dict) -> None:
                 dup.append(f"{code}: {seen[code]} × {sid} (ponechán {seen[code]})")
                 continue
             seen[code] = sid
+            ov = load_price_overrides().get(code)
+            if ov and ov.get("price") and si.find("PRICE_VAT") is not None:
+                si.find("PRICE_VAT").text = fmt_price(ov["price"])   # i u produktů držených se skladem 0
             shop.append(si)
     if not len(shop):
         return
@@ -537,6 +650,20 @@ def write_combined(config: dict) -> None:
     (OUT_DIR / f"{COMBINED}-report.txt").write_text(
         f"Produktů celkem: {len(shop)}\nStejný kód u více dodavatelů ({len(dup)}):\n"
         + "".join(f"  - {d}\n" for d in dup), encoding="utf-8")
+
+
+def write_manual_report() -> None:
+    lines = ["Ruční ceny – hlídání změn v e-shopu", "",
+             f"Nově zamčeno v posledním běhu ({len(MANUAL_LOCKS)}):", *[f"  - {x}" for x in MANUAL_LOCKS], "",
+             f"Upozornění ({len(MANUAL_WARN)}):", *[f"  - {x}" for x in MANUAL_WARN], "",
+             f"Všechny ruční ceny v ceny-rucne.csv ({len(load_price_overrides())}):"]
+    path = Path(__file__).with_name("ceny-rucne.csv")
+    if path.exists():
+        for line in path.read_text(encoding="utf-8-sig").splitlines()[1:]:
+            if line.strip() and not line.startswith("#"):
+                lines.append("  - " + line.replace(";", " | "))
+    lines += ["", "Zámek zrušíte smazáním řádku v ceny-rucne.csv – produkt se vrátí na cenu z feedu."]
+    (OUT_DIR / "rucni-ceny-report.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def write_index(config: dict, results: dict) -> None:
@@ -560,7 +687,8 @@ def write_index(config: dict, results: dict) -> None:
             "td,th{padding:6px 10px;border-bottom:1px solid #ddd;text-align:left}</style>"
             "<h1>P+M shop – převedené feedy pro Shoptet</h1>"
             "<table><tr><th>Dodavatel</th><th>Feed pro Shoptet</th><th>Stav</th><th></th></tr>"
-            + "".join(rows) + "</table>")
+            + "".join(rows) + "</table>"
+            "<p><a href='rucni-ceny-report.txt'>Ruční ceny a upozornění na marži</a></p>")
     (OUT_DIR / "index.html").write_text(html, encoding="utf-8")
 
 
@@ -575,6 +703,9 @@ def main() -> int:
     defaults = config.get("defaults", {})
     inputs = dict(s.split("=", 1) for s in args.input)
     OUT_DIR.mkdir(exist_ok=True)
+
+    if not args.only and not args.input:
+        detect_manual_prices(defaults)
 
     results, failed = {}, 0
     for sid, cfg in config["suppliers"].items():
@@ -593,6 +724,9 @@ def main() -> int:
             print(f"ERR {sid}: {exc}", file=sys.stderr)
     if not args.only:
         write_combined(config)
+        if not args.input:
+            update_price_history(OUT_DIR / f"{COMBINED}.xml")
+        write_manual_report()
     write_index(config, results)
     # chyby jsou vidět v docs/index.html; stará verze feedu zůstává platná
     return 0

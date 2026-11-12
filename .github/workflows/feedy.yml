@@ -4,6 +4,9 @@ on:
   schedule:
     # každé 3 hodiny (čas UTC) – Shoptet si pak feed načte ve svých časech
     - cron: "17 */3 * * *"
+    # navíc těsně před importy Shoptetu (3:04 a 12:04 českého času, zimní i letní čas),
+    # aby se ruční změny cen v e-shopu stihly zamknout dřív, než je import přepíše
+    - cron: "30 0,1,9,10 * * *"
   workflow_dispatch: {}      # ruční spuštění tlačítkem "Run workflow"
   push:
     paths:
@@ -36,16 +39,18 @@ jobs:
         env:
           FEED_URLS: ${{ secrets.FEED_URLS || vars.FEED_URLS }}
           FEED_URL_AUTOMOTOCHEMIE: ${{ secrets.FEED_URL_AUTOMOTOCHEMIE }}
+          SHOP_PRICES_URL: ${{ secrets.SHOP_PRICES_URL }}
         run: python convert.py
 
       - name: Uložit změny (jen když se něco změnilo)
         run: |
           git config user.name "pm-shop-feedy bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs state
+          git add docs state ceny-rucne.csv
           if git diff --cached --quiet; then
             echo "Beze změn."
           else
             git commit -m "Aktualizace feedů $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase
             git push
           fi
