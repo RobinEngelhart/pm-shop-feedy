@@ -1,10 +1,10 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2302
-Produktů ve výstupu: 2137 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2137, cena z koeficientu: 0
-Zboží jen pro dospělé (18+): 179
+Položek ve feedu dodavatele: 2299
+Produktů ve výstupu: 2134 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2134, cena z koeficientu: 0
+Zboží jen pro dospělé (18+): 191
 Ruční ceny z ceny-rucne.csv: 0
-Zmizelo z feedu dodavatele – ponecháno se skladem 0: 89, vypuštěno po lhůtě: 0
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 92, vypuštěno po lhůtě: 0
 
 Vyřazené položky (165):
   - BC220247 Dětské body s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
@@ -173,7 +173,7 @@ Vyřazené položky (165):
   - BC210002 Pánské tričko s potiskem - Hory volají – oblečení – feed neobsahuje velikosti
   - BC850006 Zlatá medovina pro babičku 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
 
-Označeno jako 18+ (179) – zkontrolujte:
+Označeno jako 18+ (191) – zkontrolujte:
   - BC006223 Dárkové bílé víno pro tatínka 0,75 l - Chardonnay
   - BC006224 Dárkové červené víno mamince 0,75 l - Merlot
   - BC006225 Dárkové červené víno pro babičku 0,75 l - Merlot
@@ -220,6 +220,8 @@ Označeno jako 18+ (179) – zkontrolujte:
   - BC124040 Dárkové červené víno 0,75 l Merlot – dvě decinky
   - BC124041 Dárkové bílé víno 0,75 l Chardonnay – staří přátelé
   - BC124042 Dárkové červené víno 0,75 l Merlot – Staří přátelé
+  - BC850354 Pivařův set – pivo, maso a paletka
+  - BC850357 Dárková pivní sada evropských piv – na zdraví Evropě
   - BC190067 Dárkové svatební víno 0,75 l Merlot - on a ona
   - BC190405 Dárkové svatební víno 0,75 l Merlot - ona a ona
   - BC210359 Dárková dřevěná bedna k 18. narozeninám XXL
@@ -238,8 +240,10 @@ Označeno jako 18+ (179) – zkontrolujte:
   - BC210372 Dárková dřevěná bedna - k 70. narozeninám
   - BC210373 Dárková dřevěná bedna - k 80. narozeninám XXL
   - BC210374 Dárková dřevěná bedna - k 80. narozeninám
+  - BC210378 Dárková dřevěná bedna pro muže XL - Gentleman
   - BC210379 Dárková dřevěná bedna pro myslivce XL - Les volá a já musím jít
   - BC210385 Dárková dřevěná bedna - Levandule
+  - BC210387 Dárková dřevěná bedna pro pivaře Cheers
   - BC210218 Dárkové bílé víno pro pejskaře 0,75 l - Chardonnay
   - BC210219 Dárkové bílé víno pro milovníka koček 0,75 l - Chardonnay
   - BC210275 Dárkové bílé víno pro tchýni 0,75 l - Chardonnay
@@ -249,9 +253,12 @@ Označeno jako 18+ (179) – zkontrolujte:
   - BC210123 Vánoční červené víno Merlot s kořením na svařák 0,75 l
   - BC210157 Velikonoční bílé víno 0,75 l - Chardonnay
   - BC210158 Velikonoční červené víno 0,75 l - Merlot
+  - BC210386 Dárková dřevěná bedna pro pivaře - Beer
   - BC210403 Dřevěná dárková bedna pro novomanžele - dokonalé manželství
+  - BC210404 Dárková pivní sada vybraných lokálních piv
   - BC210414 Vánoční dárková dřevěná bedna - Vánoční pohoda
   - BC210419 Dárková dřevěná bedna - pro štěstí
+  - BC210400 Dárková pivní sada vybraných německých piv
   - BC220075 Dárkové prosecco k narozeninám 0,75 l
   - BC220076 Dárkové prosecco 0,75 l pro maminku
   - BC220077 Dárkové prosecco 0,75 l pro babičku
@@ -266,11 +273,16 @@ Označeno jako 18+ (179) – zkontrolujte:
   - BC220119 Dárkové prosecco 0,75 l k 60. narozeninám
   - BC220120 Dárkové prosecco 0,75 l k 70. narozeninám
   - BC220121 Dárkové prosecco 0,75 l k 80. narozeninám
+  - BC220246 Pivní dárkový box s otvírákem a koupelovou pěnou
   - BC230001 Dárkové prosecco 0,75 l pro zamilované
   - BC230002 Dárkové prosecco 0,75 l pro zamilované - Love
   - BC230142 Dárkové prosecco 0,75 l - Šťastné a veselé
   - BC230141 Dárkové prosecco 0,75 l - Pohodové Vánoce
   - BC230143 Dárkové prosecco 0,75 l - Hodně štěstí a zdraví
+  - BC230085 Pivní dárková sada pro dědu s otvírákem, pivem a koupelovou pěnou
+  - BC230084 Pivní dárková sada pro tátu s otvírákem, pivem a koupelovou pěnou
+  - BC230086 Pivní dárková sada pro myslivce s otvírákem, pivem a koupelovou pěnou
+  - BC230090 Pivní dárková sada pro rybáře s otvírákem, pivem a koupelovou pěnou
   - BC250083 Dřevěná dárková bedna pro vinaře
   - BC250085 Dřevěná dárková bedna pro vinařku
   - BC250088 Dřevěný dárkový box s dekou pro maminku
