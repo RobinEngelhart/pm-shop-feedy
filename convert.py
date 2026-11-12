@@ -99,6 +99,7 @@ HISTORY_PATH = STATE_DIR / "odeslane-ceny.json"
 HISTORY_KEEP = 6
 MANUAL_LOCKS: list[str] = []      # nově zamčené ceny v tomto běhu (pro přehled)
 MANUAL_WARN: list[str] = []
+SHOP_CHECK = {"status": "neproběhlo"}
 
 
 def _norm_code(code: str) -> str:
@@ -110,6 +111,7 @@ def fetch_shop_prices() -> dict | None:
     url = os.environ.get("SHOP_PRICES_URL", "").strip()
     if not url:
         print("INFO SHOP_PRICES_URL není nastaven – hlídání ručních cen přeskočeno.")
+        SHOP_CHECK["status"] = "VYPNUTO – chybí secret SHOP_PRICES_URL"
         return None
     import csv, io
     req = urllib.request.Request(url, headers={"User-Agent": "pm-shop-feedy/1.0"})
@@ -135,9 +137,11 @@ def detect_manual_prices(defaults: dict) -> None:
         shop = fetch_shop_prices()
     except Exception as exc:   # výpadek exportu nesmí zastavit převod feedů
         print(f"WARN ceny z e-shopu se nepodařilo stáhnout: {exc}", file=sys.stderr)
+        SHOP_CHECK["status"] = f"CHYBA – ceny z e-shopu se nepodařilo stáhnout ({type(exc).__name__})"
         return
     if shop is None:
         return
+    SHOP_CHECK["status"] = f"OK – načteno {len(shop)} cen z e-shopu"
     history = json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
     overrides = load_price_overrides()
     locked_norm = {_norm_code(c) for c in overrides}
@@ -653,7 +657,10 @@ def write_combined(config: dict) -> None:
 
 
 def write_manual_report() -> None:
+    from datetime import datetime, timezone
+    stamp = datetime.now(timezone.utc).strftime("%d. %m. %Y %H:%M UTC")
     lines = ["Ruční ceny – hlídání změn v e-shopu", "",
+             f"Poslední kontrola: {stamp} – {SHOP_CHECK['status']}", "",
              f"Nově zamčeno v posledním běhu ({len(MANUAL_LOCKS)}):", *[f"  - {x}" for x in MANUAL_LOCKS], "",
              f"Upozornění ({len(MANUAL_WARN)}):", *[f"  - {x}" for x in MANUAL_WARN], "",
              f"Všechny ruční ceny v ceny-rucne.csv ({len(load_price_overrides())}):"]
