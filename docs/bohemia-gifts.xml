@@ -15269,6 +15269,109 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Vánoční mléčná čokoláda 10 g - děti u kostela</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620053-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620053-mala-cokolada-zele.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC620053</CODE>
+    <EAN>8595590779013</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>34.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční mléčná čokoláda 10 g - holčička v červeném</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - holčička v červeném. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - holčička v červeném. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620055-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620055-mala-cokolada-modr.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC620055</CODE>
+    <EAN>8595590779037</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>34.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční mléčná čokoláda 10 g - chlapeček v modrém</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - chlapeček v modrém. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - chlapeček v modrém. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620056-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620056-mala-cokolada-modr.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC620056</CODE>
+    <EAN>8595590779044</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>34.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční mléčná čokoláda 10 g - anděl se čtyřlístky</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Anděl se čtyřlístky. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Anděl se čtyřlístky. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620058-mala-cokolada-svet.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC620058</CODE>
+    <EAN>8595590779068</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>34.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Dřevěná vánoční ozdoba - ptáček</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Ručně vyráběná dřevěná vánoční ozdoba s obrázkem - Veselé Vánoce - ptáček. Průměr do 6 cm. Vyrobeno z českého dřeva. Krásná vánoční dekorace.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Ručně vyráběná dřevěná vánoční ozdoba s obrázkem - Veselé Vánoce - ptáček. Průměr do 6 cm. Vyrobeno z českého dřeva. Krásná vánoční dekorace.&lt;/p&gt;</DESCRIPTION>
@@ -21168,6 +21271,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Tašky a textil</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC200063-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/10/BC200063-latkova-taska-gentleman.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC200063</CODE>
@@ -21193,6 +21297,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC200064-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/10/BC200064-aroma-karta-gentleman.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC200064</CODE>
@@ -21876,6 +21981,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC200086-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/11/BC200086-narozeninovy-kalendar.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/11/BC200086-narozeninovy-kalendar-listy.jpg</IMAGE>
     </IMAGES>
@@ -21902,6 +22008,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Přání a balení dárků</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC200085-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/11/BC200085-narozeninovy-balici-papir.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/11/BC200085-narozeninovy-balici-papir-list.jpg</IMAGE>
     </IMAGES>
@@ -22267,6 +22374,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC200127-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/01/BC200127-povlak-na-polstar-kamardce.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC200127</CODE>
@@ -22292,6 +22400,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC200165-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/01/BC200165-povlak-na-polstar-bajecna-zenska.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC200165</CODE>
@@ -22369,6 +22478,7 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Tašky a textil</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/A35833150-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/02/zelena-zastera.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/02/seda.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/02/oranzova.jpg</IMAGE>
@@ -29650,6 +29760,30 @@ Dárková sada obsahuje:
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Kovová lucerna s LED světlem</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Velká kovová lucerna se sklem a LED osvětlením.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Velká kovová lucerna se sklem a LED osvětlením.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/11/XX8323110.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-XX8323110</CODE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Dekorace ptáček</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Dekorativní figurka ptáčka.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Dekorativní figurka ptáčka.&lt;/p&gt;</DESCRIPTION>
@@ -36718,6 +36852,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC230073-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/B230073.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-BC230073</CODE>
@@ -38733,6 +38868,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/produkt-28509-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/12/uterka.jpg</IMAGE>
     </IMAGES>
     <CODE>BG-28509</CODE>
@@ -39084,6 +39220,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240075-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/08/BC240075-Medium.jpeg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC240075.jpg</IMAGE>
     </IMAGES>
@@ -42119,6 +42256,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC240082-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/08/BC240082-Medium.jpeg</IMAGE>
     </IMAGES>
     <CODE>BG-BC240082</CODE>
@@ -43544,34 +43682,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </IMAGES>
     <CODE>BG-BC250104</CODE>
     <EAN>8595590731073</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Sada pro holky - sprchový gel 3v1 200 ml a archeologická hračka (srdce)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Dárková sada pro holky – sprchový gel 3v1 (200 ml) a archeologická dlabací hračka ve tvaru srdce s ukrytým překvapením. Zábava a péče o tělo v jednom!&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Dárková sada pro holky – sprchový gel 3v1 (200 ml) a archeologická dlabací hračka ve tvaru srdce s ukrytým překvapením. Zábava a péče o tělo v jednom!&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/c77f5ca7-7efc-4b43-bb15-48ca79eaee02.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250105_1000x1000.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatko-srdce.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatka.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250105</CODE>
-    <EAN>8595590731080</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>99.00</PRICE_VAT>
@@ -50510,6 +50620,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/produkt-58964-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/05/b6315c38-39d7-44cb-90a9-57891af8f7d8.jpeg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/05/3d2a106c-7a24-41d6-be62-63d35b3454f5.jpeg</IMAGE>
     </IMAGES>
@@ -50535,6 +50646,7 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
       <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/produkt-58967-interier-1000x1000-1.jpg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/05/307cf618-de50-44d5-9248-dbc376a1889b.jpeg</IMAGE>
       <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/05/fd6f47a4-ad08-4b4b-83e5-fe3ee39a1e6d.jpeg</IMAGE>
     </IMAGES>
@@ -57349,6 +57461,34 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Sada pro holky - sprchový gel 3v1 200 ml a archeologická hračka (srdce)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková sada pro holky – sprchový gel 3v1 (200 ml) a archeologická dlabací hračka ve tvaru srdce s ukrytým překvapením. Zábava a péče o tělo v jednom!&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárková sada pro holky – sprchový gel 3v1 (200 ml) a archeologická dlabací hračka ve tvaru srdce s ukrytým překvapením. Zábava a péče o tělo v jednom!&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/c77f5ca7-7efc-4b43-bb15-48ca79eaee02.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250105_1000x1000.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatko-srdce.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/Dlabatka.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250105</CODE>
+    <EAN>8595590731080</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Lavender luxusní dárkový koš</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tento exkluzivní koš obsahuje širokou škálu luxusních produktů s levandulovou vůní.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Tento exkluzivní koš obsahuje širokou škálu luxusních produktů s levandulovou vůní.&lt;/p&gt;</DESCRIPTION>
@@ -57706,30 +57846,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Kovová lucerna s LED světlem</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Velká kovová lucerna se sklem a LED osvětlením.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Velká kovová lucerna se sklem a LED osvětlením.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/11/XX8323110.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-XX8323110</CODE>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dárková dřevěná bedna pro muže XL - pro motoristy</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Krásný dárek, který potěší každého motoristu. Dřevěná dárková bedna obsahuje originální hodiny, které budou ozdobou každé pracovny, garáže nebo dílny.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Krásný dárek, který potěší každého motoristu. Dřevěná dárková bedna obsahuje originální hodiny, které budou ozdobou každé pracovny, garáže nebo dílny.&lt;/p&gt;</DESCRIPTION>
@@ -57922,58 +58038,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vánoční mléčná čokoláda 10 g - děti u kostela</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620053-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620053-mala-cokolada-zele.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC620053</CODE>
-    <EAN>8595590779013</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>34.00</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vánoční mléčná čokoláda 10 g - holčička v červeném</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - holčička v červeném. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - holčička v červeném. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620055-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620055-mala-cokolada-modr.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC620055</CODE>
-    <EAN>8595590779037</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>34.00</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Plechová vánoční ozdoba 10 cm – Chlapeček</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Plechová ozdoba s chlapečkem v retro stylu dodá výzdobě hřejivou, nostalgickou atmosféru. Ideální na stromek či do jemných zimních dekorací.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Plechová ozdoba s chlapečkem v retro stylu dodá výzdobě hřejivou, nostalgickou atmosféru. Ideální na stromek či do jemných zimních dekorací.&lt;/p&gt;</DESCRIPTION>
@@ -58022,32 +58086,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vánoční mléčná čokoláda 10 g - chlapeček v modrém</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - chlapeček v modrém. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - chlapeček v modrém. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620056-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620056-mala-cokolada-modr.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC620056</CODE>
-    <EAN>8595590779044</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>34.00</PRICE_VAT>
     <VISIBILITY>hidden</VISIBILITY>
     <STOCK>
       <AMOUNT>0</AMOUNT>
@@ -58181,31 +58219,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
     <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vánoční mléčná čokoláda 10 g - anděl se čtyřlístky</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Anděl se čtyřlístky. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Anděl se čtyřlístky. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620058-mala-cokolada-svet.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC620058</CODE>
-    <EAN>8595590779068</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>24.00</PRICE_VAT>
     <VISIBILITY>hidden</VISIBILITY>
     <STOCK>
       <AMOUNT>0</AMOUNT>
