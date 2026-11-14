@@ -1,9 +1,9 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2302
-Produktů ve výstupu: 2137 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2137, cena z koeficientu: 0
-Zboží jen pro dospělé (18+): 192
-Viditelnost v e-shopu: {'visible': 1945, 'showRegistered': 192}
+Položek ve feedu dodavatele: 2304
+Produktů ve výstupu: 2139 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2139, cena z koeficientu: 0
+Zboží jen pro dospělé (18+): 194
+Viditelnost v e-shopu: {'visible': 1945, 'showRegistered': 194}
 Ruční ceny z ceny-rucne.csv: 0
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 89, vypuštěno po lhůtě: 0
 
@@ -174,7 +174,7 @@ Vyřazené položky (165):
   - BC210002 Pánské tričko s potiskem - Hory volají – oblečení – feed neobsahuje velikosti
   - BC850006 Zlatá medovina pro babičku 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
 
-Označeno jako 18+ (192) – zkontrolujte:
+Označeno jako 18+ (194) – zkontrolujte:
   - BC006223 Dárkové bílé víno pro tatínka 0,75 l - Chardonnay
   - BC006224 Dárkové červené víno mamince 0,75 l - Merlot
   - BC006225 Dárkové červené víno pro babičku 0,75 l - Merlot
@@ -367,6 +367,8 @@ Označeno jako 18+ (192) – zkontrolujte:
   - BC260143 Dárkové červené víno 0,75 l Merlot - pro babičku
   - BC260144 Dárkové bílé víno 0,75 l Chardonnay - pro dědu
   - BC260145 Dárkové červené víno 0,75 l Merlot - pro dědu
+  - BC260392 Dárkové víno Merlot 0,75 l – Dnes se slaví narozeniny
+  - BC260393 Dárkové bílé víno Chardonnay 0,75 l – Narodil se Kristus Pán
 
 Nezařazené do kategorie – spadly do 'Dárky a dekorace > Další dárky' (1):
   - MC1700240 Zápisník A5 s kroužkovou vazbou (kategorie dodavatele: Akční nabídka)
