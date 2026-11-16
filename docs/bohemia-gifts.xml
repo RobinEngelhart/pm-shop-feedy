@@ -15241,32 +15241,6 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vánoční mléčná čokoláda 10 g - děti u kostela</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620053-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620053-mala-cokolada-zele.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC620053</CODE>
-    <EAN>8595590779013</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>34.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vánoční mléčná čokoláda 10 g - holčička v červeném</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - holčička v červeném. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - holčička v červeném. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
@@ -21115,32 +21089,6 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </IMAGES>
     <CODE>BG-BC190360</CODE>
     <EAN>8595590788534</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>399.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Dřevěné nástěnné hodiny 24 cm pro myslivce - čas na lov</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Dřevěné hodiny s potiskem pro myslivce - je čas vyrazit na lov. Dřevěné hodiny jsou krásný dárek pro myslivce a pěkná dekorace k zavěšení do kuchyně, kanceláře nebo pracovny.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Dřevěné hodiny s potiskem pro myslivce - je čas vyrazit na lov. Dřevěné hodiny jsou krásný dárek pro myslivce a pěkná dekorace k zavěšení do kuchyně, kanceláře nebo pracovny.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC190357-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/products-BC190357-hodiny-myslivec.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC190357</CODE>
-    <EAN>8595590788503</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>399.00</PRICE_VAT>
@@ -37934,6 +37882,35 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>249.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Čokoládové doutníky s vanilkovou příchutí 75 g</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Mléčná čokoláda Gianduja s lískovými oříšky a vanilkovou příchutí ve tvaru doutníků. Čokoládové doutníky jsou vynikající sladký dárek pro muže.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Mléčná čokoláda Gianduja s lískovými oříšky a vanilkovou příchutí ve tvaru doutníků. Čokoládové doutníky jsou vynikající sladký dárek pro muže.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Becky´s</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/e1c8e5b0-c039-45ba-b4d5-6b6a0ba2a68b.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/996257_cokoladovy_doutnik_D.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/996257_cokoladovy_doutnik_C.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/996257_cokoladovy_doutnik_A.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/996257_cokoladovy_doutnik_5.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-996257</CODE>
+    <EAN>8713305814983</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -57514,6 +57491,58 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <VISIBILITY>showRegistered</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční mléčná čokoláda 10 g - děti u kostela</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC620053-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC620053-mala-cokolada-zele.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC620053</CODE>
+    <EAN>8595590779013</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>34.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dřevěné nástěnné hodiny 24 cm pro myslivce - čas na lov</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dřevěné hodiny s potiskem pro myslivce - je čas vyrazit na lov. Dřevěné hodiny jsou krásný dárek pro myslivce a pěkná dekorace k zavěšení do kuchyně, kanceláře nebo pracovny.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dřevěné hodiny s potiskem pro myslivce - je čas vyrazit na lov. Dřevěné hodiny jsou krásný dárek pro myslivce a pěkná dekorace k zavěšení do kuchyně, kanceláře nebo pracovny.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dekorace do bytu</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC190357-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/products-BC190357-hodiny-myslivec.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC190357</CODE>
+    <EAN>8595590788503</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>399.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>

@@ -6510,7 +6510,7 @@ Je vhodný pro zajištění vysoce namáhaných spojů a spojů bez předpokladu
 
 &lt;p&gt;&lt;strong&gt;Standardní&amp;nbsp;věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;UFI:&amp;nbsp;&lt;/strong&gt;CMNH-80W4-G00F-DUCV&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UFI:&amp;nbsp;CMNH-80W4-G00F-0UCV&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table border="0" cellpadding="0" cellspacing="0" width="754" x:str=""&gt;
 	&lt;colgroup&gt;
@@ -6613,6 +6613,8 @@ Je vhodný pro zajištění vysoce namáhaných spojů a spojů bez předpokladu
 
 
 &lt;p&gt;&lt;strong&gt;Standardní&amp;nbsp;věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/strong&gt;&lt;/p&gt;
+
+
 
 &lt;table id="table_clp"&gt;
 	&lt;tbody&gt;
@@ -44405,75 +44407,77 @@ Je vhodný pro zajištění vysoce namáhaných spojů a spojů bez předpokladu
 
 &lt;p&gt;&lt;strong&gt;Standardní&amp;nbsp;věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;UFI: CMNH-80W4-G00F-0UCV&lt;/strong&gt;&lt;/p&gt;
+
 &lt;table id="table_clp"&gt;
- &lt;tbody&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;H302&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Zdraví škodlivý při požití.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;H312&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Zdraví škodlivý při styku s kůží.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;H319&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Způsobuje vážné podráždění očí.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;H335&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Může způsobit podráždění dýchacích cest.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;H412&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Škodlivý pro vodní organismy, s dlouhodobými účinky.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;P101&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;P102&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Uchovávejte mimo dosah dětí.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;P264&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Po manipulaci důkladně omyjte ruce a zasažené části těla.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;P271&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Používejte pouze venku nebo v dobře větraných prostorách.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;P405&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Skladujte uzamčené.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td&gt;&lt;strong&gt;P501&lt;/strong&gt;&lt;/td&gt;
-   &lt;td&gt;
-   &lt;p&gt;Odstraňte obsah/obal předáním oprávněné osobě k nakládání s odpady nebo vrácením dodavateli.&lt;/p&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
- &lt;/tbody&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;H302&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zdraví škodlivý při požití.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;H312&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Zdraví škodlivý při styku s kůží.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;H319&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Způsobuje vážné podráždění očí.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;H335&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Může způsobit podráždění dýchacích cest.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;H412&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Škodlivý pro vodní organismy, s dlouhodobými účinky.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;P101&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;P102&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Uchovávejte mimo dosah dětí.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;P264&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Po manipulaci důkladně omyjte ruce a zasažené části těla.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;P271&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Používejte pouze venku nebo v dobře větraných prostorách.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;P405&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Skladujte uzamčené.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;&lt;strong&gt;P501&lt;/strong&gt;&lt;/td&gt;
+			&lt;td&gt;
+			&lt;p&gt;Odstraňte obsah/obal předáním oprávněné osobě k nakládání s odpady nebo vrácením dodavateli.&lt;/p&gt;
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;</DESCRIPTION>
     <MANUFACTURER>Versachem</MANUFACTURER>
     <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
