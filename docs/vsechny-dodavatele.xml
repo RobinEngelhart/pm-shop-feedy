@@ -6913,32 +6913,6 @@
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Beer Spa premium pivní vlasový balzám 200 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Beer Spa pivní vlasový balzám 200 ml. Díky speciální receptuře kondicionér zvyšuje odolnost vlasů proti vysychání, usnadňuje jejich rozčesávání.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Beer Spa pivní vlasový balzám 200 ml. Díky speciální receptuře kondicionér zvyšuje odolnost vlasů proti vysychání, usnadňuje jejich rozčesávání.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Beer Spa</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/6595c4ad-2eca-40fa-81fe-525abe6603f6.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC820005.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC820005</CODE>
-    <EAN>8595590710269</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>74.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Wine Spa vlasový šampon 200 ml - vinná réva</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Wine Spa vlasový šampon obsahuje hroznový olej a extrakt z hroznů vinné révy. Kvalitní a šetrná péče o vaše vlasy a pro snadnější rozčesávání vlasů.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Wine Spa vlasový šampon obsahuje hroznový olej a extrakt z hroznů vinné révy. Kvalitní a šetrná péče o vaše vlasy a pro snadnější rozčesávání vlasů.&lt;/p&gt;</DESCRIPTION>
@@ -14836,34 +14810,6 @@ Je to jen drobný dárek od vás, ale velký výbuch radosti pro toho, kdo jej d
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Mořská víla kosmetická sada pro děti - bomby do koupele a bublifuk 30 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Dárková kazeta pro malé víly, které rozpoutají v koupelně tu pravou šumivou show. Sada je doplněna o růžový bublifuk.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Dárková kazeta pro malé víly, které rozpoutají v koupelně tu pravou šumivou show. Sada je doplněna o růžový bublifuk.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Jedem Bomby</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC230128-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/BC230128_morska_vila.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC230128.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC230128B.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC230128</CODE>
-    <EAN>8595590724266</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>DINO kosmetická sada pro děti - bomba do koupele a bublifuk 30 ml</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Kosmetická dárková sada pro děti s šumivou pěnivou bombou ve tvaru dinosaura a zábavným bublifukem. Rozpoutá tu pravou zábavu.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Kosmetická dárková sada pro děti s šumivou pěnivou bombou ve tvaru dinosaura a zábavným bublifukem. Rozpoutá tu pravou zábavu.&lt;/p&gt;</DESCRIPTION>
@@ -15230,6 +15176,32 @@ Je to jen drobný dárek od vás, ale velký výbuch radosti pro toho, kdo jej d
     </IMAGES>
     <CODE>BG-BC002322</CODE>
     <EAN>8595590777316</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>179.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Masážní gel koňský kaštan 600 ml – hřejivý</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Masážní gel koňský kaštan – hřejivý. Obsahuje kaštan koňský, kostival lékařský, arnika horská, jalovec obecný a další bylinné extrakty. Hřejivý balzám má prohřívací účinky, čímž napomáhá uvolnit svalové napětí.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Masážní gel koňský kaštan – hřejivý. Obsahuje kaštan koňský, kostival lékařský, arnika horská, jalovec obecný a další bylinné extrakty. Hřejivý balzám má prohřívací účinky, čímž napomáhá uvolnit svalové napětí.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Herbs</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC002323-2-kastan-balzam-hrejivy.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/09/products-BC002323-kastan-balzam-hrejivy.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC002323</CODE>
+    <EAN>8595590777323</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>179.00</PRICE_VAT>
@@ -37841,32 +37813,6 @@ Dárková sada obsahuje:
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vánoční dřevěný stromeček</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Nalaďte si doma vánoční atmosféru pomocí těchto dekorativních dřevěných stromečků. Díky tomu že jsou stromečky opravdu úzké, tak je můžete použít i na menší parapety a zútulnit tak váš domov.…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Nalaďte si doma vánoční atmosféru pomocí těchto dekorativních dřevěných stromečků. Díky tomu že jsou stromečky opravdu úzké, tak je můžete použít i na menší parapety a zútulnit tak váš domov. Stromeček je ve třech barvách a je vyrobený z přírodního dřeva, potažený barevným filcem a ozdobený rolničkami.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Vánoční dekorace</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Vánoční dekorace</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/10/stromek-vanocni-dreveny.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/10/stromky-mix.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-DH8061000</CODE>
-    <EAN>8720573300940</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dárková bedna - Dokonalá Koupel</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Bedna plná nezbytností pro dokonalou koupel. Samotnou bednu pak můžete použít třeba na kosmetiku v koupelně. Dárková bedna obsahuje: Mycí žínka na dřevěné tyčce Houbička na mytí Koupací masážní…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>Bedna plná nezbytností pro dokonalou koupel. Samotnou bednu pak můžete použít třeba na kosmetiku v koupelně.
@@ -42827,6 +42773,32 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Sušenky pro paní učitelku 180 g s čokoládovým krémem</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Ovesné sušenky pro paní učitelku s čokoládovým krémem jsou milý malý dárek, který jí připomene, jak moc je důležitá a milovaná, a jak si vážíte její práce. Přinesete radost a sladkost do jejího…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Ovesné sušenky pro paní učitelku s čokoládovým krémem jsou milý malý dárek, který jí připomene, jak moc je důležitá a milovaná, a jak si vážíte její práce. Přinesete radost a sladkost do jejího života a budete její oblíbený student vždycky.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Becky´s</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/05/288bc021-ff7a-4200-a1a5-4032d565eca1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/05/BC230074_susenky-pro-ucitelku.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC230074</CODE>
+    <EAN>8595590723450</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>119.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Interaktivní mléčná čokoláda pro paní učitelku 100 g - od srdce</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tato mléčná čokoláda pro paní učitelku je víc než jen sladkost. Je to malý projev velké vděčnosti. Speciální interaktivní obal skrývá něžné vyznání: "Děkuji za to, že jste." Udělejte radost výjimečné…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>Tato mléčná čokoláda pro paní učitelku je víc než jen sladkost. Je to malý projev velké vděčnosti. Speciální interaktivní obal skrývá něžné vyznání: &lt;strong&gt;"Děkuji za to, že jste."&lt;/strong&gt; Udělejte radost výjimečné ženě, která formuje budoucnost našich dětí.</DESCRIPTION>
@@ -46426,33 +46398,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Dárkové balení svíček v krabičce 2ks - Bohaté Vánoce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Bohaté Vánoce : Set dvou svíček v krabičce, které umocní vánoční atmosféru. Užívejte si sváteční chvíle s tímto elegantním a voňavým dárkem.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;strong&gt;Bohaté Vánoce&lt;/strong&gt;: Set dvou svíček v krabičce, které umocní vánoční atmosféru. Užívejte si sváteční chvíle s tímto elegantním a voňavým dárkem.</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC240101-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240101-vanoce-w.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC240101_BOCNI-POHLED.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC240101</CODE>
-    <EAN>8595590727649</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>229.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Bylinná sůl do koupele 900 g - jasmín a ibišek</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Proměňte svou koupel v rituál klidu a pohody s naší relaxační koupelovou solí s bylinným extraktem a vůní jasmínu a ibišku. Perfektní pro chvíle, kdy potřebujete odpočinek a regeneraci nejen těla, ale i mysli.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Proměňte svou koupel v rituál klidu a pohody s naší relaxační koupelovou solí s bylinným extraktem a vůní jasmínu a ibišku. Perfektní pro chvíle, kdy potřebujete odpočinek a regeneraci nejen těla, ale i mysli.&lt;/p&gt;</DESCRIPTION>
@@ -47890,58 +47835,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Koupelová pěna Andělská lázeň 500 ml ve skle - kozí mléko a med</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Andělská lázeň je perfektní nejen pro každodenní relaxaci, ale také jako skvostný dárek pro někoho, koho chcete hýčkat.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Andělská lázeň je perfektní nejen pro každodenní relaxaci, ale také jako skvostný dárek pro někoho, koho chcete hýčkat.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/f0020ee2-deb9-4517-8c2c-2c31618404f6.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240177_andelska-lazen.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC240177</CODE>
-    <EAN>8595590728486</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>159.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Koupelová pěna Vánoční lázeň 500 ml ve skle - jablko a skořice</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční lázeň je ideální pro všechny, kdo touží po relaxaci a harmonii. Připravte se na nezapomenutelný zážitek a oslavte kouzlo Vánoc s naší Vánoční lázní!&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vánoční lázeň je ideální pro všechny, kdo touží po relaxaci a harmonii. Připravte se na nezapomenutelný zážitek a oslavte kouzlo Vánoc s naší Vánoční lázní!&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC240178-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240178_vanocni-lazen.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC240178</CODE>
-    <EAN>8595590728493</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>159.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vánoční pralinky v plechové dóze 250 g</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Vánoční pralinky v dekorativní plechové dóze jsou skvělým sladkým vánočním dárkem.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Vánoční pralinky v dekorativní plechové dóze jsou skvělým sladkým vánočním dárkem.&lt;/p&gt;</DESCRIPTION>
@@ -48418,6 +48311,31 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Vánoční kosmetická sada - sprchový gel 100 ml, vlasový šampon 100 ml a vánoční ozdoba (punčocha)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční dárková sada obsahuje sprchový gel 100 ml a vlasový šampon 100 ml s vůní jablka a skořice a měkkou vánoční ozdobu ve tvaru punčochy. Elegantní balení, nádherná vůně a hotový dárek pro sváteční radost.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vánoční dárková sada obsahuje sprchový gel 100 ml a vlasový šampon 100 ml s vůní jablka a skořice a měkkou vánoční ozdobu ve tvaru punčochy. Elegantní balení, nádherná vůně a hotový dárek pro sváteční radost.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240106-baleni-vanoce.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC240106</CODE>
+    <EAN>8595590727694</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>269.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Vánoční pralinky 84 g - Santova bota</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Krásně balené vánoční pralinky z mléčné čokolády s krémovou náplní v originální plechové krabičce jsou skvělým vánočním dárkem pro vaše blízké a přátele.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Krásně balené vánoční pralinky z mléčné čokolády s krémovou náplní v originální plechové krabičce jsou skvělým vánočním dárkem pro vaše blízké a přátele.&lt;/p&gt;</DESCRIPTION>
@@ -48707,6 +48625,34 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>139.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Šumivá a pěnivá bomba do vany 110 g v kornoutu - borůvka a jablko a skořice</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Zažijte jedinečný podzimní rituál s pěnivou a šumivou koupelovou bombou, která kombinuje sladkou vůni borůvek a hřejivý nádech jablka se skořicí. Dvě části – fialová borůvka a jemně zlatavé jablko se…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Zažijte jedinečný podzimní rituál s pěnivou a šumivou koupelovou bombou, která kombinuje sladkou vůni borůvek a hřejivý nádech jablka se skořicí. Dvě části – fialová borůvka a jemně zlatavé jablko se skořicí – vytvoří ve vaně okouzlující vizuální i aromatický zážitek.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Jedem Bomby</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240217_boruvka-a-jablko_D-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240217_boruvka-a-jablko_B-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240217_boruvka-a-jablko_C-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240217_boruvka-a-jablkojpg-1.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC240217</CODE>
+    <EAN>8595590728882</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>129.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -51590,33 +51536,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
     <PRICE_VAT>99.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vánoční poštovní schránka XL se sladkostmi Candy Fiesta 100 g</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka Letters to Santa s čokoládami je originálním sladkým dárkem, který potěší děti i dospělé. Bílá dekorativní schránka s červeným nápisem „Letters to Santa“ a vánoční cukrovou…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka Letters to Santa s čokoládami je originálním sladkým dárkem, který potěší děti i dospělé. Bílá dekorativní schránka s červeným nápisem „Letters to Santa“ a vánoční cukrovou hůlkou ukrývá malé balené čokoládky s motivem Santa Clause. Krásné vánoční překvapení i dekorace.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Becky´s</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/WhatsApp-Image-2026-11-02-at-13.21.22.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/WhatsApp-Image-2026-11-02-at-13.21.21.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/WhatsApp-Image-2026-11-02-at-13.21.22-1.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250162</CODE>
-    <EAN>8595590731950</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>179.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -60432,32 +60351,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Keramická vonná svíčka 200 g - Krásné Vánoce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Keramická vonná svíčka 200 g – Krásné Vánoce . Voňavý vánoční dárek v elegantní keramické nádobě, který vykouzlí příjemnou atmosféru a zpříjemní sváteční chvíle.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Keramická vonná svíčka 200 g – &lt;strong&gt;Krásné Vánoce&lt;/strong&gt;. Voňavý vánoční dárek v elegantní keramické nádobě, který vykouzlí příjemnou atmosféru a zpříjemní sváteční chvíle.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BDAB5090-DA9E-4DC5-B863-431F8E81F441.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/EFAE525F-3E06-4E45-8190-E13BC13BFAFF.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260334</CODE>
-    <EAN>8595590737273</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Plechový box - aroma sada a bomby do koupele 2x 110 g - maminka</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Plechový dárkový box Maminka obsahuje jahodovou a konopnou bombu do koupele a aroma sadu Moss After Rain s difuzérem a svíčkou. Voňavý dárek pro maminku plný relaxace a domácí pohody.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>Plechový dárkový box &lt;strong data-start="45" data-end="56"&gt;Maminka&lt;/strong&gt; obsahuje jahodovou a konopnou bombu do koupele a aroma sadu &lt;strong data-start="117" data-end="136"&gt;Moss After Rain&lt;/strong&gt; s difuzérem a svíčkou. Voňavý dárek pro maminku plný relaxace a domácí pohody.</DESCRIPTION>
@@ -62941,6 +62834,32 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Prodejní stojan 12x tuhá mýdla 100 g - nostalgická kolekce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Prodejní stojan – 12× tuhá mýdla 100 g – nostalgická kolekce je krásná sada ručně vyráběných mýdel s romantickými ilustracemi inspirovanými starými pohlednicemi a kouzlem dávných časů. Každé mýdlo o…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Prodejní stojan – 12× tuhá mýdla 100 g – nostalgická kolekce je krásná sada ručně vyráběných mýdel s romantickými ilustracemi inspirovanými starými pohlednicemi a kouzlem dávných časů. Každé mýdlo o hmotnosti 100 g je zabaleno v dekorativním papírovém obalu s jemnými květinovými motivy a nostalgickými výjevy ze života dětí a rodiny. Součástí balení je praktický kartonový prodejní stojan, který umožňuje přehledné a atraktivní vystavení všech 12 mýdel. Ideální kolekce do dárkových obchodů, prodejen s kosmetikou a obchůdků s tradičními výrobky.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260397.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260397-1.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260397</CODE>
+    <EAN>8595590737938</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>949.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Tekuté mýdlo 250 ml v keramickém dávkovači - adventní klid (jablko a skořice)</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tekuté mýdlo 250 ml v keramickém dávkovači – zelené – Adventní klid (jablko a skořice) spojuje každodenní péči o ruce s příjemnou vánoční vůní. Kombinace jablka a skořice navozuje útulnou adventní…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Tekuté mýdlo 250 ml v keramickém dávkovači – zelené – Adventní klid (jablko a skořice) spojuje každodenní péči o ruce s příjemnou vánoční vůní. Kombinace jablka a skořice navozuje útulnou adventní atmosféru. Elegantní zelený keramický dávkovač je krásným doplňkem koupelny nebo kuchyně a lze jej opakovaně doplňovat.&lt;/p&gt;</DESCRIPTION>
@@ -64094,6 +64013,218 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Beer Spa premium pivní vlasový balzám 200 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Beer Spa pivní vlasový balzám 200 ml. Díky speciální receptuře kondicionér zvyšuje odolnost vlasů proti vysychání, usnadňuje jejich rozčesávání.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Beer Spa pivní vlasový balzám 200 ml. Díky speciální receptuře kondicionér zvyšuje odolnost vlasů proti vysychání, usnadňuje jejich rozčesávání.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Beer Spa</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2015/10/6595c4ad-2eca-40fa-81fe-525abe6603f6.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC820005.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC820005</CODE>
+    <EAN>8595590710269</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>74.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Mořská víla kosmetická sada pro děti - bomby do koupele a bublifuk 30 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dárková kazeta pro malé víly, které rozpoutají v koupelně tu pravou šumivou show. Sada je doplněna o růžový bublifuk.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Dárková kazeta pro malé víly, které rozpoutají v koupelně tu pravou šumivou show. Sada je doplněna o růžový bublifuk.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Jedem Bomby</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC230128-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/08/BC230128_morska_vila.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC230128.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2021/09/BC230128B.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC230128</CODE>
+    <EAN>8595590724266</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční dřevěný stromeček</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Nalaďte si doma vánoční atmosféru pomocí těchto dekorativních dřevěných stromečků. Díky tomu že jsou stromečky opravdu úzké, tak je můžete použít i na menší parapety a zútulnit tak váš domov.…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Nalaďte si doma vánoční atmosféru pomocí těchto dekorativních dřevěných stromečků. Díky tomu že jsou stromečky opravdu úzké, tak je můžete použít i na menší parapety a zútulnit tak váš domov. Stromeček je ve třech barvách a je vyrobený z přírodního dřeva, potažený barevným filcem a ozdobený rolničkami.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Vánoční dekorace</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Vánoční dekorace</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/10/stromek-vanocni-dreveny.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/10/stromky-mix.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-DH8061000</CODE>
+    <EAN>8720573300940</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dárkové balení svíček v krabičce 2ks - Bohaté Vánoce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Bohaté Vánoce : Set dvou svíček v krabičce, které umocní vánoční atmosféru. Užívejte si sváteční chvíle s tímto elegantním a voňavým dárkem.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;strong&gt;Bohaté Vánoce&lt;/strong&gt;: Set dvou svíček v krabičce, které umocní vánoční atmosféru. Užívejte si sváteční chvíle s tímto elegantním a voňavým dárkem.</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC240101-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/09/BC240101-vanoce-w.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC240101_BOCNI-POHLED.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC240101</CODE>
+    <EAN>8595590727649</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>229.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Koupelová pěna Andělská lázeň 500 ml ve skle - kozí mléko a med</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Andělská lázeň je perfektní nejen pro každodenní relaxaci, ale také jako skvostný dárek pro někoho, koho chcete hýčkat.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Andělská lázeň je perfektní nejen pro každodenní relaxaci, ale také jako skvostný dárek pro někoho, koho chcete hýčkat.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/f0020ee2-deb9-4517-8c2c-2c31618404f6.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240177_andelska-lazen.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC240177</CODE>
+    <EAN>8595590728486</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>159.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Koupelová pěna Vánoční lázeň 500 ml ve skle - jablko a skořice</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční lázeň je ideální pro všechny, kdo touží po relaxaci a harmonii. Připravte se na nezapomenutelný zážitek a oslavte kouzlo Vánoc s naší Vánoční lázní!&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vánoční lázeň je ideální pro všechny, kdo touží po relaxaci a harmonii. Připravte se na nezapomenutelný zážitek a oslavte kouzlo Vánoc s naší Vánoční lázní!&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC240178-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/10/BC240178_vanocni-lazen.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC240178</CODE>
+    <EAN>8595590728493</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>159.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční poštovní schránka XL se sladkostmi Candy Fiesta 100 g</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka Letters to Santa s čokoládami je originálním sladkým dárkem, který potěší děti i dospělé. Bílá dekorativní schránka s červeným nápisem „Letters to Santa“ a vánoční cukrovou…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka Letters to Santa s čokoládami je originálním sladkým dárkem, který potěší děti i dospělé. Bílá dekorativní schránka s červeným nápisem „Letters to Santa“ a vánoční cukrovou hůlkou ukrývá malé balené čokoládky s motivem Santa Clause. Krásné vánoční překvapení i dekorace.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Becky´s</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/WhatsApp-Image-2026-11-02-at-13.21.22.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/WhatsApp-Image-2026-11-02-at-13.21.21.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/WhatsApp-Image-2026-11-02-at-13.21.22-1.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250162</CODE>
+    <EAN>8595590731950</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>179.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Keramická vonná svíčka 200 g - Krásné Vánoce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Keramická vonná svíčka 200 g – Krásné Vánoce . Voňavý vánoční dárek v elegantní keramické nádobě, který vykouzlí příjemnou atmosféru a zpříjemní sváteční chvíle.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Keramická vonná svíčka 200 g – &lt;strong&gt;Krásné Vánoce&lt;/strong&gt;. Voňavý vánoční dárek v elegantní keramické nádobě, který vykouzlí příjemnou atmosféru a zpříjemní sváteční chvíle.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BDAB5090-DA9E-4DC5-B863-431F8E81F441.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/EFAE525F-3E06-4E45-8190-E13BC13BFAFF.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260334</CODE>
+    <EAN>8595590737273</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Vánoční mléčná čokoláda 10 g - děti u kostela</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Sladký vánoční dárek. Dárková vánoční mléčná čokoláda 10 g s vánočním motivem - Veselé Vánoce - děti u kostela. Krásný drobný, ale milý vánoční dáreček.&lt;/p&gt;</DESCRIPTION>
@@ -64691,32 +64822,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>799.20</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Prodejní stojan 12x tuhá mýdla 100 g - nostalgická kolekce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Prodejní stojan – 12× tuhá mýdla 100 g – nostalgická kolekce je krásná sada ručně vyráběných mýdel s romantickými ilustracemi inspirovanými starými pohlednicemi a kouzlem dávných časů. Každé mýdlo o…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Prodejní stojan – 12× tuhá mýdla 100 g – nostalgická kolekce je krásná sada ručně vyráběných mýdel s romantickými ilustracemi inspirovanými starými pohlednicemi a kouzlem dávných časů. Každé mýdlo o hmotnosti 100 g je zabaleno v dekorativním papírovém obalu s jemnými květinovými motivy a nostalgickými výjevy ze života dětí a rodiny. Součástí balení je praktický kartonový prodejní stojan, který umožňuje přehledné a atraktivní vystavení všech 12 mýdel. Ideální kolekce do dárkových obchodů, prodejen s kosmetikou a obchůdků s tradičními výrobky.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260397.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260397-1.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260397</CODE>
-    <EAN>8595590737938</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>684.00</PRICE_VAT>
     <VISIBILITY>hidden</VISIBILITY>
     <STOCK>
       <AMOUNT>0</AMOUNT>
@@ -65511,34 +65616,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>179.00</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
-    <STOCK>
-      <AMOUNT>0</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Šumivá a pěnivá bomba do vany 110 g v kornoutu - borůvka a jablko a skořice</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Zažijte jedinečný podzimní rituál s pěnivou a šumivou koupelovou bombou, která kombinuje sladkou vůni borůvek a hřejivý nádech jablka se skořicí. Dvě části – fialová borůvka a jemně zlatavé jablko se…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Zažijte jedinečný podzimní rituál s pěnivou a šumivou koupelovou bombou, která kombinuje sladkou vůni borůvek a hřejivý nádech jablka se skořicí. Dvě části – fialová borůvka a jemně zlatavé jablko se skořicí – vytvoří ve vaně okouzlující vizuální i aromatický zážitek.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Jedem Bomby</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240217_boruvka-a-jablko_D-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240217_boruvka-a-jablko_B-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240217_boruvka-a-jablko_C-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2024/11/BC240217_boruvka-a-jablkojpg-1.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC240217</CODE>
-    <EAN>8595590728882</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
     <VISIBILITY>hidden</VISIBILITY>
     <STOCK>
       <AMOUNT>0</AMOUNT>
