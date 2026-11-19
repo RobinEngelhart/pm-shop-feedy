@@ -59363,9 +59363,9 @@ Tento postup je určen k opravě poškozených nebo přerušených částí vyh�
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>726.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
+    <VISIBILITY>hidden</VISIBILITY>
     <STOCK>
-      <AMOUNT>5</AMOUNT>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
