@@ -64085,9 +64085,9 @@ Volkswagen Golf, Lupo, New Beetle, Polo&lt;/p&gt;</DESCRIPTION>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>233.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
+    <VISIBILITY>hidden</VISIBILITY>
     <STOCK>
-      <AMOUNT>5</AMOUNT>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>

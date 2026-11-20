@@ -37858,32 +37858,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční pohoda</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční pohoda je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční atmosféru. Plastová lucerna o výšce 22 cm s motivem kostelíčku…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční pohoda je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční atmosféru. Plastová lucerna o výšce 22 cm s motivem kostelíčku a LED svíčkou na baterie potěší svým nostalgickým vzhledem. Dostupná ve třech variantách.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/f6f394d5-a3f0-45f6-b6b9-74dca86c98e4.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/plechova-lucerna-s-kostelickem-xx8324040.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-XX8324040</CODE>
-    <EAN>8720573637305</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Čokoládové doutníky s vanilkovou příchutí 75 g</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Mléčná čokoláda Gianduja s lískovými oříšky a vanilkovou příchutí ve tvaru doutníků. Čokoládové doutníky jsou vynikající sladký dárek pro muže.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Mléčná čokoláda Gianduja s lískovými oříšky a vanilkovou příchutí ve tvaru doutníků. Čokoládové doutníky jsou vynikající sladký dárek pro muže.&lt;/p&gt;</DESCRIPTION>
@@ -51928,58 +51902,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Bublinková koupel - Pro nejlepší kamarádku (koupelová pěna) 490 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Bublinková koupel – Pro nejlepší kamarádku 490 ml. Voňavá koupelová pěna, která promění každou koupel v příjemné chvíle relaxace a pohody.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Bublinková koupel – Pro nejlepší kamarádku 490 ml. Voňavá koupelová pěna, která promění každou koupel v příjemné chvíle relaxace a pohody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/06/BC260215-.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/06/BC260215.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260215</CODE>
-    <EAN>8595590735491</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>129.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Bublinková koupel - Děkuji (koupelová pěna) 490 ml</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Bublinková koupel – Děkuji 490 ml. Voňavá koupelová pěna, která je originálním způsobem, jak vyjádřit poděkování a udělat radost&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Bublinková koupel – Děkuji 490 ml. Voňavá koupelová pěna, která je originálním způsobem, jak vyjádřit poděkování a udělat radost&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/06/BC260216-.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/06/BC260216.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260216</CODE>
-    <EAN>8595590735507</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>129.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Kosmetická sada Kniha Zahradníkův rok - 2x sprchový gel 250 ml</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Kosmetická sada Kniha Zahradníkův rok obsahuje dva sprchové gely o objemu 250 ml. Originální dárek pro všechny milovníky zahrady, květin a práce na čerstvém vzduchu.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Kosmetická sada Kniha Zahradníkův rok obsahuje dva sprchové gely o objemu 250 ml. Originální dárek pro všechny milovníky zahrady, květin a práce na čerstvém vzduchu.&lt;/p&gt;</DESCRIPTION>
@@ -53589,32 +53511,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Keramická vonná svíčka 200 g - Nejlepší kolegyně</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Keramická vonná svíčka 200 g – Nejlepší kolegyně . Milý a voňavý dárek v elegantní keramické nádobě, kterým potěšíte skvělou kolegyni a poděkujete jí za společné pracovní chvíle.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p class="PDq2pG_selectionAnchorContainer" data-start="24" data-end="207"&gt;Keramická vonná svíčka 200 g – &lt;strong data-start="55" data-end="76"&gt;Nejlepší kolegyně&lt;/strong&gt;. Milý a voňavý dárek v elegantní keramické nádobě, kterým potěšíte skvělou kolegyni a poděkujete jí za společné pracovní chvíle.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BFA0C24C-2CE0-44DE-A9AD-F6E6680B3E63.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/4D80AB4A-D2E5-4774-84B2-395FFD5F16B4.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260332</CODE>
-    <EAN>8595590737259</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>299.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Plechový box - aroma sada a bomby do koupele 2x 110 g - maminka</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Plechový dárkový box Maminka obsahuje jahodovou a konopnou bombu do koupele a aroma sadu Moss After Rain s difuzérem a svíčkou. Voňavý dárek pro maminku plný relaxace a domácí pohody.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>Plechový dárkový box &lt;strong data-start="45" data-end="56"&gt;Maminka&lt;/strong&gt; obsahuje jahodovou a konopnou bombu do koupele a aroma sadu &lt;strong data-start="117" data-end="136"&gt;Moss After Rain&lt;/strong&gt; s difuzérem a svíčkou. Voňavý dárek pro maminku plný relaxace a domácí pohody.</DESCRIPTION>
@@ -54037,32 +53933,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>449.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Sůl do koupele 690 g ve skle - levandule</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sůl do koupele 690 g ve skle – Levandule . Voňavá koupelová sůl s příjemnou levandulovou vůní pro chvíle relaxace a domácí pohody. Elegantní skleněné balení z ní dělá také krásný dárek.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>Sůl do koupele 690 g ve skle – &lt;strong data-start="55" data-end="68"&gt;Levandule&lt;/strong&gt;. Voňavá koupelová sůl s příjemnou levandulovou vůní pro chvíle relaxace a domácí pohody. Elegantní skleněné balení z ní dělá také krásný dárek.</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260290.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260290-.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260290</CODE>
-    <EAN>8595590736832</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -55140,33 +55010,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>139.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - pro babičku</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům nebo jednoduše jako poděkování za její lásku a péči.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260360</CODE>
-    <EAN>8595590737563</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -56332,114 +56175,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Aroma lampa 9x10 cm s vonným voskem - Krásné Vánoce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Krásné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční atmosféru. Keramická aroma lampa v jemném béžovém provedení s…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Krásné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční atmosféru. Keramická aroma lampa v jemném béžovém provedení s drobnými tečkami je doplněna vonnými vosky a dekorativním vánočním obalem. Ideální dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260458-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/5c390829-9235-48ed-a4e1-bb8a19d5e800.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260458.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260458</CODE>
-    <EAN>8595590738546</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Aroma lampa 9x10 cm s vonným voskem - Provoněné Vánoce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Provoněné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Provoněné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním vánočním balení potěší každého milovníka útulného domova. Ideální dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260459.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/5c390829-9235-48ed-a4e1-bb8a19d5e800.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260459.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260459</CODE>
-    <EAN>8595590738553</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Aroma lampa 9x10 cm s vonným voskem - Šťastné a veselé</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Šťastné a veselé je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Šťastné a veselé je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním vánočním balení potěší každého milovníka útulného domova. Ideální dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260460-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/5c390829-9235-48ed-a4e1-bb8a19d5e800.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260460.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260460</CODE>
-    <EAN>8595590738560</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Aroma lampa 9x10 cm s vonným voskem - Andělské Vánoce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Andělské Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Andělské Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním vánočním balení potěší každého milovníka útulného domova. Ideální dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260461.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/5c390829-9235-48ed-a4e1-bb8a19d5e800.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260461.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260461</CODE>
-    <EAN>8595590738577</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vonné tyčinky v krabičce 20 ks - Andělská vůně</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Vonné tyčinky v krabičce 20 ks – Andělská vůně jsou krásným doplňkem pro vytvoření příjemné a klidné atmosféry domova. Sada 20 vonných tyčinek v dekorativní krabičce s andělským vánočním motivem…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Vonné tyčinky v krabičce 20 ks – Andělská vůně jsou krásným doplňkem pro vytvoření příjemné a klidné atmosféry domova. Sada 20 vonných tyčinek v dekorativní krabičce s andělským vánočním motivem potěší milovníky vůní a relaxace. Ideální jako drobný vánoční dárek nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
@@ -56535,58 +56270,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </IMAGES>
     <CODE>BG-BC260465</CODE>
     <EAN>8595590738614</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční světlo</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční světlo je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční atmosféru. Plastová lucerna o výšce 22 cm s motivem kostelíčku…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční světlo je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční atmosféru. Plastová lucerna o výšce 22 cm s motivem kostelíčku a LED svíčkou na baterie potěší svým nostalgickým vzhledem. Ideální jako vánoční dekorace nebo milý dárek.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/d31b3c5b-c838-493a-9236-ad92fb5efee4.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/plechova-lucerna-s-kostelickem-xx8324040.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-XX8324040-1</CODE>
-    <EAN>8720573637305</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>249.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Bílá lucerna s kostelíčkem a LED svíčkou – kouzlo vanoc</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Kouzlo Vánoc je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční pohodu. Plastová lucerna o výšce 22 cm s motivem kostelíčku a LED…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Kouzlo Vánoc je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční pohodu. Plastová lucerna o výšce 22 cm s motivem kostelíčku a LED svíčkou na baterie zaujme svým nostalgickým vzhledem. Ideální jako vánoční dekorace nebo milý dárek pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/5026eaa3-b730-4644-ba4b-6a5c458fa96f.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/plechova-lucerna-s-kostelickem-xx8324040.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-XX8324040-1-1</CODE>
-    <EAN>8720573637305</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>249.00</PRICE_VAT>
@@ -57196,6 +56879,323 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <VISIBILITY>showRegistered</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční pohoda</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční pohoda je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční atmosféru. Plastová lucerna o výšce 22 cm s motivem kostelíčku…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční pohoda je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční atmosféru. Plastová lucerna o výšce 22 cm s motivem kostelíčku a LED svíčkou na baterie potěší svým nostalgickým vzhledem. Dostupná ve třech variantách.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/f6f394d5-a3f0-45f6-b6b9-74dca86c98e4.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/plechova-lucerna-s-kostelickem-xx8324040.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-XX8324040</CODE>
+    <EAN>8720573637305</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Bublinková koupel - Pro nejlepší kamarádku (koupelová pěna) 490 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Bublinková koupel – Pro nejlepší kamarádku 490 ml. Voňavá koupelová pěna, která promění každou koupel v příjemné chvíle relaxace a pohody.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Bublinková koupel – Pro nejlepší kamarádku 490 ml. Voňavá koupelová pěna, která promění každou koupel v příjemné chvíle relaxace a pohody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/06/BC260215-.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/06/BC260215.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260215</CODE>
+    <EAN>8595590735491</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>129.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Bublinková koupel - Děkuji (koupelová pěna) 490 ml</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Bublinková koupel – Děkuji 490 ml. Voňavá koupelová pěna, která je originálním způsobem, jak vyjádřit poděkování a udělat radost&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Bublinková koupel – Děkuji 490 ml. Voňavá koupelová pěna, která je originálním způsobem, jak vyjádřit poděkování a udělat radost&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/06/BC260216-.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/06/BC260216.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260216</CODE>
+    <EAN>8595590735507</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>129.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Keramická vonná svíčka 200 g - Nejlepší kolegyně</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Keramická vonná svíčka 200 g – Nejlepší kolegyně . Milý a voňavý dárek v elegantní keramické nádobě, kterým potěšíte skvělou kolegyni a poděkujete jí za společné pracovní chvíle.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p class="PDq2pG_selectionAnchorContainer" data-start="24" data-end="207"&gt;Keramická vonná svíčka 200 g – &lt;strong data-start="55" data-end="76"&gt;Nejlepší kolegyně&lt;/strong&gt;. Milý a voňavý dárek v elegantní keramické nádobě, kterým potěšíte skvělou kolegyni a poděkujete jí za společné pracovní chvíle.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BFA0C24C-2CE0-44DE-A9AD-F6E6680B3E63.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/4D80AB4A-D2E5-4774-84B2-395FFD5F16B4.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260332</CODE>
+    <EAN>8595590737259</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>299.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Sůl do koupele 690 g ve skle - levandule</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sůl do koupele 690 g ve skle – Levandule . Voňavá koupelová sůl s příjemnou levandulovou vůní pro chvíle relaxace a domácí pohody. Elegantní skleněné balení z ní dělá také krásný dárek.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>Sůl do koupele 690 g ve skle – &lt;strong data-start="55" data-end="68"&gt;Levandule&lt;/strong&gt;. Voňavá koupelová sůl s příjemnou levandulovou vůní pro chvíle relaxace a domácí pohody. Elegantní skleněné balení z ní dělá také krásný dárek.</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260290.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/08/BC260290-.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260290</CODE>
+    <EAN>8595590736832</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - pro babičku</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům nebo jednoduše jako poděkování za její lásku a péči.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260360</CODE>
+    <EAN>8595590737563</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Aroma lampa 9x10 cm s vonným voskem - Krásné Vánoce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Krásné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční atmosféru. Keramická aroma lampa v jemném béžovém provedení s…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Krásné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční atmosféru. Keramická aroma lampa v jemném béžovém provedení s drobnými tečkami je doplněna vonnými vosky a dekorativním vánočním obalem. Ideální dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260458-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/5c390829-9235-48ed-a4e1-bb8a19d5e800.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260458.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260458</CODE>
+    <EAN>8595590738546</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Aroma lampa 9x10 cm s vonným voskem - Provoněné Vánoce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Provoněné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Provoněné Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním vánočním balení potěší každého milovníka útulného domova. Ideální dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260459.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/5c390829-9235-48ed-a4e1-bb8a19d5e800.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260459.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260459</CODE>
+    <EAN>8595590738553</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Aroma lampa 9x10 cm s vonným voskem - Šťastné a veselé</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Šťastné a veselé je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Šťastné a veselé je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním vánočním balení potěší každého milovníka útulného domova. Ideální dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260460-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/5c390829-9235-48ed-a4e1-bb8a19d5e800.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260460.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260460</CODE>
+    <EAN>8595590738560</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Aroma lampa 9x10 cm s vonným voskem - Andělské Vánoce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Andělské Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Aroma lampa 9 × 10 cm s vonným voskem – Andělské Vánoce je krásným vánočním dárkem, který vnese do domova příjemnou vůni a sváteční pohodu. Keramická aroma lampa s vonnými vosky v dekorativním vánočním balení potěší každého milovníka útulného domova. Ideální dárek pod stromeček nebo milá pozornost pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260461.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/5c390829-9235-48ed-a4e1-bb8a19d5e800.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260461.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260461</CODE>
+    <EAN>8595590738577</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční světlo</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční světlo je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční atmosféru. Plastová lucerna o výšce 22 cm s motivem kostelíčku…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Vánoční světlo je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční atmosféru. Plastová lucerna o výšce 22 cm s motivem kostelíčku a LED svíčkou na baterie potěší svým nostalgickým vzhledem. Ideální jako vánoční dekorace nebo milý dárek.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/d31b3c5b-c838-493a-9236-ad92fb5efee4.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/plechova-lucerna-s-kostelickem-xx8324040.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-XX8324040-1</CODE>
+    <EAN>8720573637305</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Bílá lucerna s kostelíčkem a LED svíčkou – kouzlo vanoc</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Kouzlo Vánoc je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční pohodu. Plastová lucerna o výšce 22 cm s motivem kostelíčku a LED…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Bílá lucerna s kostelíčkem a LED svíčkou – Kouzlo Vánoc je krásnou vánoční dekorací, která vnese do domova příjemné světlo a sváteční pohodu. Plastová lucerna o výšce 22 cm s motivem kostelíčku a LED svíčkou na baterie zaujme svým nostalgickým vzhledem. Ideální jako vánoční dekorace nebo milý dárek pro vaše blízké.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/5026eaa3-b730-4644-ba4b-6a5c458fa96f.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2023/09/plechova-lucerna-s-kostelickem-xx8324040.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-XX8324040-1-1</CODE>
+    <EAN>8720573637305</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>249.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
