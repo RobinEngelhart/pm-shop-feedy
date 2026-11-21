@@ -25993,9 +25993,9 @@ Díky vysoce koncentrované vůni a dřevěnému difuzéru je vůně stále a op
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>95.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
+    <VISIBILITY>hidden</VISIBILITY>
     <STOCK>
-      <AMOUNT>5</AMOUNT>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
