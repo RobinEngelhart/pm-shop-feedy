@@ -1,13 +1,13 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2274
-Produktů ve výstupu: 2109 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2109, cena z koeficientu: 0
+Položek ve feedu dodavatele: 2272
+Produktů ve výstupu: 2106 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2106, cena z koeficientu: 0
 Zboží jen pro dospělé (18+): 192
-Viditelnost v e-shopu: {'visible': 1917, 'showRegistered': 192}
+Viditelnost v e-shopu: {'visible': 1914, 'showRegistered': 192}
 Ruční ceny z ceny-rucne.csv: 0
-Zmizelo z feedu dodavatele – ponecháno se skladem 0: 125, vypuštěno po lhůtě: 0
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 128, vypuštěno po lhůtě: 0
 
-Vyřazené položky (165):
+Vyřazené položky (166):
   - BC220247 Dětské body s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
   - BC220248 Tričko s vlastním potiskem - klasický střih – personalizovaný produkt (nutné zadání od zákazníka)
   - BC220249 Dámské bílé tričko s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
@@ -154,6 +154,7 @@ Vyřazené položky (165):
   - BC210213-1-1-1-3-1-1-2-1 Pánské tričko - Idiot – oblečení – feed neobsahuje velikosti
   - DH8057420 – chybí prodejní cena
   - HZ1992030 – chybí prodejní cena
+  - HZ1992660 – chybí prodejní cena
   - BC610062 Pivrncovo dámské tričko s potiskem – univerzální žena – oblečení – feed neobsahuje velikosti
   - BC610051 Pivrnec tričko s potiskem – počítačový závislák – oblečení – feed neobsahuje velikosti
   - BC610063 Pivrnec dámské tričko s potiskem – tlumič vášně – oblečení – feed neobsahuje velikosti
