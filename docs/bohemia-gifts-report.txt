@@ -1,11 +1,11 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2272
-Produktů ve výstupu: 2106 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2106, cena z koeficientu: 0
+Položek ve feedu dodavatele: 2263
+Produktů ve výstupu: 2097 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2097, cena z koeficientu: 0
 Zboží jen pro dospělé (18+): 192
-Viditelnost v e-shopu: {'visible': 1914, 'showRegistered': 192}
+Viditelnost v e-shopu: {'visible': 1905, 'showRegistered': 192}
 Ruční ceny z ceny-rucne.csv: 0
-Zmizelo z feedu dodavatele – ponecháno se skladem 0: 128, vypuštěno po lhůtě: 0
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 137, vypuštěno po lhůtě: 0
 
 Vyřazené položky (166):
   - BC220247 Dětské body s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
