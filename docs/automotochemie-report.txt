@@ -1,13 +1,13 @@
 Dodavatel: Automotochemie (Drive)
-Položek ve feedu dodavatele: 1158
-Produktů ve výstupu: 876 (z toho bez skladu: 158)
-Cena z doporučené/prodejní ceny dodavatele: 0, cena z koeficientu: 876
+Položek ve feedu dodavatele: 1165
+Produktů ve výstupu: 884 (z toho bez skladu: 158)
+Cena z doporučené/prodejní ceny dodavatele: 0, cena z koeficientu: 884
 Zboží jen pro dospělé (18+): 0
-Viditelnost v e-shopu: {'visible': 718, 'hidden': 158}
+Viditelnost v e-shopu: {'visible': 726, 'hidden': 158}
 Ruční ceny z ceny-rucne.csv: 0
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 0, vypuštěno po lhůtě: 0
 
-Vyřazené položky (282):
+Vyřazené položky (281):
   - CS10P Přísada pro utěsnění chladící soustavy - kapalina (355 ml) – nákupní cena je 0 nebo chybí
   - 21304 Těsnící přísada do posilovače řízení (355 ml) – nákupní cena je 0 nebo chybí
   - 15209 Kompletní ošetření palivové soustavy diesel na 132 litrů phm (355 ml) – nákupní cena je 0 nebo chybí
@@ -65,7 +65,6 @@ Vyřazené položky (282):
   - Novinka6 Novinka6 – chybí název (jen kód)
   - C35 C35 – chybí název (jen kód)
   - C3322 C3322 – chybí název (jen kód)
-  - C1412 C1412 – chybí název (jen kód)
   - BF4 BF4 – chybí název (jen kód)
   - 25050 25050 – chybí název (jen kód)
   - 24250 24250 – chybí název (jen kód)
