@@ -1,9 +1,9 @@
 Dodavatel: Automotochemie (Drive)
-Položek ve feedu dodavatele: 1165
-Produktů ve výstupu: 884 (z toho bez skladu: 158)
-Cena z doporučené/prodejní ceny dodavatele: 0, cena z koeficientu: 884
+Položek ve feedu dodavatele: 1166
+Produktů ve výstupu: 885 (z toho bez skladu: 158)
+Cena z doporučené/prodejní ceny dodavatele: 0, cena z koeficientu: 885
 Zboží jen pro dospělé (18+): 0
-Viditelnost v e-shopu: {'visible': 726, 'hidden': 158}
+Viditelnost v e-shopu: {'visible': 727, 'hidden': 158}
 Ruční ceny z ceny-rucne.csv: 0
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 0, vypuštěno po lhůtě: 0
 

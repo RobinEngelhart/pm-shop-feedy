@@ -64597,4 +64597,36 @@ Sada&amp;nbsp;2 kusů&amp;nbsp; je vhodná&amp;nbsp;pro obě sedadla.&lt;/p&gt;<
       <AMOUNT>5</AMOUNT>
     </STOCK>
   </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Návlek na řadící páku - Compass 31238</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Univerzální návlek na řadící páku&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Univerzální návlek na řadící páku.&lt;/p&gt;
+
+&lt;p&gt;Návlek nasaďte na řadící páku širším otvorem směrem dolů. Spodní část přichyťte pomocí všité gumičky k panelu řazení. Horní část pod hlavicí řadící páky upevněte pomocí suchého zipu a stáhněte šňůrkou. Návlek tak lze přizpůsobit většině tvarů a konstrukcí řazení u osobních automobilů.&lt;/p&gt;
+
+&lt;p&gt;Upozornění:&lt;/p&gt;
+
+&lt;p&gt;Návlek nesmí omezovat pohyb řadící páky!&lt;/p&gt;</DESCRIPTION>
+    <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Auto-moto &gt; Autodoplňky</CATEGORY>
+      <DEFAULT_CATEGORY>Auto-moto &gt; Autodoplňky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/31238.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/31238_a.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/31238_b.jpg</IMAGE>
+    </IMAGES>
+    <CODE>AC-31238</CODE>
+    <EAN>8591686312386</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>182.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
 </SHOP>
