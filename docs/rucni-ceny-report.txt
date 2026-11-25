@@ -1,6 +1,6 @@
 Ruční ceny – hlídání změn v e-shopu
 
-Poslední kontrola: 24. 11. 2026 23:52 UTC – OK – načteno 3508 cen z e-shopu
+Poslední kontrola: 25. 11. 2026 08:28 UTC – OK – načteno 3516 cen z e-shopu
 
 Nově zamčeno v posledním běhu (0):
 
