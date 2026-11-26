@@ -61189,6 +61189,37 @@ Před použitím spray řádně protřepte. Látku nanášejte z větší vzdál
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
+    <NAME>Vosk na pneumatiky a plasty (283 g)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Dlouhotrvající sytě černý lesk a ochrana pneumatik, nárazníků i plastových lišt&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Špičkový výrobek nové generace s&amp;nbsp;obsahem silikonových polymerů. Lehce roztíratelný vosk navrací brilantní černý lesk pneumatikám, dokonale regeneruje také vybledlé černé plastové a gumové nárazníky, lemy a lišty a poskytuje jim dlouhotrvající ochranu před UV zářením a vlivy počasí. Odpuzuje vodu, chrání před vysycháním, zpuchřením a rozpraskáním materiálů.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Použití:&lt;/strong&gt; &amp;nbsp;Praktické provedení a nestékavý obsah přípravku umožňují přesné nanášení na požadované místo. Povrch důkladně očistěte, ideálně přípravkem Formula 1 Wheel + Tire Cleaner, a nechte zcela oschnout. K&amp;nbsp;aplikaci vosku použijte pěnovou houbičku, která se nachází pod víčkem. Nanášejte v rovnoměrné&amp;nbsp;tenké vrstvě a nechte minimálně 2 minuty působit. Pro dokonalý výsledek můžete měkkou čistou utěrkou povrch lehce rozleštit.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Formula 1</MANUFACTURER>
+    <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Auto-moto &gt; Autokosmetika &gt; Vosky a leštěnky</CATEGORY>
+      <DEFAULT_CATEGORY>Auto-moto &gt; Autokosmetika &gt; Vosky a leštěnky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248_b.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248_c.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248_d.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248_new.jpg</IMAGE>
+    </IMAGES>
+    <CODE>AC-615248</CODE>
+    <EAN>071099152482</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>521.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
     <NAME>Ochrana a lesk na pneumatiky (680 ml) - SLEVA</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;SLEVA - POŠKOZENÝ OBAL&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;&lt;strong&gt;POZOR: výrobek má poškozenou&amp;nbsp;přední etiketu!&lt;/strong&gt;&lt;/p&gt;

@@ -1,13 +1,13 @@
 Dodavatel: Automotochemie (Drive)
 Položek ve feedu dodavatele: 1166
-Produktů ve výstupu: 885 (z toho bez skladu: 158)
-Cena z doporučené/prodejní ceny dodavatele: 0, cena z koeficientu: 885
+Produktů ve výstupu: 886 (z toho bez skladu: 158)
+Cena z doporučené/prodejní ceny dodavatele: 0, cena z koeficientu: 886
 Zboží jen pro dospělé (18+): 0
-Viditelnost v e-shopu: {'visible': 727, 'hidden': 158}
+Viditelnost v e-shopu: {'visible': 728, 'hidden': 158}
 Ruční ceny z ceny-rucne.csv: 0
 Zmizelo z feedu dodavatele – ponecháno se skladem 0: 0, vypuštěno po lhůtě: 0
 
-Vyřazené položky (281):
+Vyřazené položky (280):
   - CS10P Přísada pro utěsnění chladící soustavy - kapalina (355 ml) – nákupní cena je 0 nebo chybí
   - 21304 Těsnící přísada do posilovače řízení (355 ml) – nákupní cena je 0 nebo chybí
   - 15209 Kompletní ošetření palivové soustavy diesel na 132 litrů phm (355 ml) – nákupní cena je 0 nebo chybí
@@ -232,7 +232,6 @@ Vyřazené položky (281):
   - 80014 PX Red Cut Gasket Coating - NEW N040 – nákupní cena je 0 nebo chybí
   - 80016 PX Form Gasket Sealant - NEW N041 – nákupní cena je 0 nebo chybí
   - 85420 PX PS Gasket Dressing - NEW N042 – nákupní cena je 0 nebo chybí
-  - 615248 Tire Wax - NEW N043 – nákupní cena je 0 nebo chybí
   - N044 N044 – chybí název (jen kód)
   - N045 N045 – chybí název (jen kód)
   - N046 N046 – chybí název (jen kód)
