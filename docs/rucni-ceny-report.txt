@@ -1,6 +1,6 @@
 Ruční ceny – hlídání změn v e-shopu
 
-Poslední kontrola: 26. 11. 2026 19:13 UTC – CHYBA – ceny z e-shopu se nepodařilo stáhnout (HTTPError)
+Poslední kontrola: 27. 11. 2026 01:43 UTC – OK – načteno 3519 cen z e-shopu
 
 Nově zamčeno v posledním běhu (0):
 
