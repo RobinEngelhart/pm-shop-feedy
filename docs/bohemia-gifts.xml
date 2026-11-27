@@ -677,33 +677,6 @@
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Tuhý šampon v plechovém obalu 80 g - gentleman</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Tuhý šampon ve stylové plechovce pro pravé gentlemany.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Tuhý šampon ve stylové plechovce pro pravé gentlemany.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC220145-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/09/BC220145_tuhy_sampon.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/09/BC220145_tuhy_sampon_B.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC220145</CODE>
-    <EAN>8595590773066</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Tuhý šampon v plechovém obalu 80 g - levandule</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tuhý šampon na všechny druhy vlasů v krásné plechové krabičce.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Tuhý šampon na všechny druhy vlasů v krásné plechové krabičce.&lt;/p&gt;</DESCRIPTION>
@@ -18963,33 +18936,6 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </IMAGES>
     <CODE>BG-BC190238</CODE>
     <EAN>8595590787254</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>49.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Kameninový podtácek 10x10cm - pro pivaře</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Kameninový podtácek pod skleničku nebo půllitr s pivem s nápisem Dobří lidé pijí dobré pivo. Břidlicová podložka pod hrnek, která ochrání stůl před zašpiněním a poškrábáním. Drobný dárek pro pivaře.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Kameninový podtácek pod skleničku nebo půllitr s pivem s nápisem Dobří lidé pijí dobré pivo. Břidlicová podložka pod hrnek, která ochrání stůl před zašpiněním a poškrábáním. Drobný dárek pro pivaře.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC190259-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190259-podtacek-pivo.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/BC190259_K_W.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC190259</CODE>
-    <EAN>8595590787414</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>49.00</PRICE_VAT>
@@ -42324,36 +42270,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Dřevěný dárkový box s dekou pro maminku</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný tulipán a patchwork ve tvaru srdce. Ideální dárek plný radosti a pohody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/da2e3f6b-bf6a-4be8-a1bd-681d640960d7.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_A_LQ.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_B_LQ.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_C_LQ.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250088</CODE>
-    <EAN>8595590730915</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>2599.00</PRICE_VAT>
-    <VISIBILITY>showRegistered</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dárkový plechový box s čajem</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Praktický dárkový plechový box s čajem obsahuje sadu sáčkových čajů „pyramida“, keramický hrnek, kameninový podtácek a sítko na čaj. Perfektní dárek pro milovníky čaje.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Praktický dárkový plechový box s čajem obsahuje sadu sáčkových čajů „pyramida“, keramický hrnek, kameninový podtácek a sítko na čaj. Perfektní dárek pro milovníky čaje.&lt;/p&gt;</DESCRIPTION>
@@ -43135,32 +43051,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
     <PRICE_VAT>119.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Osvěžovač vzduchu 170 g - Kouzlo domova</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Kouzlo domova v každém kousku: Vytvořte si útulnou atmosféru s naším aroma difuzérem. Uvolněte příjemnou vůni, která promění váš domov.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;b&gt;Kouzlo domova v každém kousku:&lt;/b&gt; Vytvořte si útulnou atmosféru s naším aroma difuzérem. Uvolněte příjemnou vůni, která promění váš domov.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250079-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250079_1000x1000.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250079</CODE>
-    <EAN>8595590730823</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>89.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -44577,33 +44467,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vánoční schránka s makronkami (4 ks) - paní učitelce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka s nápisem „Paní učitelce“ skrývá 4 makronky s příchutěmi vanilka, matcha, lemon a jahoda. Sladký a milý dárek pro paní učitelku a originální vánoční ozdoba na stromeček.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka s nápisem „Paní učitelce“ skrývá 4 makronky s příchutěmi vanilka, matcha, lemon a jahoda. Sladký a milý dárek pro paní učitelku a originální vánoční ozdoba na stromeček.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/2bfa143a-340f-420a-b972-9735f235192f.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250134_.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/makronky-2.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250134</CODE>
-    <EAN>8595590731646</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vánoční plechový box s čokoládovými bonbony "šapitó"</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Stylový vánoční plechový box s motivem šapitó ukrývá výběr lahodných čokoládových bonbonů. Krásný dárek v originálním balení, které potěší děti i dospělé během svátků.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Stylový vánoční plechový box s motivem šapitó ukrývá výběr lahodných čokoládových bonbonů. Krásný dárek v originálním balení, které potěší děti i dospělé během svátků.&lt;/p&gt;</DESCRIPTION>
@@ -44922,33 +44785,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
     <PRICE_VAT>299.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Hrnek Santův dům s horkou čokoládkou, cukrátkem a marshmallows</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sada „Santův dům“ zahrnuje hrnek s motivem vánoční chaloupky, horkou čokoládu, marshmallows a cukrovou hůlku. Perfektní dárek pro teplé a sladké chvíle během svátků.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sada „Santův dům“ zahrnuje hrnek s motivem vánoční chaloupky, horkou čokoládu, marshmallows a cukrovou hůlku. Perfektní dárek pro teplé a sladké chvíle během svátků.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Becky´s</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/880046-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/santa_hrnek_svetylka.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/santa_hrnek_3.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-880046</CODE>
-    <EAN>8713305817892</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>229.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -54579,33 +54415,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - pro babičku</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům nebo jednoduše jako poděkování za její lásku a péči.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260360</CODE>
-    <EAN>8595590737563</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vonná svíčka v porcelánu - pro maminku</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro maminku je elegantní a voňavý dárek, který spojuje krásu porcelánové nádobky s příjemnou atmosférou hořící svíčky. Milá pozornost pro maminku k narozeninám, svátku, Dni…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro maminku je elegantní a voňavý dárek, který spojuje krásu porcelánové nádobky s příjemnou atmosférou hořící svíčky. Milá pozornost pro maminku k narozeninám, svátku, Dni matek, Vánocům nebo jednoduše jako poděkování za její lásku a péči.&lt;/p&gt;</DESCRIPTION>
@@ -54624,114 +54433,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </IMAGES>
     <CODE>BG-BC260361</CODE>
     <EAN>8595590737570</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - Anděl štěstí</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Anděl štěstí je elegantní a voňavý dárek s krásným symbolickým motivem anděla, který představuje štěstí, ochranu a pozitivní energii. Spojení jemného světla svíčky a…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Anděl štěstí je elegantní a voňavý dárek s krásným symbolickým motivem anděla, který představuje štěstí, ochranu a pozitivní energii. Spojení jemného světla svíčky a porcelánové nádobky vytváří příjemnou atmosféru domova. Originální dárek pro vaše blízké k narozeninám, svátku, Vánocům nebo jednoduše jako milé přání štěstí.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260362-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260362.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260362</CODE>
-    <EAN>8595590737587</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - veselé Vánoce (klučina zdobí stromeček)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka a příjemné světlo svíčky pomohou vytvořit kouzelnou atmosféru tradičních Vánoc. Milá pozornost pro rodinu, přátele i všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260363</CODE>
-    <EAN>8595590737594</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - Štastné a Veselé</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Šťastné a veselé je elegantní vánoční svíčka v krásné porcelánové nádobce se svátečním motivem. Spojuje příjemnou vůni, jemné světlo plamínku a kouzlo tradičních Vánoc.…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Šťastné a veselé je elegantní vánoční svíčka v krásné porcelánové nádobce se svátečním motivem. Spojuje příjemnou vůni, jemné světlo plamínku a kouzlo tradičních Vánoc. Krásná vánoční dekorace i originální voňavý dárek pro rodinu, přátele a všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260364-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260364.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260364</CODE>
-    <EAN>8595590737600</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - krásné Vánoce (holčička s prskavkou)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla plamínku a krásné porcelánové nádobky pomůže vytvořit útulnou sváteční atmosféru. Originální vánoční dárek pro rodinu, přátele i milovníky tradičních Vánoc.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260365</CODE>
-    <EAN>8595590737617</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>199.00</PRICE_VAT>
@@ -56473,6 +56174,305 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <VISIBILITY>showRegistered</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Tuhý šampon v plechovém obalu 80 g - gentleman</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Tuhý šampon ve stylové plechovce pro pravé gentlemany.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Tuhý šampon ve stylové plechovce pro pravé gentlemany.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC220145-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/09/BC220145_tuhy_sampon.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/09/BC220145_tuhy_sampon_B.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC220145</CODE>
+    <EAN>8595590773066</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kameninový podtácek 10x10cm - pro pivaře</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Kameninový podtácek pod skleničku nebo půllitr s pivem s nápisem Dobří lidé pijí dobré pivo. Břidlicová podložka pod hrnek, která ochrání stůl před zašpiněním a poškrábáním. Drobný dárek pro pivaře.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Kameninový podtácek pod skleničku nebo půllitr s pivem s nápisem Dobří lidé pijí dobré pivo. Břidlicová podložka pod hrnek, která ochrání stůl před zašpiněním a poškrábáním. Drobný dárek pro pivaře.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC190259-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190259-podtacek-pivo.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/BC190259_K_W.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC190259</CODE>
+    <EAN>8595590787414</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>49.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dřevěný dárkový box s dekou pro maminku</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný tulipán a patchwork ve tvaru srdce. Ideální dárek plný radosti a pohody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/da2e3f6b-bf6a-4be8-a1bd-681d640960d7.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_A_LQ.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_B_LQ.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_C_LQ.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250088</CODE>
+    <EAN>8595590730915</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>2599.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Osvěžovač vzduchu 170 g - Kouzlo domova</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Kouzlo domova v každém kousku: Vytvořte si útulnou atmosféru s naším aroma difuzérem. Uvolněte příjemnou vůni, která promění váš domov.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;b&gt;Kouzlo domova v každém kousku:&lt;/b&gt; Vytvořte si útulnou atmosféru s naším aroma difuzérem. Uvolněte příjemnou vůni, která promění váš domov.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250079-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250079_1000x1000.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250079</CODE>
+    <EAN>8595590730823</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>89.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční schránka s makronkami (4 ks) - paní učitelce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka s nápisem „Paní učitelce“ skrývá 4 makronky s příchutěmi vanilka, matcha, lemon a jahoda. Sladký a milý dárek pro paní učitelku a originální vánoční ozdoba na stromeček.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka s nápisem „Paní učitelce“ skrývá 4 makronky s příchutěmi vanilka, matcha, lemon a jahoda. Sladký a milý dárek pro paní učitelku a originální vánoční ozdoba na stromeček.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/2bfa143a-340f-420a-b972-9735f235192f.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250134_.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/makronky-2.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250134</CODE>
+    <EAN>8595590731646</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hrnek Santův dům s horkou čokoládkou, cukrátkem a marshmallows</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sada „Santův dům“ zahrnuje hrnek s motivem vánoční chaloupky, horkou čokoládu, marshmallows a cukrovou hůlku. Perfektní dárek pro teplé a sladké chvíle během svátků.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Sada „Santův dům“ zahrnuje hrnek s motivem vánoční chaloupky, horkou čokoládu, marshmallows a cukrovou hůlku. Perfektní dárek pro teplé a sladké chvíle během svátků.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Becky´s</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/880046-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/santa_hrnek_svetylka.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/santa_hrnek_3.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-880046</CODE>
+    <EAN>8713305817892</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>229.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - pro babičku</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům nebo jednoduše jako poděkování za její lásku a péči.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260360</CODE>
+    <EAN>8595590737563</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - Anděl štěstí</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Anděl štěstí je elegantní a voňavý dárek s krásným symbolickým motivem anděla, který představuje štěstí, ochranu a pozitivní energii. Spojení jemného světla svíčky a…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Anděl štěstí je elegantní a voňavý dárek s krásným symbolickým motivem anděla, který představuje štěstí, ochranu a pozitivní energii. Spojení jemného světla svíčky a porcelánové nádobky vytváří příjemnou atmosféru domova. Originální dárek pro vaše blízké k narozeninám, svátku, Vánocům nebo jednoduše jako milé přání štěstí.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260362-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260362.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260362</CODE>
+    <EAN>8595590737587</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - veselé Vánoce (klučina zdobí stromeček)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka a příjemné světlo svíčky pomohou vytvořit kouzelnou atmosféru tradičních Vánoc. Milá pozornost pro rodinu, přátele i všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260363</CODE>
+    <EAN>8595590737594</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - Štastné a Veselé</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Šťastné a veselé je elegantní vánoční svíčka v krásné porcelánové nádobce se svátečním motivem. Spojuje příjemnou vůni, jemné světlo plamínku a kouzlo tradičních Vánoc.…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Šťastné a veselé je elegantní vánoční svíčka v krásné porcelánové nádobce se svátečním motivem. Spojuje příjemnou vůni, jemné světlo plamínku a kouzlo tradičních Vánoc. Krásná vánoční dekorace i originální voňavý dárek pro rodinu, přátele a všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260364-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260364.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260364</CODE>
+    <EAN>8595590737600</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - krásné Vánoce (holčička s prskavkou)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla plamínku a krásné porcelánové nádobky pomůže vytvořit útulnou sváteční atmosféru. Originální vánoční dárek pro rodinu, přátele i milovníky tradičních Vánoc.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260365</CODE>
+    <EAN>8595590737617</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>

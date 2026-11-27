@@ -1,11 +1,11 @@
 Dodavatel: Bohemia Gifts
-Položek ve feedu dodavatele: 2265
-Produktů ve výstupu: 2100 (z toho bez skladu: 0)
-Cena z doporučené/prodejní ceny dodavatele: 2100, cena z koeficientu: 0
-Zboží jen pro dospělé (18+): 192
-Viditelnost v e-shopu: {'visible': 1908, 'showRegistered': 192}
+Položek ve feedu dodavatele: 2254
+Produktů ve výstupu: 2089 (z toho bez skladu: 0)
+Cena z doporučené/prodejní ceny dodavatele: 2089, cena z koeficientu: 0
+Zboží jen pro dospělé (18+): 191
+Viditelnost v e-shopu: {'visible': 1898, 'showRegistered': 191}
 Ruční ceny z ceny-rucne.csv: 0
-Zmizelo z feedu dodavatele – ponecháno se skladem 0: 134, vypuštěno po lhůtě: 0
+Zmizelo z feedu dodavatele – ponecháno se skladem 0: 145, vypuštěno po lhůtě: 0
 
 Vyřazené položky (165):
   - BC220247 Dětské body s vlastním potiskem – personalizovaný produkt (nutné zadání od zákazníka)
@@ -174,7 +174,7 @@ Vyřazené položky (165):
   - BC210002 Pánské tričko s potiskem - Hory volají – oblečení – feed neobsahuje velikosti
   - BC850006 Zlatá medovina pro babičku 100 ml – medovina s 15 % a více alkoholu – možná lihovina (koncese/kolky), do vyjasnění vyřazeno
 
-Označeno jako 18+ (192) – zkontrolujte:
+Označeno jako 18+ (191) – zkontrolujte:
   - BC006223 Dárkové bílé víno pro tatínka 0,75 l - Chardonnay
   - BC006224 Dárkové červené víno mamince 0,75 l - Merlot
   - BC006225 Dárkové červené víno pro babičku 0,75 l - Merlot
@@ -285,7 +285,6 @@ Označeno jako 18+ (192) – zkontrolujte:
   - BC230090 Pivní dárková sada pro rybáře s otvírákem, pivem a koupelovou pěnou
   - BC250083 Dřevěná dárková bedna pro vinaře
   - BC250085 Dřevěná dárková bedna pro vinařku
-  - BC250088 Dřevěný dárkový box s dekou pro maminku
   - BC250100 Dřevěná dárková bedna z lásky s prosecco
   - BC250199 Dárkové bílé víno 0,75 l – Chardonnay – Recept
   - BC250201 Dárkové bílé víno 0,75 l Chardonnay – Antidebilicum

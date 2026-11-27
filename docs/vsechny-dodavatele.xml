@@ -7277,33 +7277,6 @@
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Tuhý šampon v plechovém obalu 80 g - gentleman</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Tuhý šampon ve stylové plechovce pro pravé gentlemany.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Tuhý šampon ve stylové plechovce pro pravé gentlemany.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC220145-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/09/BC220145_tuhy_sampon.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/09/BC220145_tuhy_sampon_B.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC220145</CODE>
-    <EAN>8595590773066</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Tuhý šampon v plechovém obalu 80 g - levandule</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Tuhý šampon na všechny druhy vlasů v krásné plechové krabičce.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Tuhý šampon na všechny druhy vlasů v krásné plechové krabičce.&lt;/p&gt;</DESCRIPTION>
@@ -25563,33 +25536,6 @@ Kosmetika obsahuje parfém pačule - je to vůně s výraznými zemitými, dřev
     </IMAGES>
     <CODE>BG-BC190238</CODE>
     <EAN>8595590787254</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>49.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Kameninový podtácek 10x10cm - pro pivaře</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Kameninový podtácek pod skleničku nebo půllitr s pivem s nápisem Dobří lidé pijí dobré pivo. Břidlicová podložka pod hrnek, která ochrání stůl před zašpiněním a poškrábáním. Drobný dárek pro pivaře.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Kameninový podtácek pod skleničku nebo půllitr s pivem s nápisem Dobří lidé pijí dobré pivo. Břidlicová podložka pod hrnek, která ochrání stůl před zašpiněním a poškrábáním. Drobný dárek pro pivaře.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC190259-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190259-podtacek-pivo.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/BC190259_K_W.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC190259</CODE>
-    <EAN>8595590787414</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>49.00</PRICE_VAT>
@@ -48924,36 +48870,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Dřevěný dárkový box s dekou pro maminku</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný tulipán a patchwork ve tvaru srdce. Ideální dárek plný radosti a pohody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ADULT>1</ADULT>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
-      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/da2e3f6b-bf6a-4be8-a1bd-681d640960d7.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_A_LQ.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_B_LQ.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_C_LQ.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250088</CODE>
-    <EAN>8595590730915</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>2599.00</PRICE_VAT>
-    <VISIBILITY>showRegistered</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Dárkový plechový box s čajem</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Praktický dárkový plechový box s čajem obsahuje sadu sáčkových čajů „pyramida“, keramický hrnek, kameninový podtácek a sítko na čaj. Perfektní dárek pro milovníky čaje.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Praktický dárkový plechový box s čajem obsahuje sadu sáčkových čajů „pyramida“, keramický hrnek, kameninový podtácek a sítko na čaj. Perfektní dárek pro milovníky čaje.&lt;/p&gt;</DESCRIPTION>
@@ -49735,32 +49651,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
     <PRICE_VAT>119.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Osvěžovač vzduchu 170 g - Kouzlo domova</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Kouzlo domova v každém kousku: Vytvořte si útulnou atmosféru s naším aroma difuzérem. Uvolněte příjemnou vůni, která promění váš domov.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;&lt;b&gt;Kouzlo domova v každém kousku:&lt;/b&gt; Vytvořte si útulnou atmosféru s naším aroma difuzérem. Uvolněte příjemnou vůni, která promění váš domov.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250079-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250079_1000x1000.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250079</CODE>
-    <EAN>8595590730823</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>89.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -51177,33 +51067,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vánoční schránka s makronkami (4 ks) - paní učitelce</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka s nápisem „Paní učitelce“ skrývá 4 makronky s příchutěmi vanilka, matcha, lemon a jahoda. Sladký a milý dárek pro paní učitelku a originální vánoční ozdoba na stromeček.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka s nápisem „Paní učitelce“ skrývá 4 makronky s příchutěmi vanilka, matcha, lemon a jahoda. Sladký a milý dárek pro paní učitelku a originální vánoční ozdoba na stromeček.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/2bfa143a-340f-420a-b972-9735f235192f.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250134_.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/makronky-2.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC250134</CODE>
-    <EAN>8595590731646</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>99.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vánoční plechový box s čokoládovými bonbony "šapitó"</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Stylový vánoční plechový box s motivem šapitó ukrývá výběr lahodných čokoládových bonbonů. Krásný dárek v originálním balení, které potěší děti i dospělé během svátků.&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Stylový vánoční plechový box s motivem šapitó ukrývá výběr lahodných čokoládových bonbonů. Krásný dárek v originálním balení, které potěší děti i dospělé během svátků.&lt;/p&gt;</DESCRIPTION>
@@ -51522,33 +51385,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <CURRENCY>CZK</CURRENCY>
     <VAT>12.00</VAT>
     <PRICE_VAT>299.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Hrnek Santův dům s horkou čokoládkou, cukrátkem a marshmallows</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Sada „Santův dům“ zahrnuje hrnek s motivem vánoční chaloupky, horkou čokoládu, marshmallows a cukrovou hůlku. Perfektní dárek pro teplé a sladké chvíle během svátků.&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Sada „Santův dům“ zahrnuje hrnek s motivem vánoční chaloupky, horkou čokoládu, marshmallows a cukrovou hůlku. Perfektní dárek pro teplé a sladké chvíle během svátků.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Becky´s</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/880046-vanoce-interier-1000x1000-1.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/santa_hrnek_svetylka.jpg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/santa_hrnek_3.jpg</IMAGE>
-    </IMAGES>
-    <CODE>BG-880046</CODE>
-    <EAN>8713305817892</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>12.00</VAT>
-    <PRICE_VAT>229.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
@@ -61179,33 +61015,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - pro babičku</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům nebo jednoduše jako poděkování za její lásku a péči.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260360</CODE>
-    <EAN>8595590737563</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
     <NAME>Vonná svíčka v porcelánu - pro maminku</NAME>
     <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro maminku je elegantní a voňavý dárek, který spojuje krásu porcelánové nádobky s příjemnou atmosférou hořící svíčky. Milá pozornost pro maminku k narozeninám, svátku, Dni…&lt;/p&gt;</SHORT_DESCRIPTION>
     <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro maminku je elegantní a voňavý dárek, který spojuje krásu porcelánové nádobky s příjemnou atmosférou hořící svíčky. Milá pozornost pro maminku k narozeninám, svátku, Dni matek, Vánocům nebo jednoduše jako poděkování za její lásku a péči.&lt;/p&gt;</DESCRIPTION>
@@ -61224,114 +61033,6 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     </IMAGES>
     <CODE>BG-BC260361</CODE>
     <EAN>8595590737570</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - Anděl štěstí</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Anděl štěstí je elegantní a voňavý dárek s krásným symbolickým motivem anděla, který představuje štěstí, ochranu a pozitivní energii. Spojení jemného světla svíčky a…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Anděl štěstí je elegantní a voňavý dárek s krásným symbolickým motivem anděla, který představuje štěstí, ochranu a pozitivní energii. Spojení jemného světla svíčky a porcelánové nádobky vytváří příjemnou atmosféru domova. Originální dárek pro vaše blízké k narozeninám, svátku, Vánocům nebo jednoduše jako milé přání štěstí.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260362-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260362.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260362</CODE>
-    <EAN>8595590737587</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - veselé Vánoce (klučina zdobí stromeček)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka a příjemné světlo svíčky pomohou vytvořit kouzelnou atmosféru tradičních Vánoc. Milá pozornost pro rodinu, přátele i všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260363</CODE>
-    <EAN>8595590737594</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - Štastné a Veselé</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Šťastné a veselé je elegantní vánoční svíčka v krásné porcelánové nádobce se svátečním motivem. Spojuje příjemnou vůni, jemné světlo plamínku a kouzlo tradičních Vánoc.…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Šťastné a veselé je elegantní vánoční svíčka v krásné porcelánové nádobce se svátečním motivem. Spojuje příjemnou vůni, jemné světlo plamínku a kouzlo tradičních Vánoc. Krásná vánoční dekorace i originální voňavý dárek pro rodinu, přátele a všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260364-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260364.png</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260364</CODE>
-    <EAN>8595590737600</EAN>
-    <CURRENCY>CZK</CURRENCY>
-    <VAT>21.00</VAT>
-    <PRICE_VAT>199.00</PRICE_VAT>
-    <VISIBILITY>visible</VISIBILITY>
-    <STOCK>
-      <AMOUNT>5</AMOUNT>
-    </STOCK>
-  </SHOPITEM>
-  <SHOPITEM>
-    <NAME>Vonná svíčka v porcelánu - krásné Vánoce (holčička s prskavkou)</NAME>
-    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla…&lt;/p&gt;</SHORT_DESCRIPTION>
-    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla plamínku a krásné porcelánové nádobky pomůže vytvořit útulnou sváteční atmosféru. Originální vánoční dárek pro rodinu, přátele i milovníky tradičních Vánoc.&lt;/p&gt;</DESCRIPTION>
-    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
-    <SUPPLIER>Bohemia Gifts</SUPPLIER>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
-    <CATEGORIES>
-      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
-      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
-    </CATEGORIES>
-    <IMAGES>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365-1.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365.png</IMAGE>
-      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
-    </IMAGES>
-    <CODE>BG-BC260365</CODE>
-    <EAN>8595590737617</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>199.00</PRICE_VAT>
@@ -63073,6 +62774,305 @@ Použití: Šňůra je vhodná k aranžování květinových vazeb nebo ikeban. 
     <VISIBILITY>showRegistered</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Tuhý šampon v plechovém obalu 80 g - gentleman</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Tuhý šampon ve stylové plechovce pro pravé gentlemany.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Tuhý šampon ve stylové plechovce pro pravé gentlemany.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Kosmetika a mýdla</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC220145-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/09/BC220145_tuhy_sampon.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2022/09/BC220145_tuhy_sampon_B.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC220145</CODE>
+    <EAN>8595590773066</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Kameninový podtácek 10x10cm - pro pivaře</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Kameninový podtácek pod skleničku nebo půllitr s pivem s nápisem Dobří lidé pijí dobré pivo. Břidlicová podložka pod hrnek, která ochrání stůl před zašpiněním a poškrábáním. Drobný dárek pro pivaře.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Kameninový podtácek pod skleničku nebo půllitr s pivem s nápisem Dobří lidé pijí dobré pivo. Břidlicová podložka pod hrnek, která ochrání stůl před zašpiněním a poškrábáním. Drobný dárek pro pivaře.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Hrnky, půllitry a placatky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC190259-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2020/09/BC190259-podtacek-pivo.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2019/10/BC190259_K_W.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC190259</CODE>
+    <EAN>8595590787414</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>49.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Dřevěný dárkový box s dekou pro maminku</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;Prodej osobám mladším 18 let je zakázán.&lt;/strong&gt; Před dokončením objednávky ověříme váš věk a zásilku nelze předat osobě mladší 18 let.&lt;/p&gt;&lt;p&gt;Luxusní dřevěný dárkový box pro maminku obsahuje hřejivou deku, skleněnou konvici na čaj, prosecco v plechu, čokoládu, marmeládu, interaktivní dárkový čaj, Giotto sušenky, keramický hrnek, dřevěný tulipán a patchwork ve tvaru srdce. Ideální dárek plný radosti a pohody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Daruj Bednu</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ADULT>1</ADULT>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</CATEGORY>
+      <CATEGORY>Pouze pro dospělé 18+</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Dárkové bedny a sady</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/da2e3f6b-bf6a-4be8-a1bd-681d640960d7.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_A_LQ.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_B_LQ.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/08/BC250088_C_LQ.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250088</CODE>
+    <EAN>8595590730915</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>2599.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Osvěžovač vzduchu 170 g - Kouzlo domova</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Kouzlo domova v každém kousku: Vytvořte si útulnou atmosféru s naším aroma difuzérem. Uvolněte příjemnou vůni, která promění váš domov.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;b&gt;Kouzlo domova v každém kousku:&lt;/b&gt; Vytvořte si útulnou atmosféru s naším aroma difuzérem. Uvolněte příjemnou vůni, která promění váš domov.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/11/BC250079-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/09/BC250079_1000x1000.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250079</CODE>
+    <EAN>8595590730823</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>89.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vánoční schránka s makronkami (4 ks) - paní učitelce</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka s nápisem „Paní učitelce“ skrývá 4 makronky s příchutěmi vanilka, matcha, lemon a jahoda. Sladký a milý dárek pro paní učitelku a originální vánoční ozdoba na stromeček.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vánoční poštovní schránka s nápisem „Paní učitelce“ skrývá 4 makronky s příchutěmi vanilka, matcha, lemon a jahoda. Sladký a milý dárek pro paní učitelku a originální vánoční ozdoba na stromeček.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/2bfa143a-340f-420a-b972-9735f235192f.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/BC250134_.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/10/makronky-2.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC250134</CODE>
+    <EAN>8595590731646</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>99.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Hrnek Santův dům s horkou čokoládkou, cukrátkem a marshmallows</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Sada „Santův dům“ zahrnuje hrnek s motivem vánoční chaloupky, horkou čokoládu, marshmallows a cukrovou hůlku. Perfektní dárek pro teplé a sladké chvíle během svátků.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Sada „Santův dům“ zahrnuje hrnek s motivem vánoční chaloupky, horkou čokoládu, marshmallows a cukrovou hůlku. Perfektní dárek pro teplé a sladké chvíle během svátků.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Becky´s</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Sladkosti</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Sladkosti</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/880046-vanoce-interier-1000x1000-1.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/santa_hrnek_svetylka.jpg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2025/11/santa_hrnek_3.jpg</IMAGE>
+    </IMAGES>
+    <CODE>BG-880046</CODE>
+    <EAN>8713305817892</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>12.00</VAT>
+    <PRICE_VAT>229.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - pro babičku</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Pro babičku je krásný a voňavý dárek, který spojuje příjemnou atmosféru svíčky s elegancí porcelánové nádobky. Milá pozornost pro babičku k narozeninám, svátku, Vánocům nebo jednoduše jako poděkování za její lásku a péči.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260360.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260360</CODE>
+    <EAN>8595590737563</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - Anděl štěstí</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Anděl štěstí je elegantní a voňavý dárek s krásným symbolickým motivem anděla, který představuje štěstí, ochranu a pozitivní energii. Spojení jemného světla svíčky a…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Anděl štěstí je elegantní a voňavý dárek s krásným symbolickým motivem anděla, který představuje štěstí, ochranu a pozitivní energii. Spojení jemného světla svíčky a porcelánové nádobky vytváří příjemnou atmosféru domova. Originální dárek pro vaše blízké k narozeninám, svátku, Vánocům nebo jednoduše jako milé přání štěstí.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260362-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260362.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260362</CODE>
+    <EAN>8595590737587</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - veselé Vánoce (klučina zdobí stromeček)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Veselé Vánoce (klučina zdobí stromeček) je krásný voňavý dárek s nostalgickým vánočním motivem malého chlapce, který zdobí vánoční stromeček. Elegantní porcelánová nádobka a příjemné světlo svíčky pomohou vytvořit kouzelnou atmosféru tradičních Vánoc. Milá pozornost pro rodinu, přátele i všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260363.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260363</CODE>
+    <EAN>8595590737594</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - Štastné a Veselé</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Šťastné a veselé je elegantní vánoční svíčka v krásné porcelánové nádobce se svátečním motivem. Spojuje příjemnou vůni, jemné světlo plamínku a kouzlo tradičních Vánoc.…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Šťastné a veselé je elegantní vánoční svíčka v krásné porcelánové nádobce se svátečním motivem. Spojuje příjemnou vůni, jemné světlo plamínku a kouzlo tradičních Vánoc. Krásná vánoční dekorace i originální voňavý dárek pro rodinu, přátele a všechny milovníky vánoční pohody.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260364-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260364.png</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260364</CODE>
+    <EAN>8595590737600</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vonná svíčka v porcelánu - krásné Vánoce (holčička s prskavkou)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla…&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Vonná svíčka v porcelánu – Krásné Vánoce (holčička s prskavkou) je elegantní vánoční svíčka s kouzelným nostalgickým motivem malé holčičky držící prskavku. Spojení příjemné vůně, jemného světla plamínku a krásné porcelánové nádobky pomůže vytvořit útulnou sváteční atmosféru. Originální vánoční dárek pro rodinu, přátele i milovníky tradičních Vánoc.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Bohemia Gifts</MANUFACTURER>
+    <SUPPLIER>Bohemia Gifts</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</CATEGORY>
+      <DEFAULT_CATEGORY>Dárky a dekorace &gt; Svíčky a vůně</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365-1.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/BC260365.png</IMAGE>
+      <IMAGE>https://bohemiagifts.cz/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-13-at-11.59.37.jpeg</IMAGE>
+    </IMAGES>
+    <CODE>BG-BC260365</CODE>
+    <EAN>8595590737617</EAN>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>199.00</PRICE_VAT>
+    <VISIBILITY>hidden</VISIBILITY>
+    <STOCK>
+      <AMOUNT>0</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
@@ -72030,7 +72030,7 @@ Záplatu nechte vytvrdnout 20 minut či dokud není zaschlá na dotyk a zabruste
       <DEFAULT_CATEGORY>Auto-moto &gt; Autochemie &gt; Čističe a odmašťovače</DEFAULT_CATEGORY>
     </CATEGORIES>
     <IMAGES>
-      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/BTS/B39.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/BTS/B39_new.jpg</IMAGE>
     </IMAGES>
     <CODE>AC-B39</CODE>
     <EAN>0047737000392</EAN>
@@ -105789,6 +105789,7 @@ Před použitím spray řádně protřepte. Ze vzdálenosti asi 20cm naneste ten
     <IMAGES>
       <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/Holts/GGB.jpg</IMAGE>
       <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/Holts/GGB_1.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/Holts/GGB_a.jpg</IMAGE>
     </IMAGES>
     <CODE>AC-GGB</CODE>
     <EAN>5010218325685</EAN>
@@ -118972,7 +118973,27 @@ Velmi praktické a rychlé řešení.&lt;/p&gt;
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
-    <NAME>Pasta na opravu a montáž výfuku (150 g)</NAME>
+    <NAME>Pasta na montáž výfuku (150 g)</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;Pasta pro dokonalé spojení dílů a uvolněných spojů výfukového systému.&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;Používá se pro dokonalé spojení nových dílů nebo při opravách uvolněných spojů výfukového systému. Není vhodný pro opravy prasklin a otvorů způsobených mechanicky či korozí. Odolává vibracím a vysokým teplotám.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Použití:&lt;/strong&gt; Před zahájením opravy musí být výfuk studený, zbavený koroze a mastnoty. Pastu aplikujte přímo z tuby na požadované místo. Pokud měníte celý díl, naneste pastu v&amp;nbsp;přiměřeném množství na příruby a utáhněte šroubové spoje. Po každé opravě nechte vytvrdnout přes noc.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Standardní věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UFI:&lt;/strong&gt; R300-D0AF-100D-2RU1&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+</DESCRIPTION>
     <MANUFACTURER>Holts</MANUFACTURER>
     <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -118981,14 +119002,17 @@ Velmi praktické a rychlé řešení.&lt;/p&gt;
       <CATEGORY>Auto-moto &gt; Autochemie &gt; Brzdy a výfuk</CATEGORY>
       <DEFAULT_CATEGORY>Auto-moto &gt; Autochemie &gt; Brzdy a výfuk</DEFAULT_CATEGORY>
     </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/Holts/FGP.jpg</IMAGE>
+    </IMAGES>
     <CODE>AC-FGP</CODE>
     <EAN>5010218330313</EAN>
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
-    <PRICE_VAT>110.00</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
+    <PRICE_VAT>126.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
     <STOCK>
-      <AMOUNT>0</AMOUNT>
+      <AMOUNT>5</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
@@ -127037,41 +127061,27 @@ Přetrvává-li podráždění očí: Vyhledejte lékařskou pomoc/ošetření.&
 
 &lt;p&gt;Prvotřídní vosk v&amp;nbsp;rozprašovači, vyvinutý na bázi polymerů oxidu křemičitého. Dokáže odstranit jemnou zažranou špínu a oxidaci, zároveň karoserii poskytuje sklokeramický film, který dodá vysoký zrcadlový lesk a zvýrazní barvy. Chrání před povětrnostními vlivy a UV zářením po dobu několika měsíců. Ideální pro častější používání po každém ručním či mechanickém mytí. Vyhnete se zdlouhavému nanášení, roztírání a leštění jako u klasických vosků na autolaky.&lt;/p&gt;
 
-&lt;p&gt;Použití:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Použití:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Před použitím řádně protřepte! Aplikujte na omyté, suché a vychladlé karoserie mimo přímé sluneční světlo. Postupujte po menších plochách, na které naneste tenkou souvislou vrstvu přípravku a nechte 1-2 minuty působit, poté rozleštěte čistou a suchou utěrkou z&amp;nbsp;mikrovlákna - doporučujeme&amp;nbsp;Super Shine - Leštící utěrka&amp;nbsp;. Pro docílení ještě vyššího lesku a ochrany autolaku můžete aplikaci po hodinové pauze zopakovat.&lt;/p&gt;
 
 
 
-&lt;p&gt;Standardní&amp;nbsp;věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Standardní&amp;nbsp;věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;P301 + P315 + P101&lt;/p&gt;
+&lt;p&gt;P301 + P315 + P101&amp;nbsp; PŘI POŽITÍ:&amp;nbsp;Okamžitě vyhledejte lékařskou pomoc/ošetření.&amp;nbsp;Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku.&lt;/p&gt;
 
-&lt;p&gt;PŘI POŽITÍ:&amp;nbsp;Okamžitě vyhledejte lékařskou pomoc/ošetření.&amp;nbsp;Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku.&lt;/p&gt;
+&lt;p&gt;P302 + P352&amp;nbsp; PŘI STYKU S KŮŽÍ: Omyjte velkým množstvím vody a mýdla.&lt;/p&gt;
 
-&lt;p&gt;P302 + P352&lt;/p&gt;
+&lt;p&gt;P305+P351+P338+P310&amp;nbsp; PŘI ZASAŽENÍ OČÍ: několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze snadno vyjmout. Pokračujte ve vyplachování. Okamžitě volejte lékaře.&lt;/p&gt;
 
-&lt;p&gt;PŘI STYKU S KŮŽÍ: Omyjte velkým množstvím vody a mýdla.&lt;/p&gt;
+&lt;p&gt;P331&amp;nbsp; NEVYVOLÁVEJTE zvracení.&lt;/p&gt;
 
-&lt;p&gt;P305+P351+P338+P310&lt;/p&gt;
+&lt;p&gt;P333 + P313&amp;nbsp; Při podráždění kůže nebo vyrážce: Vyhledejte lékařskou pomoc/ošetření.&lt;/p&gt;
 
-&lt;p&gt;PŘI ZASAŽENÍ OČÍ: několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze snadno vyjmout. Pokračujte ve vyplachování. Okamžitě volejte lékaře.&lt;/p&gt;
+&lt;p&gt;P362 + P364&amp;nbsp; Kontaminovaný oděv svlékněte a&amp;nbsp;před opětovným použitím vyperte.&lt;/p&gt;
 
-&lt;p&gt;P331&lt;/p&gt;
-
-&lt;p&gt;NEVYVOLÁVEJTE zvracení.&lt;/p&gt;
-
-&lt;p&gt;P333 + P313&lt;/p&gt;
-
-&lt;p&gt;Při podráždění kůže nebo vyrážce: Vyhledejte lékařskou pomoc/ošetření.&lt;/p&gt;
-
-&lt;p&gt;P362 + P364&lt;/p&gt;
-
-&lt;p&gt;Kontaminovaný oděv svlékněte a&amp;nbsp;před opětovným použitím vyperte.&lt;/p&gt;
-
-&lt;p&gt;P501&lt;/p&gt;
-
-&lt;p&gt;Odstraňte obsah/obal předáním oprávněné osobě k nakládání s odpady nebo vrácením dodavateli.&lt;/p&gt;</DESCRIPTION>
+&lt;p&gt;P501&amp;nbsp; Odstraňte obsah/obal předáním oprávněné osobě k nakládání s odpady nebo vrácením dodavateli.&lt;/p&gt;</DESCRIPTION>
     <MANUFACTURER>Formula 1</MANUFACTURER>
     <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
     <ITEM_TYPE>product</ITEM_TYPE>
@@ -127088,9 +127098,9 @@ Přetrvává-li podráždění očí: Vyhledejte lékařskou pomoc/ošetření.&
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>315.00</PRICE_VAT>
-    <VISIBILITY>hidden</VISIBILITY>
+    <VISIBILITY>visible</VISIBILITY>
     <STOCK>
-      <AMOUNT>0</AMOUNT>
+      <AMOUNT>5</AMOUNT>
     </STOCK>
   </SHOPITEM>
   <SHOPITEM>
@@ -131338,6 +131348,142 @@ Sada&amp;nbsp;2 kusů&amp;nbsp; je vhodná&amp;nbsp;pro obě sedadla.&lt;/p&gt;<
     <CURRENCY>CZK</CURRENCY>
     <VAT>21.00</VAT>
     <PRICE_VAT>182.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Autošampon s palmovým voskem Carnauba (946 ml) - SLEVA</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;SLEVA - VÝROBEK MÁ POŠKOZENÝ OBAL&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;POZOR: výrobek má poškozený obal!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Autošampon s palmovým voskem Carnauba. Koncentrovaný přípravek na odstranění veškerých povrchových nečistot jako zažraný prach, zbytky hmyzu, dehtové skvrny atd. z karoserie. Obsahuje nejkvalitnější brazilský palmový vosk, který navrací lesk a zároveň poskytuje autolaku ochranu po každém omytí.&lt;/p&gt;
+
+&lt;p&gt;Použití:&lt;/p&gt;
+
+&lt;p&gt;Aplikujte na vychladlé povrchy mimo přímé sluneční světlo. Proudem vody odstraňte největší hrubé nečistoty z karoserie. Šampon, který získáte přidáním 60 ml přípravku ke 4 litrům vody, nanášejte houbou či jemným kartáčem vždy na větší souvislou plochu, kterou před uschnutím opláchněte čistou vodou. Po omytí celé karoserie opláchnutí zopakujte a celý vůz otřete do sucha utěrkou z mikrovlákna (Super Dry - Sušící utěrka).&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Standardní věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;EUH 208&amp;nbsp; Obsahuje reakční směs: 5-chlor-2-methylisothiazol-3(2H)-on [číslo ES 247-500-7] a 2-methylisothiazol-3(2H) [číslo ES 220-239-6] (3:1). Může vyvolat alergickou reakci.&lt;br /&gt;
+H319&amp;nbsp; Způsobuje vážné podráždění očí.&lt;br /&gt;
+P101&amp;nbsp; Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku.&lt;br /&gt;
+P102&amp;nbsp; Uchovávejte mimo dosah dětí.&lt;br /&gt;
+P264&amp;nbsp; Po manipulaci důkladně omyjte ruce a zasažené části těla.&lt;br /&gt;
+P280&amp;nbsp; Používejte ochranné brýle.&lt;br /&gt;
+P305 + P351 + P338&amp;nbsp; PŘI ZASAŽENÍ OČÍ: několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze snadno vyjmout. Pokračujte ve vyplachování.&amp;nbsp;&lt;br /&gt;
+P337 + P313&amp;nbsp; Přetrvává-li podráždění očí: Vyhledejte lékařskou pomoc/ošetření.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" height="80" src="/images/Znaky/Nebezpečí!.jpg" width="80" /&gt;&lt;/p&gt;
+
+</DESCRIPTION>
+    <MANUFACTURER>Formula 1</MANUFACTURER>
+    <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Auto-moto &gt; Autokosmetika &gt; Mytí a šampony</CATEGORY>
+      <DEFAULT_CATEGORY>Auto-moto &gt; Autokosmetika &gt; Mytí a šampony</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/F1/615022.jpg</IMAGE>
+    </IMAGES>
+    <CODE>AC-615022_VYP</CODE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>242.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Vosk na pneumatiky a plasty (283 g) - SLEVA</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;SLEVA - VÝROBEK MÁ POŠKOZENÝ OBAL&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;POZOR: výrobek má poškozený obal!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Špičkový výrobek nové generace s obsahem silikonových polymerů. Lehce roztíratelný vosk navrací brilantní černý lesk pneumatikám, dokonale regeneruje také vybledlé černé plastové a gumové nárazníky, lemy a lišty a poskytuje jim dlouhotrvající ochranu před UV zářením a vlivy počasí. Odpuzuje vodu, chrání před vysycháním, zpuchřením a rozpraskáním materiálů.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Použití:&lt;/strong&gt; &amp;nbsp;Praktické provedení a nestékavý obsah přípravku umožňují přesné nanášení na požadované místo. Povrch důkladně očistěte, ideálně přípravkem Formula 1 Wheel &amp;amp; Tire Cleaner (615264), a nechte zcela oschnout. K aplikaci vosku použijte pěnovou houbičku, která se nachází pod víčkem. Nanášejte v rovnoměrné tenké vrstvě a nechte minimálně 2 minuty působit. Pro dokonalý výsledek můžete měkkou čistou utěrkou povrch lehce rozleštit.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Standardní věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;H315 &amp;nbsp; Dráždí kůži.&lt;br /&gt;
+H317 &amp;nbsp; Může vyvolat alergickou kožní reakci.&lt;br /&gt;
+H319 &amp;nbsp; Způsobuje vážné podráždění očí.&lt;br /&gt;
+P101 &amp;nbsp; Je-li nutná lékařská pomoc, mějte po ruce obal nebo štítek výrobku.&lt;br /&gt;
+P102 &amp;nbsp; Uchovávejte mimo dosah dětí.&lt;br /&gt;
+P280 &amp;nbsp; Používejte ochranné rukavice.&lt;br /&gt;
+P301 + P330 + P331 &amp;nbsp; PŘI POŽITÍ: Vypláchněte ústa. NEVYVOLÁVEJTE zvracení.&lt;br /&gt;
+P303 + P361 + P353 &amp;nbsp; PŘI STYKU S KŮŽÍ (nebo s vlasy): Veškeré kontaminované části oděvů okamžitě svlékněte. Opláchněte kůži vodou nebo osprchujte&lt;br /&gt;
+P305 + P351 + P338 &amp;nbsp; PŘI ZASAŽENÍ OČÍ: několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze snadno vyjmout. Pokračujte ve vyplachování.&amp;nbsp;&lt;br /&gt;
+P310 &amp;nbsp; Okamžitě volejte lékaře.&lt;br /&gt;
+P501 &amp;nbsp; Odstraňte obsah/obal předáním oprávněné osobě k nakládání s odpady nebo vrácením dodavateli.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img alt="" height="80" src="/images/Znaky/Nebezpečí!.jpg" width="80" /&gt;&lt;/strong&gt;&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Formula 1</MANUFACTURER>
+    <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Auto-moto &gt; Autokosmetika &gt; Vosky a leštěnky</CATEGORY>
+      <DEFAULT_CATEGORY>Auto-moto &gt; Autokosmetika &gt; Vosky a leštěnky</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248_b.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248_c.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248_d.jpg</IMAGE>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/V%C3%BDprodej/615248_new.jpg</IMAGE>
+    </IMAGES>
+    <CODE>AC-615248_VYP</CODE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>363.00</PRICE_VAT>
+    <VISIBILITY>visible</VISIBILITY>
+    <STOCK>
+      <AMOUNT>5</AMOUNT>
+    </STOCK>
+  </SHOPITEM>
+  <SHOPITEM>
+    <NAME>Ochrana a čistič kokpitu mechanický spray (295 ml) - SLEVA</NAME>
+    <SHORT_DESCRIPTION>&lt;p&gt;SLEVA - VÝROBEK MÁ POŠKOZENÝ OBAL&lt;/p&gt;</SHORT_DESCRIPTION>
+    <DESCRIPTION>&lt;p&gt;&lt;strong&gt;POZOR: výrobek má poškozený obal!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ochrana a čistič interieru a kokpitu (bez vůně) Špičkový výrobek vybavený mechanickým rozprašovačem. Oživuje, čistí a chrání vinyl, pryž, kůži a plast v interiéru automobilu. Dokáže pohltit nepříjemné pachy, dodává lesk bez zanechání mastného filmu. Přítomné unikátní polymerové částice s obsahem silikonu chrání před UV zářením a zabraňují vyblednutí a zpuchření materiálů.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Použití:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Před použitím řádně zatřepte! Naneste souvislý film přípravku na plochu, nechte několik minut působit a jemně otřete suchou tkaninou. Protectant můžete také aplikovat přímo na tkaninu a takto ošetřit menší či špatně dostupné partie. Nepoužívejte na látkové potahy, sklo a ovládací prvky automobilu.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Standardní věty o nebezpečnosti a pokyny pro bezpečné zacházení:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;P264 &amp;nbsp; Po manipulaci důkladně omyjte ruce a zasažené části těla.&lt;br /&gt;
+P280 &amp;nbsp; Používejte ochranné rukavice.&lt;br /&gt;
+P305 + P351 + P338 &amp;nbsp; PŘI ZASAŽENÍ OČÍ: několik minut opatrně vyplachujte vodou. Vyjměte kontaktní čočky, jsou-li nasazeny a pokud je lze snadno vyjmout. Pokračujte ve vyplachování.&amp;nbsp;&lt;br /&gt;
+P337 + P313 &amp;nbsp; Přetrvává-li podráždění očí: Vyhledejte lékařskou pomoc/ošetření.&lt;/p&gt;</DESCRIPTION>
+    <MANUFACTURER>Formula 1</MANUFACTURER>
+    <SUPPLIER>Automotochemie (Drive)</SUPPLIER>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+      <CATEGORY>Auto-moto &gt; Autokosmetika &gt; Péče o interiér</CATEGORY>
+      <DEFAULT_CATEGORY>Auto-moto &gt; Autokosmetika &gt; Péče o interiér</DEFAULT_CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+      <IMAGE>https://img.automotochemie.cz/images/Obr%C3%A1zky/F1/615006_n.jpg</IMAGE>
+    </IMAGES>
+    <CODE>AC-615006_VYP</CODE>
+    <CURRENCY>CZK</CURRENCY>
+    <VAT>21.00</VAT>
+    <PRICE_VAT>170.00</PRICE_VAT>
     <VISIBILITY>visible</VISIBILITY>
     <STOCK>
       <AMOUNT>5</AMOUNT>
